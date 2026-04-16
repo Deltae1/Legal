@@ -77,6 +77,17 @@
 
 ---
 
+## Discriminatory Assignment Records 🔴
+
+| Item | How to Get | Status |
+|---|---|---|
+| WETA scheduling records 2022–2024 | Subpoena WETA HR / production scheduling system | ⬜ Via litigation |
+| Nikki's assignment emails/schedules | Subpoena WETA email servers | ⬜ Via litigation |
+| **Names of white TDs assigned to TD work** | **Elvin to provide full list — PENDING** | ⬜ Elvin input needed |
+| Nikki (WETA scheduling coordinator) testimony | Deposition | ⬜ Via litigation |
+
+---
+
 ## Digital / Device Evidence
 
 | Item | Status | Action |

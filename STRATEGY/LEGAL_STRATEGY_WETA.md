@@ -31,20 +31,29 @@ This is critical context that reframes the entire WETA case. The reinstatement d
 ### Discriminatory Assignment — Audio vs. TD Role
 
 **What happened:**
-- Elvin was **hired as a Technical Director (TD)**
-- Despite being hired as a TD and being fully qualified, he was repeatedly assigned to **Audio** instead
+- Elvin was **hired as a Technical Director (TD)** — approximately 2022
+- For **two full years (2022–2024)**, despite being hired as a TD and being fully qualified, he was repeatedly assigned to **Audio** instead
 - Only white technicians were given TD assignments
 - Elvin was denied the opportunity to perform the role he was hired and qualified for
 
+**Scheduling system:**
+- All assignments were distributed via **written schedules**
+- Schedules were sent out by **Nikki** (WETA scheduling coordinator)
+- This means **two years of discriminatory assignment are fully documented in writing**
+- Every schedule showing white TDs assigned to TD work while Elvin was assigned to Audio is discoverable
+- Nikki is a key witness — she sent the schedules and may have knowledge of who directed the assignments
+
+**White TDs who received assignments Elvin was denied:** *(to be listed by Elvin — names to be added)*
+
 **Legal significance:**
+- Two years of written scheduling records = documentary proof of the discriminatory pattern
+- Nikki's schedules are a paper trail that WETA cannot deny
+- Assignment records are subpoenable — WETA HR and production scheduling systems will have every shift going back to 2022
 - This is **discriminatory job assignment** — a form of race discrimination under Title VII and DCHRA
 - Denial of opportunity to perform your job title while white colleagues perform it = adverse employment action
-- This pattern predates the hostile environment escalation — it shows the discrimination was structural and ongoing, not a reaction to any specific event
+- This pattern predates the hostile environment escalation — it shows the discrimination was structural and ongoing
 
-**Protected characteristics at play:**
-- Race (Black)
-- National origin (immigrant descent)
-- Age (youngest TD) — potential age discrimination angle if relevant
+**Action:** Elvin to provide full list of white TD names who received TD assignments during 2022–2024. These individuals become comparators for the discriminatory assignment claim — same role, same employer, different treatment based on race.
 
 ### Pattern Evidence — What It Proves
 
