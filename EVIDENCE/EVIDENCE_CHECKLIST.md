@@ -4,7 +4,18 @@
 
 ---
 
-## In Kobe's Possession ✅
+### Evidence In Elvin's Possession RIGHT NOW — Back Up Immediately 🔴
+
+| Item | What it proves | Action |
+|---|---|---|
+| **Nikki's text messages** (scheduling, 2022–2024) | 2 years of assignment records showing pattern — Elvin on Audio while others on TD | Screenshot entire thread → email to personal Gmail NOW |
+| **WETA scheduling group text thread** | Group-visible assignments — Brian/Steve/Jay as TD, Elvin as Audio, week after week | Screenshot entire thread → email to personal Gmail NOW |
+| **Scheduling emails** (WETA email → personal or phone) | Same pattern in email form — detailed assignment records | Forward ALL to personal Gmail NOW |
+| **Nikki's personal text around promotion day** | Connects Nikki to the trigger event | Screenshot → email to self NOW |
+
+**Do this before anything else. These are already in your possession. You cannot lose them.**
+
+
 
 | Item | Notes | Action Needed |
 |---|---|---|
