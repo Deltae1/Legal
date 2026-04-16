@@ -50,7 +50,12 @@ This is critical context that reframes the entire WETA case. The reinstatement d
 
 These three are named comparators for the discriminatory assignment claim. All three received the TD assignments Elvin was hired for and qualified to perform. Their full names and assignment histories are subpoenable via WETA scheduling records and Nikki's distribution emails.
 
-**Action:** Elvin to provide last names if known. First names alone are sufficient to identify them through WETA HR and scheduling records in discovery.
+**Chain of command for TD assignments:**
+- **Jim Schnider** — Director of Operations (ultimate decision-maker, Heather reported to him)
+- **Heather** — Tech Production Manager (day-to-day assignment decisions, reported to Schnider)
+- **Nikki** — Scheduling coordinator (executed and distributed assignments in writing)
+
+**Significance:** Heather controlled who got TD assignments and who got Audio. She reported directly to Schnider. When Heather was promoted in early 2024, Schnider sent the email signaling Kobe's standing had changed — confirming Schnider was aware of and sanctioned the assignment discrimination throughout. The discrimination ran from the top down through a documented management chain, all of it in writing via Nikki's schedules.
 
 **Legal significance:**
 - Two years of written scheduling records = documentary proof of the discriminatory pattern
