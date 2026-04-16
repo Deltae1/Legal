@@ -38,7 +38,7 @@
 | Resignation letters (WETA + VOA) | Check personal files; FOIA if needed | ASAP | ⬜ Not done |
 | White comparator — **Anthony DeRubio** | Resigned December 2023, reinstated March 2024 (~3 months, voluntary). **Jim Schnider approved DeRubio's return AND denied Kobe's reinstatement — same decision-maker confirmed.** Schnider also removed Kobe from WETA email server when Kobe followed up. | Discovery (WETA HR + email servers) | ✅ Fully documented |
 | Security office meeting — full written account | Write from memory NOW | This week | ⬜ Not done |
-| Ashley (Jenkins Row) written statement | In person — go to building manager | This week | ⬜ Not done |
+| Ashley (Jenkins Row) written statement | **Two purposes:** (1) housing discrimination witness AND (2) potential witness to federal surveillance vehicles outside Jenkins Row mid-April 2024 — building managers notice unusual vehicles; ask about both | This week | ⬜ Not done |
 | The Roost staff written statements | In person | This week | ⬜ Not done |
 | Bank records (Nairobi card declines) | Call bank customer service | This month | ⬜ Not done |
 | Alex Rodriguez location | Last known: 300 New Jersey Ave NW / 240 M St SW DC | This month | ⬜ Not done |
