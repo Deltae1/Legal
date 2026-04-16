@@ -6,17 +6,16 @@
 
 ### Evidence In Elvin's Possession RIGHT NOW — Back Up Immediately 🔴
 
-| Item | What it proves | Action |
+| Item | What it proves | Status |
 |---|---|---|
-| **Nikki's text messages** (scheduling, 2022–2024) | 2 years of assignment records showing pattern — Elvin on Audio while others on TD | Screenshot entire thread → email to personal Gmail NOW |
-| **WETA scheduling group text thread** | Group-visible assignments — Brian/Steve/Jay as TD, Elvin as Audio, week after week | Screenshot entire thread → email to personal Gmail NOW |
-
-**Scheduling emails** — NOT in Elvin's possession. On WETA servers. Obtain via:
-- Litigation subpoena to WETA (primary path)
-- FOIA does not apply (WETA is private) — discovery only
-- Any former WETA colleague who retained copies is a secondary source
-
-**Do the text screenshots before anything else. Already in your hands. Cannot be taken from you.**
+| GWH medical records (June 2024) | Hospitalization directly caused by workplace conditions | ✅ Have |
+| Reasonable accommodation approval | Employer acknowledged qualifying condition | ✅ Have |
+| Text messages with L'Enfant Plaza attorney | State of mind, legal consultation mid-2024 | ✅ Have |
+| Therapist records | Work-related trauma, ongoing harm | ✅ Have (authorization needed to release) |
+| **Nikki's text messages (scheduling, 2022–2024)** | 2 years of discriminatory assignment records | ✅ Screenshots taken |
+| **WETA scheduling group text thread** | Pattern of TD vs Audio assignments week by week | ✅ Screenshots taken |
+| **VOA Exceptional Award documentation** | Only employee in dept to win 3 consecutive years; supervisor-rated; monetary compensation | ✅ Available — back up now |
+| **Letter of recommendation from former VOA supervisor** | Former supervisor speaks of Elvin with great care — directly contradicts any performance or conduct defense | ✅ Have — photograph and back up NOW |
 
 
 
