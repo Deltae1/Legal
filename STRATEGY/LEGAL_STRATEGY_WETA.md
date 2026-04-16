@@ -54,16 +54,30 @@ The DCHRA has a lower burden of proof than Title VII in some respects and allows
 
 **Jim Schnider approved DeRubio's return and denied Kobe's — same person, same role, radically different outcomes based on race.**
 
-Additional act by Schnider: **removed Kobe from the WETA email server within days or weeks of his resignation** when Kobe attempted to follow up about reinstatement. This is not routine administrative offboarding — the timing (days/weeks, not immediate) shows it was a deliberate responsive act to cut off communication and block the reinstatement request. This strengthens both the retaliation and disparate treatment claims.
+**Exact Sequence — Critical:**
+1. Elvin contacted Jim Schnider via **Microsoft Teams** to follow up on reinstatement
+2. **Same day** — Elvin was locked out of all WETA systems (email + Teams)
+3. The lockout was a direct, same-day response to the Teams contact — not routine offboarding
+
+**Why this is powerful:**
+- Microsoft Teams logs show exactly when Elvin's message was sent to Schnider
+- Active Directory / IT logs show exactly when access was revoked
+- The timestamps will show these events occurred on the same day
+- Schnider received the reinstatement request and immediately terminated all access
+- This is deliberate, documented, and discoverable down to the minute
+
+**IT Records to subpoena:**
+- Microsoft Teams message logs (Elvin → Schnider, exact date + content)
+- Active Directory deprovisioning log (exact date/time account was disabled)
+- Who initiated the deprovisioning (Schnider directly, or HR on his instruction?)
 
 **Email Access Removal — Dual Legal Significance:**
+1. **Retaliation** — lockout occurred same day as Teams reinstatement message to Schnider
+2. **Spoliation of evidence** — Elvin lost access to his own work communications the same day he tried to return. WETA had reason to anticipate litigation. Making relevant communications inaccessible after a litigation trigger is spoliation.
 
-1. **Retaliation** — removal occurred within days/weeks of resignation, in response to reinstatement follow-up
-2. **Spoliation of evidence** — Kobe attempted to retrieve his work emails after removal and could not access them. WETA had reason to anticipate litigation (constructive discharge + reinstatement denial). Destroying or making inaccessible relevant communications after a litigation trigger is spoliation.
+**Spoliation remedy:** Courts can issue an adverse inference instruction to the jury — *"WETA made evidence inaccessible. You may assume that evidence would have supported Elvin's claims."* This is a significant litigation weapon.
 
-**Spoliation remedy:** Courts can issue an adverse inference instruction to the jury — "WETA made evidence inaccessible. You may assume that evidence would have supported Elvin's claims." This is a significant litigation weapon.
-
-**Action for attorney:** Send a **litigation hold letter** to WETA immediately upon retention. This formally notifies WETA that litigation is anticipated and that all relevant records (emails, HR files, IT logs, access logs) must be preserved. Any destruction after receipt of the hold letter is sanctionable.
+**Action for attorney:** Send a **litigation hold letter** to WETA immediately upon retention. This formally notifies WETA that all relevant records (Teams logs, email, HR files, IT/AD logs, badge access records) must be preserved. Any destruction after receipt is sanctionable.
 
 This is a textbook DCHRA disparate treatment case. An attorney will recognize this immediately.
 
