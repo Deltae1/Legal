@@ -34,7 +34,38 @@
 
 ---
 
-## Early 2024 — Things Go South
+## Key Admissions & Statements — Critical Evidence
+
+### Gary (VOA Management Colleague) — Funding Comment
+- **Who:** Gary — colleague in VOA management
+- **What he said:** Something along the lines of *"we needed to get our funding"* — referencing congressional funding for USAGM/VOA
+- **Context:** Said during the period of targeting at VOA
+- **Legal significance:**
+  - Suggests management-level awareness that the pressure campaign against Elvin was connected to broader organizational/political interests
+  - "Getting our funding" from Congress in the context of the contract pressure campaign implies the scheme had institutional backing, not just individual actors
+  - Gary is a potential witness — his statement shows management-level knowledge of what was happening
+  - If the contract pressure was designed to manufacture results that would support congressional funding arguments, that adds a corrupt purpose to the entrapment scheme
+- **Action:** Document everything Gary said as precisely as possible — exact words, setting, who else was present, approximate date
+
+### Amanda Bennett (USAGM Director) — "Sorry About That"
+- **Who:** Amanda Bennett, Director of USAGM
+- **What she said:** *"Sorry about that"* — said in passing
+- **Context:** Timing and exact circumstances to be documented by Elvin
+- **Legal significance:**
+  - An unprompted apology from the Director of USAGM is potentially an **admission against interest**
+  - Admissions by a party's agent (here, the head of the agency) are admissible as evidence
+  - "Sorry about that" from someone in her position suggests awareness that something improper had occurred involving Elvin
+  - Combined with her broadcast email encouraging employees to come forward, this shows she had knowledge of the situation
+  - Even a casual statement in passing from a director carries significant weight
+- **Critical questions to document:**
+  - When exactly did she say this — before or after resignation?
+  - What were the exact circumstances — hallway, after a meeting, in passing?
+  - What had just happened immediately before she said it?
+  - Was anyone else present who heard it?
+  - Did she say anything else?
+- **Action:** Write down the exact words, location, date (approximate), and any witnesses immediately
+
+
 
 ### ROTV Automation Upgrade Project
 - Elvin was serving as **lead** on the ROTV automation upgrade
