@@ -171,12 +171,33 @@
 - Also spoke to **another female officer** (name TBD)
 - Eventually arranged a **Teams meeting** with the Security Director
 
-### Step 6 — Teams Meeting with Security Director
-- The Security Director in the Teams meeting was the **same individual** Elvin had seen standing outside watching him two days in a row
-- This is a direct link: the person who had been surveilling Elvin became the person who recruited him as a CI
-- **Verbal CI designation** — head of USAGM Security verbally designated Elvin as a Confidential Informant
-- **No written documentation provided** — unusual, suspicious, and leaves Elvin with no formal record of the agreement or any protections
-- No written agreement = no formal whistleblower protections attached to the CI role
+### Step 6 — Teams Meeting with Security Director — Full Account
+
+**The Security Director in the Teams meeting was the same individual Elvin had seen standing outside watching him two days in a row.**
+
+**What was said:**
+
+Elvin opened: *"You're probably aware already, but it seems there are protests going on in the building."*
+
+Security Director pushed back: *"No I don't — what do you mean?"*
+
+— He denied awareness despite having been conducting visible surveillance of Elvin for two days prior —
+
+Elvin then explained: He had noticed the Security Director and other security personnel as he came into the building. Knowing what was taking place, he thought he should talk to them and let them know: **he knew what was happening but he was not involved.**
+
+**Legal significance of this exchange:**
+- The Security Director feigned ignorance despite actively surveilling Elvin — this is deceptive conduct by a federal official in an official meeting
+- Elvin's statement — "I know what's happening but I'm not involved" — is a clear, voluntary declaration of non-involvement made directly to federal security
+- This statement preempts any later attempt to characterize Elvin as a participant in the labor disruptions
+- The Security Director's denial of awareness is provably false — he had been physically present watching Elvin at building entry — and that false denial is on record in the Teams meeting
+- Teams meetings may have metadata (participants, timestamp, duration) recoverable via USAGM IT records and FOIA
+- The meeting itself was recorded in Elvin's memory contemporaneously — write a full account from memory now while details are fresh
+
+**What followed:**
+- Security Director verbally designated Elvin as a Confidential Informant
+- No written agreement provided
+- No formal whistleblower protections attached
+- Conditions deteriorated after this meeting
 
 ### Legal Significance of the Full Sequence
 - The Security Director was already watching Elvin before Elvin came forward — establishing that Elvin was a pre-identified target, not a volunteer
