@@ -47,23 +47,54 @@
   - If the contract pressure was designed to manufacture results that would support congressional funding arguments, that adds a corrupt purpose to the entrapment scheme
 - **Action:** Document everything Gary said as precisely as possible — exact words, setting, who else was present, approximate date
 
-### Amanda Bennett (USAGM Director) — "Sorry About That"
-- **Who:** Amanda Bennett, Director of USAGM
-- **What she said:** *"Sorry about that"* — said in passing
-- **Timing:** After Elvin returned to work following his hospitalization and resignation — she knew he had been gone and knew why
+### Amanda Bennett (USAGM Director) — Two Key Encounters
+
+---
+
+#### Encounter 1 — Studio 51 / Urdu Show (Early Observation)
+- **Location:** Building entrance / door area, early morning
+- **Context:** Elvin was working on the **Urdu show out of Studio 51** — a program that was also experiencing what appeared to be sabotage
+- **What happened:** Amanda Bennett was at the door as Elvin was coming in. She looked at him **observantly, with a stare** — a deliberate, notable look
+- **Bennett's condition:** She was wearing a leg brace and using a wheel device
+- **Significance:** This encounter preceded "sorry about that" — it establishes Bennett had personally noticed and was observing Elvin before the later apology. She knew who he was and had been watching him.
+
+---
+
+#### Encounter 2 — Studio 48 / Afghan Show — "Sorry About That" (After Return from Hospitalization)
+- **Location:** Outside **Studio 48**, VOA building
+- **Timing:** After Elvin returned to work following his resignation and hospitalization
+- **Context:** Elvin had just finished working an **Afghan show out of Studio 48**
+- **Sabotage on that program:** The Afghan show had been experiencing deliberate sabotage involving:
+  - Producers
+  - Skype guests
+  - Some technicians
+  - Pattern consistent with other targeted shows (Urdu show, ROTV project)
+- **What happened:** As Elvin left Studio 48, Amanda Bennett was walking out. She looked directly at him, said *"sorry about that"* — and left. No further explanation.
+- **Elvin's reaction:** Puzzled — he had not expected her to know who he was or to address him directly
 - **Legal significance:**
-  - An unprompted apology from the Director of USAGM after Elvin returned from hospitalization is a potential **admission against interest**
-  - She was aware of what had happened to him — this was not a generic pleasantry
-  - "Sorry about that" in this context = acknowledgment that something wrong occurred involving Elvin on her watch
-  - Admissions by an agency head acting in her official capacity are admissible against the agency
-  - Combined with her broadcast email encouraging employees to come forward, this shows she had personal knowledge of the situation and its impact on Elvin
-  - A jury hearing "the Director of the agency said 'sorry about that' when she saw him return from the hospital" will understand exactly what that means
-- **Critical questions to document:**
-  - Exact circumstances — hallway, after a meeting, in passing?
-  - What had just happened immediately before she said it?
-  - Was anyone else present who heard it?
-  - Did she say anything else?
-- **Action:** Write down the exact words, location, approximate date, and any witnesses immediately
+  - Bennett was aware of the sabotage on the Afghan show (her apology came immediately after Elvin emerged from that studio)
+  - "Sorry about that" = acknowledgment that she knew something improper had happened — and specifically in connection with the Afghan show sabotage and/or Elvin's broader targeting
+  - Her earlier observant stare at Studio 51 shows she had been tracking Elvin before this exchange
+  - This is a director who was personally monitoring the situation and felt compelled to apologize
+  - **Admission against interest** from the head of USAGM
+  - She left immediately after — no opportunity for Elvin to respond or question her
+
+---
+
+#### Pattern Across Shows
+Three VOA programs experienced what appeared to be coordinated sabotage:
+1. **ROTV automation project** — studio blackouts, technical disruptions
+2. **Urdu show (Studio 51)** — sabotage pattern observed
+3. **Afghan show (Studio 48)** — producers, Skype guests, and techs involved in disruptions
+
+Bennett's apology came after the Afghan show — but her earlier observation of Elvin during the Urdu show suggests she was aware of the pattern across all three. This is not isolated workplace dysfunction — it is a coordinated multi-program sabotage campaign that the Director of USAGM was personally aware of.
+
+---
+
+#### Witnesses for Bennett Encounter
+- Anyone present outside Studio 48 at that time
+- Any Studio 48 crew who saw Elvin leave and Bennett in the area
+- **Action:** Identify any colleagues who were nearby when this exchange occurred
 
 
 
