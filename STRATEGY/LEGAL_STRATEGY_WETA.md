@@ -56,11 +56,14 @@ The DCHRA has a lower burden of proof than Title VII in some respects and allows
 
 Additional act by Schnider: **removed Kobe from the WETA email server within days or weeks of his resignation** when Kobe attempted to follow up about reinstatement. This is not routine administrative offboarding — the timing (days/weeks, not immediate) shows it was a deliberate responsive act to cut off communication and block the reinstatement request. This strengthens both the retaliation and disparate treatment claims.
 
-**Timeline of Schnider's actions:**
-1. Early 2024 — sent email signaling change in Kobe's standing (hostile environment begins)
-2. June 2024 — denied Kobe's reinstatement request
-3. June 2024 (within days/weeks) — removed Kobe from WETA email server after reinstatement follow-up
-4. Contrast: December 2023/March 2024 — approved DeRubio's reinstatement without issue
+**Email Access Removal — Dual Legal Significance:**
+
+1. **Retaliation** — removal occurred within days/weeks of resignation, in response to reinstatement follow-up
+2. **Spoliation of evidence** — Kobe attempted to retrieve his work emails after removal and could not access them. WETA had reason to anticipate litigation (constructive discharge + reinstatement denial). Destroying or making inaccessible relevant communications after a litigation trigger is spoliation.
+
+**Spoliation remedy:** Courts can issue an adverse inference instruction to the jury — "WETA made evidence inaccessible. You may assume that evidence would have supported Elvin's claims." This is a significant litigation weapon.
+
+**Action for attorney:** Send a **litigation hold letter** to WETA immediately upon retention. This formally notifies WETA that litigation is anticipated and that all relevant records (emails, HR files, IT logs, access logs) must be preserved. Any destruction after receipt of the hold letter is sanctionable.
 
 This is a textbook DCHRA disparate treatment case. An attorney will recognize this immediately.
 
