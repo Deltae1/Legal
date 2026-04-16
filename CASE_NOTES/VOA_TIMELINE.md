@@ -140,23 +140,47 @@
 
 ---
 
-## Mid-2024 — Security Office Contact & CI Designation
+## Mid-2024 — Surveillance, Security Office Contact & CI Designation
 
-### Legal Consultation
-- Elvin consulted a private attorney at L'Enfant Plaza
+### Step 1 — Anomalies Noticed
+- Elvin began noticing anomalies in programming during his work
+- Realized he was being monitored
+
+### Step 2 — External Surveillance
+- On his way out of VOA, began seeing **federal vehicles** in the area
+- Noticed similar surveillance activity near his **residence**
+- Pattern was deliberate and sustained
+
+### Step 3 — Security Director Appearances (Pre-Contact)
+- Saw the **Director of USAGM Security** two days in a row, right as Elvin walked into the building
+- These encounters were clearly intentional — at the height of the labor conflict
+- **Critical:** The Security Director was already aware of Elvin and making contact BEFORE Elvin ever reached out to security
+- This inverts the narrative: Elvin did not come to them cold — they had already identified him
+
+### Step 4 — Legal Consultation
+- Elvin reached out to a private attorney at **L'Enfant Plaza**
 - Attorney advised whistleblowers are typically punished, not rewarded
 - Text message records with attorney available
 
-### USAGM Security Office Contact
+### Step 5 — Security Office Contact
 - Despite legal advice, Elvin reached out to USAGM Security
-- **Officer Shea** — first contact, directed Elvin to second female officer
-- **Second female officer** — name TBD via discovery
-- **Head of USAGM Security Department** — final meeting; verbally designated Elvin as Confidential Informant (CI)
-- No written documentation of CI designation provided — unusual and suspicious
+- Initial contact: **Officer Shea** — spoke to Shea from the **bagging area** (building entry/security checkpoint area)
+- Also spoke to **another female officer** (name TBD)
+- Eventually arranged a **Teams meeting** with the Security Director
 
-### Post-CI Designation
-- Conditions at work deteriorated significantly
-- Contract pressure campaign began
+### Step 6 — Teams Meeting with Security Director
+- The Security Director in the Teams meeting was the **same individual** Elvin had seen standing outside watching him two days in a row
+- This is a direct link: the person who had been surveilling Elvin became the person who recruited him as a CI
+- **Verbal CI designation** — head of USAGM Security verbally designated Elvin as a Confidential Informant
+- **No written documentation provided** — unusual, suspicious, and leaves Elvin with no formal record of the agreement or any protections
+- No written agreement = no formal whistleblower protections attached to the CI role
+
+### Legal Significance of the Full Sequence
+- The Security Director was already watching Elvin before Elvin came forward — establishing that Elvin was a pre-identified target, not a volunteer
+- The same person conducting pre-contact surveillance then ran the CI recruitment meeting — this is a closed loop
+- No written CI documentation = USAGM can deny the designation existed while Elvin received none of the protections a formal CI would have
+- Federal cars near his residence + surveillance at building entry = potential Bivens claim (constitutional violation by federal agents)
+- The attorney consultation text records establish Elvin's state of mind and the pressure he was under before coming forward
 
 ---
 
