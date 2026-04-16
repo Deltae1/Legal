@@ -81,26 +81,29 @@
 
 ---
 
-#### Pattern Across Shows — Key Realization
-Three VOA programs experienced what appeared to be coordinated sabotage:
-1. **ROTV automation project** — studio blackouts, technical disruptions
-2. **Urdu show (Studio 51)** — sabotage pattern observed
-3. **Afghan show (Studio 48)** — producers, automation directors, Skype guests, and talent involved in disruptions
+#### Clarification — Nature of the Sabotage
 
-**Critical insight (Elvin's own assessment):**
-The sabotage across these programs was not about the programs themselves. Elvin was the common thread. The sabotage followed him across different shows with different crews — producers, automation directors, talent — who would not normally be connected.
+**The sabotage was real but pre-existing — rooted in labor disputes, not created in reaction to Elvin.**
 
-**What the sabotage was actually about:**
-- Creating situations where Elvin would be forced to either speak up (making him a visible target) or stay silent (creating the appearance of complicity)
-- Manufacturing pressure points that could be used as leverage
-- The goal was not to disrupt the broadcasts — it was to put Elvin in impossible positions repeatedly
-- This is consistent with the broader CI recruitment and contract entrapment scheme — a sustained pressure campaign, not isolated workplace dysfunction
+**Background labor conflicts at VOA:**
+- **RBT Union** — unresolved jurisdiction contract dispute with management; management refused to address it
+- **Studio conversions** — management began converting radio studios (Studios 56, 57) to automation TV studios without resolving union jurisdiction — directly triggering union resistance
+- **FTE employees** — actively working against automation to protect their jobs and jurisdiction
+- **Contractors** — fighting management for benefits and raises
+- **Result:** A live, multi-party labor war involving union, FTE staff, contractors, and management simultaneously
 
-**Why this matters legally:**
-- The multi-show pattern eliminates coincidence as an explanation
-- Different crews across different programs = coordination at a level above the individual shows
-- Bennett's awareness (her stare at Studio 51, her apology after Studio 48) confirms director-level knowledge of what was happening to Elvin across programs
-- This supports the broader conspiracy/coordinated targeting theory
+**What this means for Elvin's situation:**
+- Elvin was assigned to lead the ROTV automation project — placing him directly at the center of the FTE vs. automation conflict
+- His role put him in an impossible position: doing the work that FTE employees were actively sabotaging
+- He was not the cause of the sabotage — he was placed into it deliberately
+- When he discovered technical anomalies through his work, he was then pressured to come forward — making him a pressure point between labor conflict and management interests
+- The CI recruitment followed directly from this: management wanted someone on the inside of the labor conflict to report back
+
+**Legal significance:**
+- This context explains why Elvin was targeted: he was placed at the intersection of a labor dispute specifically because he was not a union FTE — he was more controllable
+- It also explains why the pressure to report was so intense: management had a direct interest in using Elvin to gain intelligence on the labor dispute
+- The CI recruitment was not incidental — it was a predictable consequence of placing Elvin in that role
+- USAGM's failure to disclose the labor conflict context to Elvin when assigning him to the automation project is itself a form of institutional bad faith
 
 ---
 
