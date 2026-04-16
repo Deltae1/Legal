@@ -189,12 +189,33 @@ Security Director then said: *"Ok, tell me what's happening."*
 
 Elvin explained: There are active protests going on. People are coming in and don't want to make things work — doing things to affect productions.
 
+Security Director asked: *"How is this happening?"*
+
+Elvin gave one example: *"For instance, Jamie is an experienced producer — very capable of having good shows. But since the system upgrades he's been having technical problems on his show that don't seem to be real technical issues."*
+
+Security Director responded: *"Okay, well — you're going to be our CI."*
+
+**Elvin's response — explicit objection:** *"I don't want to get involved. I just wanted to come and do my job."*
+
+**The CI designation was made over Elvin's explicit objection.**
+
+---
+
 **What this exchange reveals:**
 - The Security Director used a classic intelligence interview technique: deny knowledge → get subject to explain everything → extract information without revealing what you already know
-- He already knew about the labor conflict (he was running surveillance on Elvin during it)
-- He feigned ignorance to get Elvin to lay out everything he knew, unprompted
-- Elvin cooperated fully and in good faith — he was trying to do the right thing
-- This is how Elvin became a de facto informant: he voluntarily disclosed what he knew to a federal official who was actively soliciting that information under false pretenses (pretending not to know)
+- After a single example from Elvin, the Director immediately designated him as a CI
+- Elvin **explicitly stated he did not want to get involved** — the designation was imposed over his direct objection
+- There was no voluntary agreement — Elvin was conscripted, not recruited
+- No written agreement, no formal protections, no explanation of what CI status meant or entailed
+- Elvin was never told what obligations or risks came with the designation
+- This was not informed consent — it was a unilateral imposition by a federal official
+
+**Legal significance:**
+- A CI designation imposed over an explicit objection, with no written agreement and no protections, is not a lawful or ethical intelligence recruitment
+- Elvin's objection ("I don't want to get involved") is a clear on-record statement that he never consented to the role
+- Any subsequent retaliation or harm flowing from this involuntary CI designation is attributable to USAGM
+- This supports claims of: coercion, failure to protect a cooperating witness, and retaliatory constructive discharge after an unwanted CI role was imposed
+- Jamie (the producer) is a named individual Elvin identified to security — he is a potential witness and his show's technical logs are discoverable
 
 **Legal significance of this exchange:**
 - The Security Director feigned ignorance despite actively surveilling Elvin — this is deceptive conduct by a federal official in an official meeting
