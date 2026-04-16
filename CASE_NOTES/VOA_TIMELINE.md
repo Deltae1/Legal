@@ -152,7 +152,7 @@
 - Mix of marked + unmarked = coordinated multi-unit surveillance operation, not incidental presence
 - Noticed similar surveillance activity near his **residence**
 - Pattern was deliberate and sustained
-- **Approximate timing:** TBD — confirm month (early 2024, spring, or closer to June resignation)
+- **Timing: mid-April 2024** — approximately 6 weeks before resignation in June 2024
 
 ### Step 3 — Security Director Appearances (Pre-Contact)
 - Saw the **Director of USAGM Security** two days in a row, right as Elvin walked into the building
