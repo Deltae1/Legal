@@ -16,21 +16,30 @@
 
 ### VOA Exceptional Award — THREE CONSECUTIVE YEARS
 - Elvin received VOA's **highest performance award** for 2020, 2021, 2022, and 2023
-- This is the organization's top recognition for outstanding contribution
+- Award included **monetary compensation** — not honorary, a paid performance recognition
+- Award was based on **formal performance evaluation across 4 areas:**
+  - Self-rating component
+  - Supervisor rating component
+  - (2 additional areas — confirm exact categories)
+- This means Elvin's **supervisors formally rated him at the highest level** for three consecutive years
 - John Lipman emailed specifically recognizing Elvin's contributions to the ROTV project
 
 **Legal significance:**
 - Completely demolishes any suggestion that Elvin's 2024 difficulties were performance-related
-- Establishes he was a model employee targeted despite — not because of — his work
-- Three consecutive years of top awards = clear documentation that the hostile environment in 2024 was externally imposed, not caused by any failing on Elvin's part
-- Strengthens constructive discharge claim: the only thing that changed between 2023 and 2024 was the targeting campaign, not Elvin's performance
+- His own supervisors rated him at the top level — in writing, through a formal HR process — for three consecutive years
+- The same management chain that later created a hostile environment had previously certified his excellence through a documented, paid award process
+- Three consecutive supervisor-rated top awards = the hostile environment in 2024 was externally imposed, not caused by any failing on Elvin's part
+- Strengthens constructive discharge: the only thing that changed between 2023 and 2024 was the targeting campaign
+- **Supervisor ratings are on file with USAGM HR** — fully subpoenable and cannot be denied
 
 **Evidence:**
-- VOA award records (formal documentation — subpoenable)
-- John Lipman emails recognizing ROTV contributions (VOA email servers — subpoenable)
-- Any physical award certificates or letters Elvin retained
+- VOA formal award records including supervisor ratings (USAGM HR — subpoenable)
+- Monetary payment records (payroll — subpoenable)
+- Performance evaluation documents for 2020, 2021, 2022, 2023 (4 years of formal ratings)
+- John Lipman emails recognizing ROTV contributions (VOA email servers)
+- Any physical award certificates, letters, or notifications Elvin retained
 
-**Action:** Locate any physical award documentation, certificates, or letters. Check personal files and email. These are immediately usable without litigation.
+**Action:** Locate any physical award documentation, certificates, payment records, or notification emails. These are immediately usable without litigation.
 
 ---
 
