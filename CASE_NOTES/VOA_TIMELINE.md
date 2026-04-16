@@ -296,7 +296,7 @@ Security Director responded: *"Okay, well — you're going to be our CI."*
 | Benjamin Johnas | Director of Operations (retired) | Contacted Elvin to return; sympathetic; direct knowledge of return circumstances | 🔴 Critical |
 | Jim Rayan | Direct supervisor, ROTV project | Witnessed sabotage and disruptions; direct knowledge of project interference | 🔴 High |
 | John Lipman | VOA Leadership | Emailed recognizing Elvin's ROTV contributions; aware of project issues | 🔴 High |
-| Officer Shea | USAGM Security | First CI contact; can confirm Elvin reported workplace concerns | 🔴 Critical |
+| **USAGM Security Director** (name unknown — identifiable by title) | Head of USAGM Security Department — conducted pre-contact surveillance of Elvin, ran CI recruitment Teams meeting May 17–28 2024, designated Elvin as CI over his explicit objection | 🔴 Critical — identify via FOIA; do not contact directly |
 | USAGM Security Head | Security Department | CI designation; verbally designated Elvin as CI without written agreement | 🔴 Critical |
 | Jeff Reber | Former VOA supervisor — **still employed at VOA** | Wrote letter of recommendation speaking of Elvin with great care — available as witness; letter in Elvin's possession. **Do not contact directly — let attorney handle via formal channels** | 🔴 Critical |
 
