@@ -50,20 +50,20 @@
 ### Amanda Bennett (USAGM Director) — "Sorry About That"
 - **Who:** Amanda Bennett, Director of USAGM
 - **What she said:** *"Sorry about that"* — said in passing
-- **Context:** Timing and exact circumstances to be documented by Elvin
+- **Timing:** After Elvin returned to work following his hospitalization and resignation — she knew he had been gone and knew why
 - **Legal significance:**
-  - An unprompted apology from the Director of USAGM is potentially an **admission against interest**
-  - Admissions by a party's agent (here, the head of the agency) are admissible as evidence
-  - "Sorry about that" from someone in her position suggests awareness that something improper had occurred involving Elvin
-  - Combined with her broadcast email encouraging employees to come forward, this shows she had knowledge of the situation
-  - Even a casual statement in passing from a director carries significant weight
+  - An unprompted apology from the Director of USAGM after Elvin returned from hospitalization is a potential **admission against interest**
+  - She was aware of what had happened to him — this was not a generic pleasantry
+  - "Sorry about that" in this context = acknowledgment that something wrong occurred involving Elvin on her watch
+  - Admissions by an agency head acting in her official capacity are admissible against the agency
+  - Combined with her broadcast email encouraging employees to come forward, this shows she had personal knowledge of the situation and its impact on Elvin
+  - A jury hearing "the Director of the agency said 'sorry about that' when she saw him return from the hospital" will understand exactly what that means
 - **Critical questions to document:**
-  - When exactly did she say this — before or after resignation?
-  - What were the exact circumstances — hallway, after a meeting, in passing?
+  - Exact circumstances — hallway, after a meeting, in passing?
   - What had just happened immediately before she said it?
   - Was anyone else present who heard it?
   - Did she say anything else?
-- **Action:** Write down the exact words, location, date (approximate), and any witnesses immediately
+- **Action:** Write down the exact words, location, approximate date, and any witnesses immediately
 
 
 
