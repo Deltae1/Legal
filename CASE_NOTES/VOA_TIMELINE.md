@@ -215,7 +215,9 @@ Security Director responded: *"Okay, well — you're going to be our CI."*
 - Elvin's objection ("I don't want to get involved") is a clear on-record statement that he never consented to the role
 - Any subsequent retaliation or harm flowing from this involuntary CI designation is attributable to USAGM
 - This supports claims of: coercion, failure to protect a cooperating witness, and retaliatory constructive discharge after an unwanted CI role was imposed
-- Jamie (the producer) is a named individual Elvin identified to security — he is a potential witness and his show's technical logs are discoverable
+- Jamie (the producer) is a named individual Elvin identified to security — last name TBD (Elvin to locate); Jamie was unaware he was mentioned (private disclosure to security only)
+- Jamie is a potential neutral witness — experienced the technical disruptions firsthand with no stake in Elvin's case
+- Jamie's show technical logs are discoverable and may corroborate the sabotage pattern
 
 **Legal significance of this exchange:**
 - The Security Director feigned ignorance despite actively surveilling Elvin — this is deceptive conduct by a federal official in an official meeting
