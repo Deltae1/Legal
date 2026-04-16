@@ -55,9 +55,13 @@ The DCHRA has a lower burden of proof than Title VII in some respects and allows
 **Jim Schnider approved DeRubio's return and denied Kobe's — same person, same role, radically different outcomes based on race.**
 
 **Exact Sequence — Critical:**
-1. Elvin contacted Jim Schnider via **Microsoft Teams** to follow up on reinstatement
-2. **Same day** — Elvin was locked out of all WETA systems (email + Teams)
-3. The lockout was a direct, same-day response to the Teams contact — not routine offboarding
+1. Elvin resigned from WETA — June 2024
+2. Elvin hospitalized at GWH — same week as resignation
+3. Elvin traveled to California to recover — July 2024
+4. Elvin returned to DC from California — late June / early July 2024
+5. Elvin contacted Jim Schnider via **Microsoft Teams** to follow up on reinstatement — **late June to early July 2024**
+6. **Same day** — Elvin was locked out of all WETA systems (email + Teams)
+7. The lockout was a direct, same-day response to the Teams contact — not routine offboarding
 
 **Why this is powerful:**
 - Microsoft Teams logs show exactly when Elvin's message was sent to Schnider
