@@ -64,7 +64,7 @@
 - [ ] **Request GWH medical records** (if not already complete set)
 - [ ] **Locate Alex Rodriguez** — 300 New Jersey Ave NW / 240 M St SW (last known)
 - [ ] **Write full account of security office meetings** — date, who was present, exact words, CI designation
-- [x] **White comparator FULLY DOCUMENTED: Anthony DeRubio** — resigned Dec 2023, reinstated March 2024, approved by Jim Schnider — SAME person who denied Kobe's reinstatement and removed him from WETA email server
+- [x] **Pattern of discriminatory assignment documented** — Elvin hired as TD, repeatedly assigned to Audio; only white technicians given TD work throughout employment. Race + national origin + age discrimination. Extends damages period back to start of employment.
 - [ ] White comparator — **Anthony DeRubio** ✅ named | Still needed: dates of his resignation + reinstatement, who approved it
 - [ ] **Preserve all devices from 2024** — do not wipe or discard; forensic evidence
 

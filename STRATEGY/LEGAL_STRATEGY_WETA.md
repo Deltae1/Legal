@@ -24,7 +24,56 @@ WETA is NOT a federal agency. It is a private nonprofit public television statio
 
 ## Claims Against WETA
 
-### 1. Race Discrimination — Disparate Treatment ★★★★☆ (Strong if comparator documented)
+## Pattern of Discriminatory Treatment — Throughout Employment
+
+This is critical context that reframes the entire WETA case. The reinstatement denial was not an isolated act — it was the culmination of ongoing race discrimination throughout Elvin's employment.
+
+### Discriminatory Assignment — Audio vs. TD Role
+
+**What happened:**
+- Elvin was **hired as a Technical Director (TD)**
+- Despite being hired as a TD and being fully qualified, he was repeatedly assigned to **Audio** instead
+- Only white technicians were given TD assignments
+- Elvin was denied the opportunity to perform the role he was hired and qualified for
+
+**Legal significance:**
+- This is **discriminatory job assignment** — a form of race discrimination under Title VII and DCHRA
+- Denial of opportunity to perform your job title while white colleagues perform it = adverse employment action
+- This pattern predates the hostile environment escalation — it shows the discrimination was structural and ongoing, not a reaction to any specific event
+
+**Protected characteristics at play:**
+- Race (Black)
+- National origin (immigrant descent)
+- Age (youngest TD) — potential age discrimination angle if relevant
+
+### Pattern Evidence — What It Proves
+
+The combination of:
+1. Denied TD assignments despite being hired as TD and being qualified
+2. Only white technicians given TD work
+3. Workplace sabotage of his ROTV project
+4. Social isolation and exclusion
+5. Hostile atmosphere following Heather's promotion
+6. Reinstatement denied while white colleague (DeRubio) reinstated
+7. Same-day system lockout when he reached out
+
+...establishes a **continuous pattern of race discrimination** throughout Elvin's entire tenure at WETA — not just the final events. This strengthens every claim and extends the damages period.
+
+### Updated Damages Consideration
+If discriminatory assignment began from early in his employment (not just 2024), the damages period for hostile work environment and discriminatory treatment may extend back further — increasing the total damages figure. Attorney should assess the full employment period.
+
+### Additional Witnesses Needed
+- Former WETA colleagues who observed TD assignments being given exclusively to white technicians
+- Anyone who witnessed Elvin being pulled from TD work and assigned to Audio instead
+- HR records showing assignment history — who got TD shifts vs. Audio shifts
+
+### Note on Intersectionality
+Elvin faced discrimination on multiple grounds simultaneously:
+- **Race** — Black in a predominantly white technical department
+- **National origin** — immigrant descent
+- **Age** — youngest TD
+
+DC Human Rights Act covers all three. An attorney may argue intersectional discrimination — the combination of these characteristics made him a target in ways that no single characteristic alone fully explains.
 
 **Legal basis:** Title VII of the Civil Rights Act + DC Human Rights Act
 **What you need to prove:**
