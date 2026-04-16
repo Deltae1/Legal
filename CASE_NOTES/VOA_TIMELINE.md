@@ -14,32 +14,23 @@
 
 ## 2020–2023 — Exceptional Performance Period
 
-### VOA Exceptional Award — THREE CONSECUTIVE YEARS
+### VOA Exceptional Award — THREE CONSECUTIVE YEARS — UNIQUE DISTINCTION
 - Elvin received VOA's **highest performance award** for 2020, 2021, 2022, and 2023
-- Award included **monetary compensation** — not honorary, a paid performance recognition
-- Award was based on **formal performance evaluation across 4 areas:**
-  - Self-rating component
-  - Supervisor rating component
-  - (2 additional areas — confirm exact categories)
-- This means Elvin's **supervisors formally rated him at the highest level** for three consecutive years
+- **Elvin was the ONLY employee in VOA history to receive this award three consecutive years**
+- Award included **monetary compensation**
+- Award based on **formal performance evaluation across 4 areas** — self-rating + supervisor rating
+- His supervisors formally rated him at the highest level three years in a row
 - John Lipman emailed specifically recognizing Elvin's contributions to the ROTV project
 
 **Legal significance:**
-- Completely demolishes any suggestion that Elvin's 2024 difficulties were performance-related
-- His own supervisors rated him at the top level — in writing, through a formal HR process — for three consecutive years
-- The same management chain that later created a hostile environment had previously certified his excellence through a documented, paid award process
-- Three consecutive supervisor-rated top awards = the hostile environment in 2024 was externally imposed, not caused by any failing on Elvin's part
-- Strengthens constructive discharge: the only thing that changed between 2023 and 2024 was the targeting campaign
-- **Supervisor ratings are on file with USAGM HR** — fully subpoenable and cannot be denied
+- The only employee to ever receive VOA's top award three consecutive years in a row was then subjected to a coordinated targeting campaign, constructively discharged, and hospitalized
+- His own supervisors rated him at the top level — in writing, through a formal HR process, with monetary compensation — three consecutive years
+- USAGM cannot credibly assert any performance or conduct justification for his treatment
+- This is their own documented record establishing he was their best employee
+- **This fact alone will get you a callback from an attorney**
 
-**Evidence:**
-- VOA formal award records including supervisor ratings (USAGM HR — subpoenable)
-- Monetary payment records (payroll — subpoenable)
-- Performance evaluation documents for 2020, 2021, 2022, 2023 (4 years of formal ratings)
-- John Lipman emails recognizing ROTV contributions (VOA email servers)
-- Any physical award certificates, letters, or notifications Elvin retained
-
-**Action:** Locate any physical award documentation, certificates, payment records, or notification emails. These are immediately usable without litigation.
+**Core narrative sentence:**
+> *"Elvin Sangano was the only VOA employee in the organization's history to receive its highest performance award three consecutive years — 2020, 2021, and 2022 — with formal supervisor ratings and monetary compensation each year. In 2024, the same organization subjected him to a coordinated harassment campaign that ended in his hospitalization."*
 
 ---
 
