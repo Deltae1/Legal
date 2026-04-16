@@ -10,10 +10,13 @@
 |---|---|---|
 | **Nikki's text messages** (scheduling, 2022–2024) | 2 years of assignment records showing pattern — Elvin on Audio while others on TD | Screenshot entire thread → email to personal Gmail NOW |
 | **WETA scheduling group text thread** | Group-visible assignments — Brian/Steve/Jay as TD, Elvin as Audio, week after week | Screenshot entire thread → email to personal Gmail NOW |
-| **Scheduling emails** (WETA email → personal or phone) | Same pattern in email form — detailed assignment records | Forward ALL to personal Gmail NOW |
-| **Nikki's personal text around promotion day** | Connects Nikki to the trigger event | Screenshot → email to self NOW |
 
-**Do this before anything else. These are already in your possession. You cannot lose them.**
+**Scheduling emails** — NOT in Elvin's possession. On WETA servers. Obtain via:
+- Litigation subpoena to WETA (primary path)
+- FOIA does not apply (WETA is private) — discovery only
+- Any former WETA colleague who retained copies is a secondary source
+
+**Do the text screenshots before anything else. Already in your hands. Cannot be taken from you.**
 
 
 
