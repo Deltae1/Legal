@@ -54,7 +54,13 @@ The DCHRA has a lower burden of proof than Title VII in some respects and allows
 
 **Jim Schnider approved DeRubio's return and denied Kobe's — same person, same role, radically different outcomes based on race.**
 
-Additional act by Schnider: **removed Kobe from the WETA email server** when Kobe attempted to follow up about reinstatement. This is not administrative — it is a deliberate act to cut off communication and block the reinstatement request. This strengthens both the retaliation and race discrimination claims.
+Additional act by Schnider: **removed Kobe from the WETA email server within days or weeks of his resignation** when Kobe attempted to follow up about reinstatement. This is not routine administrative offboarding — the timing (days/weeks, not immediate) shows it was a deliberate responsive act to cut off communication and block the reinstatement request. This strengthens both the retaliation and disparate treatment claims.
+
+**Timeline of Schnider's actions:**
+1. Early 2024 — sent email signaling change in Kobe's standing (hostile environment begins)
+2. June 2024 — denied Kobe's reinstatement request
+3. June 2024 (within days/weeks) — removed Kobe from WETA email server after reinstatement follow-up
+4. Contrast: December 2023/March 2024 — approved DeRubio's reinstatement without issue
 
 This is a textbook DCHRA disparate treatment case. An attorney will recognize this immediately.
 
