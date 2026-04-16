@@ -116,8 +116,15 @@
 
 ### ROTV Automation Upgrade Project
 - Elvin was serving as **lead** on the ROTV automation upgrade
+- **John Lipman personally assigned Elvin to lead the ROTV project**
+- **John Lipman approved Elvin's promotion**
 - Supervisor: **Jim Rayan** (direct)
-- VOA Leadership awareness: **John Lipman**
+- Lipman was the most disliked manager at VOA — driving force behind automation push and studio conversions without resolving RBT union jurisdiction or contractor disputes
+- Elvin accepted the role eagerly, wanting to prove himself — did not know he was being placed at the center of a live labor war
+- Lipman's promotion of Elvin made Elvin a visible symbol of the automation agenda to everyone opposing it (union FTEs, contractors)
+- Lipman's email recognizing Elvin's ROTV contributions = evidence Elvin performed well despite hostile environment
+- **Critical deposition target** — what did Lipman know about the targeting? Did he take steps to protect Elvin?
+- **Do not contact Lipman directly — attorney to handle**
 
 ### Studio Blackouts & Technical Disruptions
 - Recurring studio blackouts during Elvin's project work
