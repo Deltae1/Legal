@@ -83,7 +83,7 @@
 |---|---|---|
 | WETA scheduling records 2022–2024 | Subpoena WETA HR / production scheduling system | ⬜ Via litigation |
 | Nikki's assignment emails/schedules | Subpoena WETA email servers | ⬜ Via litigation |
-| **Names of white TDs assigned to TD work** | **Elvin to provide full list — PENDING** | ⬜ Elvin input needed |
+| **Names of white TDs assigned to TD work** | Brian, Steve, Jay — ✅ named. Last names via WETA HR in discovery | ✅ Named |
 | Nikki (WETA scheduling coordinator) testimony | Deposition | ⬜ Via litigation |
 
 ---
