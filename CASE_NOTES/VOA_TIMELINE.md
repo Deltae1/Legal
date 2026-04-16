@@ -121,7 +121,7 @@
 | John Lipman | VOA Leadership | Emailed recognizing Elvin's ROTV contributions; aware of project issues | 🔴 High |
 | Officer Shea | USAGM Security | First CI contact; can confirm Elvin reported workplace concerns | 🔴 Critical |
 | USAGM Security Head | Security Department | CI designation; verbally designated Elvin as CI without written agreement | 🔴 Critical |
-| Jeff Reber | Former VOA supervisor | Wrote letter of recommendation speaking of Elvin with great care — available as witness; letter in Elvin's possession | 🔴 Critical |
+| Jeff Reber | Former VOA supervisor — **still employed at VOA** | Wrote letter of recommendation speaking of Elvin with great care — available as witness; letter in Elvin's possession. **Do not contact directly — let attorney handle via formal channels** | 🔴 Critical |
 
 ---
 
