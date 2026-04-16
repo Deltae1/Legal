@@ -49,7 +49,7 @@
 
 | Agency | Portal | What to Request | Filed? |
 |---|---|---|---|
-| USAGM | usagm.gov/foia | All records referencing Elvin Sangano; security office records; contract postings May–June 2024; Amanda Bennett broadcast email | ⬜ Not filed |
+| USAGM | usagm.gov/foia | All records referencing Elvin Sangano; security office records; contract postings May–June 2024; Amanda Bennett broadcast email; **Microsoft Teams meeting records May 17–28 2024 involving Elvin Sangano and USAGM Security Director** (participants, timestamp, duration, any recording); USAGM Security Department records referencing Elvin Sangano | ⬜ Not filed |
 | FBI | fbi.gov/services/information-management/foipa | Any records referencing Elvin Sangano | ⬜ Not filed |
 | WETA | N/A (private) — obtain via litigation discovery | — | — |
 
