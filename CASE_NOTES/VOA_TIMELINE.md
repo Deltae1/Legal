@@ -123,7 +123,10 @@
 - Elvin accepted the role eagerly, wanting to prove himself — did not know he was being placed at the center of a live labor war
 - Lipman's promotion of Elvin made Elvin a visible symbol of the automation agenda to everyone opposing it (union FTEs, contractors)
 - Lipman's email recognizing Elvin's ROTV contributions = evidence Elvin performed well despite hostile environment
-- **Critical deposition target** — what did Lipman know about the targeting? Did he take steps to protect Elvin?
+- **No warning given** to Elvin about the labor tensions before assigning him to ROTV
+- **Went silent** after problems began in 2024 — no support, no protection, no contact
+- Praised Elvin's work publicly (email to staff) then abandoned him when targeting intensified
+- **Critical deposition target** — what did Lipman know? When? Why did he not protect the employee he publicly praised and promoted?
 - **Do not contact Lipman directly — attorney to handle**
 
 ### Studio Blackouts & Technical Disruptions
