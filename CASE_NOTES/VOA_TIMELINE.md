@@ -172,6 +172,7 @@
 - Eventually arranged a **Teams meeting** with the Security Director
 
 ### Step 6 — Teams Meeting with Security Director — Full Account
+- **Date: between May 17 and May 28, 2024**
 
 **The Security Director in the Teams meeting was the same individual Elvin had seen standing outside watching him two days in a row.**
 
