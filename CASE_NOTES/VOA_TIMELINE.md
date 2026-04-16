@@ -16,21 +16,21 @@
 
 ### VOA Exceptional Award — THREE CONSECUTIVE YEARS — UNIQUE DISTINCTION
 - Elvin received VOA's **highest performance award** for 2020, 2021, 2022, and 2023
-- **Elvin was the ONLY employee in VOA history to receive this award three consecutive years**
+- **Elvin was the ONLY employee in his department to receive this award three consecutive years**
 - Award included **monetary compensation**
 - Award based on **formal performance evaluation across 4 areas** — self-rating + supervisor rating
 - His supervisors formally rated him at the highest level three years in a row
 - John Lipman emailed specifically recognizing Elvin's contributions to the ROTV project
 
 **Legal significance:**
-- The only employee to ever receive VOA's top award three consecutive years in a row was then subjected to a coordinated targeting campaign, constructively discharged, and hospitalized
+- The only employee in his department to ever receive VOA's top award three consecutive years was then subjected to a coordinated targeting campaign, constructively discharged, and hospitalized
 - His own supervisors rated him at the top level — in writing, through a formal HR process, with monetary compensation — three consecutive years
 - USAGM cannot credibly assert any performance or conduct justification for his treatment
-- This is their own documented record establishing he was their best employee
+- This is their own documented record establishing he was the best performer in his department
 - **This fact alone will get you a callback from an attorney**
 
 **Core narrative sentence:**
-> *"Elvin Sangano was the only VOA employee in the organization's history to receive its highest performance award three consecutive years — 2020, 2021, and 2022 — with formal supervisor ratings and monetary compensation each year. In 2024, the same organization subjected him to a coordinated harassment campaign that ended in his hospitalization."*
+> *"Elvin Sangano was the only employee in his VOA department to receive its highest performance award three consecutive years — 2020, 2021, and 2022 — with formal supervisor ratings and monetary compensation each year. In 2024, the same organization subjected him to a coordinated harassment campaign that ended in his hospitalization."*
 
 ---
 
