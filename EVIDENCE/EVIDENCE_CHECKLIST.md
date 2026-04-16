@@ -19,6 +19,7 @@
 
 | Item | How to Get | Deadline | Status |
 |---|---|---|---|
+| **🔴 Heather's text message to Elvin** (day of her promotion, early 2024) | Check phone NOW — screenshot + back up immediately if it exists. Direct evidence connecting Heather to the trigger event. | In Elvin's phone (potential) | ⬜ CHECK IMMEDIATELY |
 | Resignation letters (WETA + VOA) | Check personal files; FOIA if needed | ASAP | ⬜ Not done |
 | White comparator — **Anthony DeRubio** | Resigned December 2023, reinstated March 2024 (~3 months, voluntary). **Jim Schnider approved DeRubio's return AND denied Kobe's reinstatement — same decision-maker confirmed.** Schnider also removed Kobe from WETA email server when Kobe followed up. | Discovery (WETA HR + email servers) | ✅ Fully documented |
 | Security office meeting — full written account | Write from memory NOW | This week | ⬜ Not done |

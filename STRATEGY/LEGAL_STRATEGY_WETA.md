@@ -174,6 +174,33 @@ This is a textbook DCHRA disparate treatment case. An attorney will recognize th
 
 ---
 
+### The Promotion Trigger — Coordinated Same-Day Events (Early 2024)
+
+**What happened on the same day:**
+1. Heather was promoted to Tech Production Manager
+2. **Heather personally texted Elvin** the day she got her promotion
+3. **Jim Schnider sent a staff-wide email** that appeared to signal a change in Elvin's standing
+
+**Why this is critical:**
+- Heather was the person who had controlled TD assignments for two years — assigning Elvin to Audio while giving TD work to Brian, Steve, and Jay
+- Her texting Elvin personally on her promotion day suggests she was acutely aware of Elvin's position in the organizational dynamic
+- Schnider's simultaneous staff email — sent the same day — signals the promotion was a coordinated trigger for the escalating campaign against Elvin
+- Two senior figures acting in coordination on the same day = the hostile environment was orchestrated, not organic
+
+**This is the starting pistol for everything that followed:**
+- Social isolation intensified
+- Workplace sabotage escalated
+- Psychological pressure campaign began
+- Eventually led to constructive discharge and hospitalization
+
+**Critical evidence — check your phone NOW:**
+- **Heather's text message** from early 2024 — if still on Elvin's phone, screenshot and back up immediately
+- This is direct, accessible, pre-litigation documentary evidence
+- It connects Heather personally to the trigger event
+- Do not delete, upgrade, or wipe the phone this message may be on
+
+**Schnider's staff email** — recoverable via WETA email servers in discovery. Any former WETA colleague who received it is a potential witness to its contents.
+
 ### 3. Hostile Work Environment ★★★☆☆ (Supportive context)
 
 **Legal basis:** Title VII + DCHRA
