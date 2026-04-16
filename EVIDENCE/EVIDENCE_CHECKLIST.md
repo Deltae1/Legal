@@ -20,7 +20,7 @@
 | Item | How to Get | Deadline | Status |
 |---|---|---|---|
 | Resignation letters (WETA + VOA) | Check personal files; FOIA if needed | ASAP | ⬜ Not done |
-| White comparator identity | Memory; contact former WETA colleagues | ASAP | ⬜ Not done |
+| White comparator — **Anthony DeRubio** | ✅ Identified — now need: dates of his resignation + reinstatement, who approved it | ASAP | ✅ Named |
 | Security office meeting — full written account | Write from memory NOW | This week | ⬜ Not done |
 | Ashley (Jenkins Row) written statement | In person — go to building manager | This week | ⬜ Not done |
 | The Roost staff written statements | In person | This week | ⬜ Not done |

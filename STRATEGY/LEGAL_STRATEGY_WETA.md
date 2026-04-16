@@ -41,7 +41,10 @@ WETA is NOT a federal agency. It is a private nonprofit public television statio
 **DC Human Rights Act advantage:**
 The DCHRA has a lower burden of proof than Title VII in some respects and allows for broader discovery. DC courts tend to be more plaintiff-friendly in employment discrimination cases. This is your primary venue for the WETA claims.
 
-**Action:** Name the white colleague or describe them specifically enough for discovery. This one fact is the cornerstone of the entire race claim against WETA.
+**Comparator identified: Anthony DeRubio** ✅
+- White colleague who resigned from WETA and was permitted to return
+- Still needed: approximate dates of his resignation + reinstatement, who made the approval decision
+- Former WETA colleagues who witnessed both situations are your corroborating witnesses
 
 ---
 

@@ -64,8 +64,8 @@
 - [ ] **Request GWH medical records** (if not already complete set)
 - [ ] **Locate Alex Rodriguez** — 300 New Jersey Ave NW / 240 M St SW (last known)
 - [ ] **Write full account of security office meetings** — date, who was present, exact words, CI designation
-- [ ] **Identify white comparator** — name or describe specifically enough for discovery
-- [ ] **Contact former WETA colleagues** informally — who remembers the period? Who saw the white colleague's reinstatement?
+- [x] **White comparator identified: Anthony DeRubio** — still need dates of his resignation + reinstatement + who approved it
+- [ ] White comparator — **Anthony DeRubio** ✅ named | Still needed: dates of his resignation + reinstatement, who approved it
 - [ ] **Preserve all devices from 2024** — do not wipe or discard; forensic evidence
 
 ---
@@ -96,7 +96,7 @@
 - [ ] DC Superior Court complaint drafted
 - [ ] DCHRA claims filed
 - [ ] IIED claim filed
-- [ ] Discovery requests served (Schnider email, Rockefeller email, white comparator HR records)
+- [ ] White comparator HR records (Anthony DeRubio reinstatement — dates, approver)
 
 ---
 
@@ -183,7 +183,7 @@
 2. **FTCA deadline is June 2026** — this is the most time-sensitive item in the entire case
 3. **EEOC window is closed** but equitable tolling is a real argument — hospitalization occurred in the same week as the resignation/reinstatement denial
 4. **WETA is private, not federal** — DC Human Rights Act is the primary vehicle, not Title VII
-5. **The white comparator is the single most important missing piece** for the WETA race claim
+5. **The white comparator is Anthony DeRubio** — named and documented. Still need: dates of his resignation + reinstatement, who approved it
 6. **Alex Rodriguez may have been a government plant** — approach carefully; his deposition is critical
 7. **Kobe has medical records** — these are anchor evidence for equitable tolling and damages
 8. **Do not file anything on Kobe's behalf** — draft only; he signs and sends
