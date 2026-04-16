@@ -20,7 +20,7 @@
 | Item | How to Get | Deadline | Status |
 |---|---|---|---|
 | Resignation letters (WETA + VOA) | Check personal files; FOIA if needed | ASAP | ⬜ Not done |
-| White comparator — **Anthony DeRubio** | ✅ Identified — now need: dates of his resignation + reinstatement, who approved it | ASAP | ✅ Named |
+| White comparator — **Anthony DeRubio** | Resigned December 2023, reinstated March 2024 (~3 months, voluntary). Kobe denied reinstatement June 2024 after involuntary discharge + hospitalization. Still need: who approved DeRubio's return (same decision-maker as Kobe's denial?) | Discovery / former colleagues | ✅ Documented |
 | Security office meeting — full written account | Write from memory NOW | This week | ⬜ Not done |
 | Ashley (Jenkins Row) written statement | In person — go to building manager | This week | ⬜ Not done |
 | The Roost staff written statements | In person | This week | ⬜ Not done |

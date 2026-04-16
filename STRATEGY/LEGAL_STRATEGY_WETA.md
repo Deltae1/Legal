@@ -42,9 +42,11 @@ WETA is NOT a federal agency. It is a private nonprofit public television statio
 The DCHRA has a lower burden of proof than Title VII in some respects and allows for broader discovery. DC courts tend to be more plaintiff-friendly in employment discrimination cases. This is your primary venue for the WETA claims.
 
 **Comparator identified: Anthony DeRubio** ✅
-- White colleague who resigned from WETA and was permitted to return
-- Still needed: approximate dates of his resignation + reinstatement, who made the approval decision
-- Former WETA colleagues who witnessed both situations are your corroborating witnesses
+- White colleague who resigned from WETA voluntarily in **December 2023** and was reinstated by **March 2024**
+- Absence: approximately 3 months — voluntary resignation, no documented duress, no hospitalization
+- Kobe: denied reinstatement after involuntary resignation (constructive discharge) + same-week hospitalization — June 2024
+- Still needed: who made the reinstatement decision for DeRubio (same decision-maker as Kobe's denial?)
+- Former WETA colleagues who witnessed both situations are corroborating witnesses
 
 ---
 
