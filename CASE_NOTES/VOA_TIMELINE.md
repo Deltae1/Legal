@@ -148,8 +148,11 @@
 
 ### Step 2 — External Surveillance
 - On his way out of VOA, began seeing **federal vehicles** in the area
+- Vehicles included both **marked government cars** and **unmarked (plain) vehicles**
+- Mix of marked + unmarked = coordinated multi-unit surveillance operation, not incidental presence
 - Noticed similar surveillance activity near his **residence**
 - Pattern was deliberate and sustained
+- **Approximate timing:** TBD — confirm month (early 2024, spring, or closer to June resignation)
 
 ### Step 3 — Security Director Appearances (Pre-Contact)
 - Saw the **Director of USAGM Security** two days in a row, right as Elvin walked into the building
