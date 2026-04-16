@@ -41,12 +41,22 @@ WETA is NOT a federal agency. It is a private nonprofit public television statio
 **DC Human Rights Act advantage:**
 The DCHRA has a lower burden of proof than Title VII in some respects and allows for broader discovery. DC courts tend to be more plaintiff-friendly in employment discrimination cases. This is your primary venue for the WETA claims.
 
-**Comparator identified: Anthony DeRubio** ✅
-- White colleague who resigned from WETA voluntarily in **December 2023** and was reinstated by **March 2024**
-- Absence: approximately 3 months — voluntary resignation, no documented duress, no hospitalization
-- Kobe: denied reinstatement after involuntary resignation (constructive discharge) + same-week hospitalization — June 2024
-- Still needed: who made the reinstatement decision for DeRubio (same decision-maker as Kobe's denial?)
-- Former WETA colleagues who witnessed both situations are corroborating witnesses
+**Comparator identified: Anthony DeRubio** ✅ — SAME DECISION-MAKER CONFIRMED
+
+| | Anthony DeRubio | Elvin Sangano |
+|---|---|---|
+| Race | White | Black |
+| Resignation type | Voluntary | Involuntary (constructive discharge) |
+| Resigned | December 2023 | June 2024 |
+| Reinstated / denied | ✅ Reinstated March 2024 | ❌ Denied |
+| Circumstances | No documented duress | Hospitalized same week |
+| Decision-maker | Jim Schnider | Jim Schnider |
+
+**Jim Schnider approved DeRubio's return and denied Kobe's — same person, same role, radically different outcomes based on race.**
+
+Additional act by Schnider: **removed Kobe from the WETA email server** when Kobe attempted to follow up about reinstatement. This is not administrative — it is a deliberate act to cut off communication and block the reinstatement request. This strengthens both the retaliation and race discrimination claims.
+
+This is a textbook DCHRA disparate treatment case. An attorney will recognize this immediately.
 
 ---
 
