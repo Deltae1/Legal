@@ -185,6 +185,17 @@ Security Director pushed back: *"No I don't — what do you mean?"*
 
 Elvin then explained: He had noticed the Security Director and other security personnel as he came into the building. Knowing what was taking place, he thought he should talk to them and let them know: **he knew what was happening but he was not involved.**
 
+Security Director then said: *"Ok, tell me what's happening."*
+
+Elvin explained: There are active protests going on. People are coming in and don't want to make things work — doing things to affect productions.
+
+**What this exchange reveals:**
+- The Security Director used a classic intelligence interview technique: deny knowledge → get subject to explain everything → extract information without revealing what you already know
+- He already knew about the labor conflict (he was running surveillance on Elvin during it)
+- He feigned ignorance to get Elvin to lay out everything he knew, unprompted
+- Elvin cooperated fully and in good faith — he was trying to do the right thing
+- This is how Elvin became a de facto informant: he voluntarily disclosed what he knew to a federal official who was actively soliciting that information under false pretenses (pretending not to know)
+
 **Legal significance of this exchange:**
 - The Security Director feigned ignorance despite actively surveilling Elvin — this is deceptive conduct by a federal official in an official meeting
 - Elvin's statement — "I know what's happening but I'm not involved" — is a clear, voluntary declaration of non-involvement made directly to federal security
