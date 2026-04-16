@@ -197,7 +197,13 @@ Security Director responded: *"Okay, well — you're going to be our CI."*
 
 **Elvin's response — explicit objection:** *"I don't want to get involved. I just wanted to come and do my job."*
 
-**The CI designation was made over Elvin's explicit objection.**
+**How the meeting ended:**
+
+After Elvin objected ("I don't want to get involved"), the Security Director said something along the lines of: *"We'll be in touch."*
+
+— Meeting ended. No further explanation. No written agreement. No acknowledgment of Elvin's objection. —
+
+**Significance:** "We'll be in touch" assumes compliance — he closed the meeting as if Elvin's objection had not been registered. Elvin was given no choice, no documentation, and no protections. The Director simply assumed the role was accepted and ended the conversation.
 
 ---
 
