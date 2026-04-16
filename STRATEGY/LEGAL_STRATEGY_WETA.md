@@ -63,12 +63,9 @@ The DCHRA has a lower burden of proof than Title VII in some respects and allows
 6. **Same day** — Elvin was locked out of all WETA systems (email + Teams)
 7. The lockout was a direct, same-day response to the Teams contact — not routine offboarding
 
-**Why this is powerful:**
-- Microsoft Teams logs show exactly when Elvin's message was sent to Schnider
-- Active Directory / IT logs show exactly when access was revoked
-- The timestamps will show these events occurred on the same day
-- Schnider received the reinstatement request and immediately terminated all access
-- This is deliberate, documented, and discoverable down to the minute
+**Content of Teams message:** Brief and professional — *"Hi, do you have a moment."* Non-confrontational, no explicit reinstatement demand, a normal professional outreach to a former director.
+
+**Significance:** Schnider's response to this benign message was to immediately lock Elvin out of all WETA systems. The disproportionate response to a casual professional greeting demonstrates **consciousness of guilt** — Schnider knew why Elvin was reaching out and acted preemptively to eliminate any avenue of communication or return. This is not how an employer responds to a routine former employee inquiry. This is how someone responds when they know they've done something wrong.
 
 **IT Records to subpoena:**
 - Microsoft Teams message logs (Elvin → Schnider, exact date + content)
