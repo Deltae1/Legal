@@ -241,8 +241,20 @@ This USAGM A/E Services IDIQ contract:
 - RFP No. 951700-24-R-0028 is a public record — pull it from SAM.gov immediately to confirm details
 - Both contracts together = a pattern of using federal procurement instruments to manufacture entrapment opportunities targeting Elvin specifically
 
-### Action Items
-- Search SAM.gov for RFP No. 951700-24-R-0028 — pull full posting, screenshot everything
-- FOIA USAGM Office of Contracts for all records related to RFP No. 951700-24-R-0028 and the preceding A/E IDIQ posting
-- Confirm: was the white paper document referenced in the RFP the same one used in the VOA conference room incident?
-- Attorney to subpoena all USAGM contracting officer communications related to both postings
+### SAM.gov Status
+- RFP No. 951700-24-R-0028 searched on SAM.gov — **shows nothing; appears archived or removed**
+- Federal procurement records are supposed to be retained per FAR requirements
+- Removal or archiving of a posting connected to an entrapment scheme is potentially **spoliation of federal records**
+- The record does not disappear — it exists in multiple locations:
+
+| Where to Find It | How |
+|---|---|
+| SAM.gov archived records | FOIA to GSA (SAM.gov operator) requesting archived/removed posting 951700-24-R-0028 |
+| USAGM Office of Contracts | FOIA to USAGM for all records related to RFP 951700-24-R-0028 |
+| Federal Procurement Data System (FPDS) | fpds.gov — search by USAGM + 2024 + contract number |
+| Internet Archive (Wayback Machine) | Check archive.org for cached SAM.gov pages from June 2024 |
+| Congressional records | If contract passed through congressional approval as neighbor indicated, committee records may reference it |
+| USAGM contracting officer | Named on the original posting — subpoenable directly |
+
+- **The removal itself is evidence** — if the posting was removed after Elvin began documenting his case, that is spoliation
+- Elvin's physical copy of the contract is now the primary evidence of its existence
