@@ -28,44 +28,107 @@ separate cases. They are one coordinated operation:
 **Phone:** (202) 457-0034 — DC-based, in-person consultation possible
 **Priority:** 🔴 HIGHEST — contact first
 
-**Subject:** Federal Agency Retaliation + Coordinated Hostile Work Environment — CI Entrapment + FTCA Claim — Urgent
+**Subject:** Federal Whistleblower Retaliation + Social Engineering Campaign — FTCA Filed — June 2026 Deadline
 
 **Body:**
-> My name is Elvin Sangano. I am a U.S. citizen and former Lead Technical Director
-> at VOA/USAGM in Washington DC. I am seeking representation for a unified set of
-> claims involving coordinated retaliation across two employers.
+> My name is Elvin Sangano. I am a U.S. citizen, a Black broadcast technology
+> professional, and a former Lead Technical Director at Voice of America / USAGM
+> in Washington DC. I am writing because I believe I was the target of a
+> coordinated government-sponsored social engineering campaign that cost me two
+> careers, $200,000 a year in combined income, and my health. I need representation.
 >
-> **At USAGM/VOA:**
-> I reported internal misconduct — including documented technical sabotage of
-> broadcast systems — to the USAGM Security Office in good faith. I was then
-> recruited as a Confidential Informant without written agreement or legal advisement.
-> The CI relationship escalated into a pressure campaign: I was asked to submit
-> federal contract proposals beyond my qualifications, and ultimately to provide
-> financial documents I could not legitimately provide. I refused to submit anything
-> fraudulent. My termination followed shortly after — officially cited as a DOGE
-> reduction in force, a basis a federal court has since ruled illegal.
+> **Who I am and what I built**
 >
-> **At WETA (simultaneously):**
-> While under USAGM pressure, I was subjected to a coordinated hostile work
-> environment at WETA — sustained racial discrimination in job assignments,
-> physical stalking by a union official, tire tampering, and coordinated
-> exclusion. I left the union in January 2024 due to the harassment. My
-> request for reinstatement was denied while a white colleague in comparable
-> circumstances was reinstated in the same period.
+> I was hired by USAGM in November 2020 as a Personal Services Contractor — a
+> W-2 employee — to build and lead VOA's Remote Operations Television (ROTV)
+> program from the ground up. I did exactly that. I earned VOA's highest
+> available performance rating — a Rating 4 (Exceptional) — two years in a row,
+> in 2021 and 2022. I was simultaneously employed as a Technical Director at WETA
+> Greater Washington. My combined salary was approximately $200,000 per year.
 >
-> These were not separate incidents. The workplace isolation at WETA and the
-> financial pressure at USAGM operated simultaneously — I believe as a
-> coordinated campaign designed to steer me through social engineering.
+> **What happened — and how it started**
 >
-> I was hospitalized at George Washington University Hospital following my
-> forced resignation in June 2024. I have medical records, an FMLA approval,
-> a reasonable accommodation approval, Performance Rating 4 (exceptional) for
-> 2021 and 2022, witness contacts, and extensive documentary evidence.
+> Beginning in mid-2023, I began documenting and professionally reporting a
+> pattern of deliberate technical sabotage affecting broadcast systems at VOA —
+> equipment being tampered with between shows, connections being deliberately
+> disconnected, files being corrupted. I reported these incidents in writing to
+> my supervisor. I believed I was doing the right thing.
 >
-> I have filed an FTCA administrative claim (SF-95) with USAGM.
-> The FTCA 2-year deadline is approaching (June 2026).
+> When USAGM Security personnel approached me, I cooperated in good faith —
+> because there was a real problem I had been reporting for months and I believed
+> they were investigating it. I shared information. I was told I would be a
+> Confidential Informant. I was given no written agreement, no legal advisement,
+> and no protection.
 >
-> I am available for an immediate consultation at your DC office.
+> What followed was not an investigation. It was a social engineering campaign.
+> Using escalating pressure tactics — not explicit instructions — I was gradually
+> steered: first toward submitting a federal contract proposal, then toward
+> providing financial documents. The demands escalated incrementally. The pressure
+> came from multiple directions simultaneously — at work, at my residence (Jenkins
+> Row, DC), and through my professional network. I was never told directly to do
+> anything illegal. I was maneuvered toward it through manufactured confusion,
+> isolation, and sustained psychological pressure.
+>
+> I refused. I submitted only truthful information in my contract proposal and
+> declined the parts that would have exposed me to liability. I did not provide
+> the financial documents demanded. I acted in good faith throughout.
+>
+> **The simultaneous campaign at WETA**
+>
+> While this was happening at USAGM, I was subjected to a coordinated hostile
+> work environment at WETA. A union official who was also my direct supervisor
+> physically stalked me — waiting at the entrance when I arrived, following me
+> to exits, and on one occasion setting off his car alarm as I was pulling out
+> of the parking lot while two witnesses were present. My tire was tampered with
+> — confirmed by a tire technician as deliberate. I left the union in January
+> 2024 because of the harassment. I was subsequently excluded from scheduling
+> and discriminated against in job assignments for two years — assigned to
+> lower-level audio work while white Technical Directors received TD assignments.
+> When I sought reinstatement after my constructive discharge, it was denied —
+> while a white colleague who had voluntarily resigned was reinstated by the
+> same decision-maker in the same period.
+>
+> These were not two separate workplace problems. The isolation at WETA and
+> the financial pressure at USAGM ran simultaneously. I believe they were
+> coordinated — the workplace mobbing served as the enforcement arm of the
+> financial pressure campaign.
+>
+> **How it ended**
+>
+> I was terminated on May 31, 2024 — officially cited as a DOGE reduction in
+> force. A federal court has since ruled those DOGE cuts to USAGM were illegal.
+> The stated basis for my termination has been declared unlawful. My colleagues
+> were recalled when programming resumed. I was not.
+>
+> Before my final termination, both my FMLA request and a reasonable
+> accommodation request (work from home 4 days per week) were approved —
+> formally acknowledging my qualifying medical condition and disability.
+> My termination followed both approvals.
+>
+> I was hospitalized at George Washington University Hospital in June 2024.
+> I have been in therapy since. The psychological harm from this campaign
+> is documented.
+>
+> **What I have**
+>
+> - W-2s from USAGM (direct federal employment confirmed, 2020–2022)
+> - VOA Performance Rating 4 — Exceptional — two consecutive years
+> - FMLA approval and reasonable accommodation approval (both pre-termination)
+> - Termination letter citing DOGE cuts (basis now ruled illegal by federal court)
+> - Two years of discriminatory WETA scheduling records
+> - Contemporaneous journal entries documenting the pressure campaign in real time
+> - Email chain showing my written sabotage report to my supervisor (December 2023)
+> - Medical records — GWH hospitalization, June 2024
+> - Named witnesses at both WETA and USAGM
+> - FTCA administrative claim (SF-95) already filed with USAGM
+>
+> **Deadlines**
+>
+> The FTCA 2-year administrative deadline is **June 2026** — this is urgent.
+> The DC Human Rights Act 3-year direct filing window is open until June 2027.
+>
+> I am currently unrepresented despite extensive outreach. I am available for
+> an immediate in-person consultation at your DC office.
 >
 > Elvin Sangano
 > [Phone] | [Email]
