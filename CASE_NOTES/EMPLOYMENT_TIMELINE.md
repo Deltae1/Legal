@@ -53,7 +53,7 @@
 - Jay Naval is both a comparator (received TD work Elvin was denied) and a bad actor (interfered with Elvin's probation)
 
 ### 2022–2024 — Two Years of Discriminatory Scheduling
-- Consistent pattern: Elvin assigned to Audio; white TDs (Brian, Steve, Jay Naval) assigned to TD work
+- Consistent pattern: Elvin assigned to Audio; white TDs (Brian Smith, Steve Shaw, Jay Naval) assigned to TD work
 - All assignments documented in writing via Nikki's scheduling emails
 - Elvin raised the issue; pattern did not change
 

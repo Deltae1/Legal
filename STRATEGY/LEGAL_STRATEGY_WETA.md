@@ -44,8 +44,8 @@ This is critical context that reframes the entire WETA case. The reinstatement d
 - Nikki is a key witness — she sent the schedules and may have knowledge of who directed the assignments
 
 **White TDs who received TD assignments while Elvin was assigned to Audio:**
-1. **Brian** — white TD, regularly assigned to TD work 2022–2024
-2. **Steve** — white TD, regularly assigned to TD work 2022–2024
+1. **Brian Smith** — white TD, regularly assigned to TD work 2022–2024
+2. **Steve Shaw** — white TD, regularly assigned to TD work 2022–2024
 3. **Jay Naval** — white TD, regularly assigned to TD work 2022–2024; **also interfered during Elvin's probation period — see below**
 
 These three are named comparators for the discriminatory assignment claim. All three received the TD assignments Elvin was hired for and qualified to perform. Their full names and assignment histories are subpoenable via WETA scheduling records and Nikki's distribution emails.

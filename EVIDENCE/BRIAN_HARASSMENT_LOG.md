@@ -21,7 +21,7 @@
 >
 > A few weeks ago my tire went flat, btwn 2-6pm had got brand new tires. Thought I had a flat tire but turns out it wasn't — someone had tampered with my tire to mess with me according to the tire tech.
 >
-> Brian was on sight, had been following me around the building as usual and I believe no one else would do this except him.
+> Brian Smith was on sight, had been following me around the building as usual and I believe no one else would do this except him.
 >
 > 12/22 walking in studio Brian laughs with grime face. During the show he walks in to announce ww was using the tape. After saying it in the comm system, everyone heard it. Once say it, he proceeds to say it again, and walks up to stand behind me in an intimidating fashion. Amna is the anchor and Leah is retouching her make up. I say nothing pretend to be on my phone. J'oneal is next to me on camera 3.
 >
@@ -29,7 +29,7 @@
 >
 > Resigned from the union 12/27 — morning
 > Walked in the studio to set up for the show.
-> Brian was there, Avo and John. 12/28/27
+> Brian Smith was there, Avo and John. 12/28/27
 > Playing uno
 >
 > Brian and Avo stood outside the door during pre tapes spoke loudly. Intentional cross talk, wasn't interested in.
@@ -48,7 +48,7 @@
 >
 > 01/09 — Meeting Jim Rayan in bit. Nervous but ready for the next chapter. Looking for peace and room to maneuver.
 >
-> 01/12 walking to weta Brian is waiting. Says hi
+> 01/12 walking to weta Brian Smith is waiting. Says hi
 > 01/13 Brian, Dion and Val waiting in left parking
 > Dion says hi, comes around says hi, tried to make small talk.
 >
@@ -59,7 +59,7 @@
 >
 > Got to set up mics, Brian comes in, I say nothing… he walks out, the door reopens and he comes in with Nancy with some papers, she says I move quietly, comments on my black clothes. Mentions I'm in their books. I say good let's keep it that way…
 >
-> End of show Brian is at the door, cross talks, see you tomorrow. As I drive off he is standing outside his car.
+> End of show Brian Smith is at the door, cross talks, see you tomorrow. As I drive off he is standing outside his car.
 > Meanwhile I'm still receiving union emails and surveys.
 >
 > Brian continues to follow
@@ -140,7 +140,7 @@ This is a documented pattern of targeted physical surveillance and intimidation.
 - Brand new tires
 - Went flat between 2–6pm
 - Tire tech confirmed: tampering, not a natural flat
-- Brian was on-site that day, following Elvin as usual
+- Brian Smith was on-site that day, following Elvin as usual
 - This is potential criminal conduct — property damage and intimidation
 
 #### "In Their Books" — Nancy's Statement (01/18)
@@ -152,7 +152,7 @@ This is a documented pattern of targeted physical surveillance and intimidation.
 
 #### "Geoff Will Reach Out" — 12/29
 - Brian tells Elvin "Geoff will reach out"
-- **Geoff = union colleague of Brian's at WETA — IBEW**
+- **Geoff = union colleague of Brian Smith's at WETA — IBEW**
 - Brian acting as intermediary between Elvin and Geoff (fellow union member)
 - Context: this was two days after Elvin resigned from the union (12/27)
 - **This is significant:** Brian telling Elvin a union colleague will reach out,
@@ -160,13 +160,13 @@ This is a documented pattern of targeted physical surveillance and intimidation.
   re-engage or pressure Elvin after his departure
 - Geoff's outreach (if it happened) or failure to follow through are both relevant:
   - If Geoff reached out: what did he say? What was the purpose?
-  - If Geoff never reached out: Brian's statement was manipulative — keeping Elvin
+  - If Geoff never reached out: Brian Smith's statement was manipulative — keeping Elvin
     in limbo about his union status
 - **Action:** Document whether Geoff ever contacted Elvin and what was said
 
 #### Resignation from Union — 12/27
 - Elvin resigned from the union on the morning of December 27
-- The very next day (12/28) Brian is in the studio with Avo and John
+- The very next day (12/28) Brian Smith is in the studio with Avo and John
 - The harassment continued after resignation — Brian did not stop when union leverage ended
 - This shows the harassment was personal and coordinated, not just union politics
 

@@ -33,7 +33,7 @@ Elvin Sangano is a Black broadcast technology professional who:
 | Claim | Basis | Key Evidence |
 |---|---|---|
 | Race discrimination | Title VII — Black employee, white comparators retained/recalled | WETA scheduling records, comparator employees |
-| Union duty of fair representation | NLRA — IBEW union head Brian harassed Elvin, breached DFR | Union communications, witness testimony — **check 6-month NLRB deadline** |
+| Union duty of fair representation | NLRA — IBEW union head Brian Smith harassed Elvin, breached DFR | Union communications, witness testimony — **check 6-month NLRB deadline** |
 | Hostile work environment | Title VII — sustained, severe conduct at both WETA and VOA | Scheduling texts, sabotage records, CI pressure |
 | ADA retaliation | Reasonable accommodation approved → terminated | Accommodation approval letter |
 | FMLA retaliation | FMLA approved → terminated | FMLA approval documentation |
