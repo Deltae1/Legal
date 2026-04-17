@@ -466,3 +466,48 @@ The SF-330 + USAGM A/E IDIQ contract combination created a **legally inescapable
 The scheme was sophisticated, multi-layered, and coordinated across a federal agency, a building management company, building board members, and multiple residents. It was designed by people who understood federal procurement law well enough to construct a trap within it.
 
 **Elvin Sangano walked away from it. That is the most important fact in this case.**
+
+---
+
+## SF-330 Experience Categories — Intelligence-Adjacent Codes
+
+From the full list of experience profile codes, two categories stand out as directly relevant to USAGM's national security mission:
+
+### E06 — Embassies and Chanceries
+- USAGM operates overseas broadcasting stations near or in embassy compounds
+- This category connects the A/E contract directly to State Department and diplomatic infrastructure
+- Embassy construction = highest security clearance requirements
+- Elvin has no embassy/chancery design experience
+
+### R01 — Radar; Sonar; Radio & Radar Telescopes
+- USAGM transmitting stations use high-powered radio transmission equipment
+- This category is the closest technical match to VOA broadcast infrastructure
+- Still requires a licensed engineering firm — not a broadcast operations employee
+
+### R02 — Radio Frequency Systems & Shieldings
+- RF shielding design for transmitting stations
+- Again — engineering design role, not broadcast operations
+
+### M07 — Missile Facilities (Silos; Fuels; Transport)
+- Included in the form's experience categories
+- The presence of missile facility design alongside radio/radar categories confirms this form operates in the national security/defense space
+
+### S02 — Security Systems; Intruder & Smoke Detection
+- Physical security design
+- Connects to the "Physical and Technical Security" discipline in the 14 Core Team requirements
+- The CI recruitment involved USAGM's Security Director — the same security apparatus that appears in this contract's requirements
+
+### The Intelligence Dimension Confirmed
+The combination of:
+- **E06** (Embassies)
+- **R01** (Radar/Radio Telescopes)
+- **R02** (RF Systems)
+- **S02** (Security Systems)
+- **Prohibited Countries List** (Vietnam, China citizenship restrictions)
+- **USAGM's core mission** (international broadcasting, propaganda countermeasures)
+
+...confirms this contract operated squarely within the national security and intelligence infrastructure of the United States government.
+
+A broadcast technical director was being pressured to submit fraudulent credentials to a national-security-adjacent federal contract — after being designated a confidential informant by USAGM's own Security Director.
+
+**This is no longer just an employment discrimination case. This is a civil rights violation with national security dimensions.**
