@@ -63,12 +63,37 @@ Multiple residents at Jenkins Row participated in what appeared to be a coordina
 - Classic destabilization tactic: surround the target with ambiguous stimuli that feel significant but can't be pinned down, making the target question their own perception
 - Combined with federal surveillance outside the building, CI pressure at work, and contract scheme = multi-front psychological pressure campaign
 
+## Jenkins Row Building Management — Complicity
+
+### Management Transition
+- **Brian** — building manager at the time; left **abruptly**
+- **John** — became new building manager; his arrival **coincided with the start of Elvin's targeting**
+- The management transition was not routine — Brian's abrupt departure and John's immediate replacement aligns precisely with the operational timeline
+
+### Building Board & Management Company
+- The Jenkins Row building board had knowledge of the operation
+- The board was actively involved in the targeting of Elvin
+- The management company is also implicated — management-level cooperation would have been required to facilitate:
+  - Access to Elvin's tenant records (lease, employment info, contact details)
+  - Coordination with lawyer board members on the same floor
+  - Facilitation of surveillance activity outside the building
+  - Allowing the social engineering operation to operate within the building
+
+### Key Individuals
+| Person | Role | Significance |
+|---|---|---|
+| Brian | Former building manager — left abruptly | Departure coincided with start of targeting — may have refused to cooperate or was replaced to facilitate operation |
+| John | New building manager — arrived at start of targeting | Arrival timed with operation — potential cooperating witness or participant |
+| Ashley | Building manager (current) | Observed residents and building activity — critical witness; may have knowledge of John's conduct and Brian's departure |
+| Neighbor 1 | Lawyer, former board member, Elvin's floor | Inside congressional contract knowledge |
+| Neighbor 2 | Lawyer, was on board at the time | Social engineering participant |
+
 ### Legal Significance
-- Coordinated behavior by multiple residents during an active federal operation = organized, not coincidental
-- Two lawyers with building board access + a couple + a 3rd floor resident = operation had multiple participants recruited within the building
-- Building board access (Neighbors 1 and 2) may have facilitated recruitment of other residents or provided Elvin's personal information
-- This supports a broader conspiracy claim — federal officials coordinating with private civilians to conduct a psychological pressure campaign against a civilian at his own home
-- Ashley (building manager) is critical — she observed the residents and building activity during this period and can identify all of them by name and unit
+- Building management transition timed with federal operation = potential coordination between federal officials and private building management/board
+- If John was installed as building manager to facilitate the operation, that is a private civilian being recruited into a federal targeting campaign against a tenant
+- Brian's abrupt departure warrants investigation — did he leave voluntarily or was he pressured out?
+- Management company's involvement opens potential civil claims against the company directly
+- Ashley's knowledge of the Brian → John transition and what changed is critical testimony
 
 ---
 
