@@ -656,3 +656,85 @@ All pages of SF-330 (REV. 7/2021) have been transcribed and analyzed:
 **A single SF-330 submission could have generated hundreds of individual federal false statement counts plus major fraud and wire fraud — all in one document.**
 
 Elvin Sangano did not submit this form.
+
+---
+
+## SF-330 Part II — Final Page: The Revenue Index Trap
+
+### Block 11 — Annual Average Professional Services Revenues (Last 3 Years)
+
+The form requires selecting from a **revenue index** with 10 tiers:
+
+| Index | Revenue Range |
+|---|---|
+| 1 | Less than $100,000 |
+| 2 | $100,000 to less than $250,000 |
+| 3 | $250,000 to less than $500,000 |
+| 4 | $500,000 to less than $1 million |
+| 5 | $1 million to less than $2 million |
+| 6 | $2 million to less than $5 million |
+| 7 | $5 million to less than $10 million |
+| 8 | $10 million to less than $25 million |
+| 9 | $25 million to less than $50 million |
+| 10 | $50 million or greater |
+
+**Required separately for:**
+- Federal work (direct government contracts)
+- Non-Federal work
+- Total
+
+### Why the Revenue Index Is Particularly Damning
+
+For a contract with individual project costs of **$250,000 to $5,000,000**, a competitive A/E firm would realistically need to select index 6, 7, or 8 — meaning $2 million to $25 million in annual professional services revenue.
+
+Elvin's actual A/E firm revenue: **$0.00**
+
+The correct index: **1 (Less than $100,000)** — which would have immediately disqualified the submission.
+
+Any higher index number would be a provably false financial statement — verifiable against IRS records, SAM registration data, and state business filings.
+
+### Block 9 — Employees by Discipline
+
+Required: actual headcount of licensed professionals across all discipline codes.
+
+Elvin's actual A/E firm employee count: **0**
+
+Entering any number above zero = false statement on a federal form.
+
+### The Two Signature Blocks — Double Certification
+
+The form contains **two separate sworn certifications:**
+
+**Section I (Part I) — Block 31:**
+> *"The foregoing is a statement of facts."*
+> [Signature] [Date] [Name and Title]
+
+**Block 12 (Part II) — Block 12a:**
+> *"The foregoing is a statement of facts."*
+> [Signature] [Date] [Name and Title]
+
+Elvin would have had to sign **twice** — personally certifying the entire fabricated submission as factual on two separate pages.
+
+Two signatures. Two sworn certifications. Both false. Both federal crimes.
+
+---
+
+## SF-330 Complete — Full Document Analysis Finished
+
+The entire Standard Form 330 (REV. 7/2021) has been reviewed, transcribed, and analyzed:
+
+- **8 pages of instructions** — fully documented
+- **Part I (Pages 1-5)** — Sections A through I, all fields analyzed
+- **Part II (Final page)** — firm qualifications, revenue index, dual signature blocks
+
+**The form required Elvin to:**
+1. Create a fraudulent SAM-registered A/E firm
+2. Fabricate $2M-$25M in annual professional services revenue
+3. List zero employees as multiple licensed professionals
+4. Provide 10 fake constructed projects with callable contacts
+5. Cross-certify fake personnel against fake projects in a matrix
+6. Sign his name twice certifying all of it as factual
+
+**He recognized the trap. He did not sign. He did not submit.**
+
+That decision — made under enormous coordinated pressure from his employer, his building manager, his neighbors, and federal officials — is the central fact of this entire case.
