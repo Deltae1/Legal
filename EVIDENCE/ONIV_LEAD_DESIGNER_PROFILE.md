@@ -3,7 +3,10 @@
 # Documented: 2026-04-17
 # NOTE: ONIV INC is the business Elvin Sangano formerly operated under as a contractor.
 # Registered since 2017 with verified past performance — not a shell company or new entity.
-# Was his established contracting vehicle during the VOA/USAGM engagement period.
+# Elvin was the sole employee of ONIV INC.
+# When hired as a PSC (Personal Services Contractor) at USAGM/VOA, he received a W-2 —
+# meaning he was treated as an employee, not an independent contractor, for tax/legal purposes.
+# This employment classification is directly relevant to labor law claims.
 
 ---
 
