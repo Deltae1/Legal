@@ -29,17 +29,18 @@ Elvin has located the **original contract document** — it matches the USAGM po
 
 ## Jenkins Row Neighbors — Inside Knowledge
 
-### Neighbor 1 — Lawyer, Former Board Member (Elvin's Floor)
-- **Role:** Lawyer; formerly on a board (nature of board TBD — building board, government board, corporate board)
+### Neighbor 1 — Lawyer, Former Jenkins Row Building Board Member (Elvin's Floor)
+- **Role:** Lawyer; formerly on the **Jenkins Row building board**
 - **Location:** Same floor as Elvin at Jenkins Row
 - **What he said:** Something along the lines of: *"It's being finalized to pass in a few hours"*
 - **Context:** Reference to the contract/congressional approval timeline
 - **Significance:**
-  - This person had **real-time inside knowledge** of the congressional timeline for this specific contract
-  - "Finalized to pass in a few hours" = active knowledge of legislative/approval process, not general awareness
-  - A lawyer and former board member on Elvin's floor with inside knowledge of a contract being used to pressure a federal CI is not coincidence
-  - This person is a potential witness and potentially a participant in the scheme
-- **Action:** Document full physical description, apartment number if known, any interactions
+  - A lawyer and former building board member had **real-time inside knowledge** of the congressional timeline for a specific federal contract being used to pressure Elvin
+  - "Finalized to pass in a few hours" = active knowledge of the approval process, not general awareness
+  - Combined with federal surveillance vehicles parked outside Jenkins Row in mid-April 2024, this places the building itself as a nexus point in the operation
+  - The federal vehicles outside + a lawyer neighbor with inside contract knowledge + a second lawyer neighbor involved in social engineering = coordinated activity centered on Jenkins Row
+  - Ashley (building manager) becomes even more critical — she may have observed interactions between these neighbors and outside parties
+- **Action:** Document full physical description, apartment number if known, any other interactions; Ashley may know who he is by name
 
 ### Neighbor 2 — Lawyer, Same Building
 - **Role:** Lawyer in the Jenkins Row building
