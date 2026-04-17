@@ -104,12 +104,12 @@ discriminatory treatment of Elvin began from his very first days at WETA.
 
 | Period | Event | Legal Significance |
 |---|---|---|
-| **Probation (start of employment)** | Jay tells Heather + Schnider Elvin is "not good enough TD" | First adverse action — peer interference accepted without verification |
+| **Probation (start of employment)** | Jay Naval tells Heather + Schnider Elvin is "not good enough TD" | First adverse action — peer interference accepted without verification |
 | **Probation extended 3 months** | Based solely on Jay Naval's opinion | Management deferred to white peer over Black employee's demonstrated capability |
 | **Elvin TDs and delivers** | Probation resolved — but Audio assignments begin | Proved himself; punishment shifted form |
 | **2022–2024** | Consistent Audio assignments; white TDs get TD work | Two years of documented discriminatory scheduling |
 | **January 2024** | Left union due to Brian's harassment | Union protection stripped at peak of hostile environment |
-| **Late April 2024** | Schnider email + Tom parking lot incident | Coordinated foreknowledge — hostile environment fully activated |
+| **Late April 2024** | Schnider email + Tom Satterfield parking lot incident | Coordinated foreknowledge — hostile environment fully activated |
 | **June 2024** | Constructive discharge + hospitalization | Final outcome of multi-year campaign |
 
 **Chain of command for TD assignments:**
@@ -153,7 +153,7 @@ If discriminatory assignment began from early in his employment (not just 2024),
 ### Note on Intersectionality
 Elvin faced discrimination on multiple grounds simultaneously:
 - **Race** — Black in a predominantly white technical department
-- **National origin** — immigrant descent
+- **National origin** — Rwandan immigrant
 - **Age** — youngest TD
 
 DC Human Rights Act covers all three. An attorney may argue intersectional discrimination — the combination of these characteristics made him a target in ways that no single characteristic alone fully explains.
@@ -247,7 +247,7 @@ This is a textbook DCHRA disparate treatment case. An attorney will recognize th
 3. **Jim Schnider sent a staff-wide email** that appeared to signal a change in Elvin's standing
 
 **Why this is critical:**
-- Heather was the person who had controlled TD assignments for two years — assigning Elvin to Audio while giving TD work to Brian, Steve, and Jay
+- Heather was the person who had controlled TD assignments for two years — assigning Elvin to Audio while giving TD work to Brian Smith, Steve Shaw, and Jay Naval
 - Her texting Elvin personally on her promotion day suggests she was acutely aware of Elvin's position in the organizational dynamic
 - Schnider's simultaneous staff email — sent the same day — signals the promotion was a coordinated trigger for the escalating campaign against Elvin
 - Two senior figures acting in coordination on the same day = the hostile environment was orchestrated, not organic

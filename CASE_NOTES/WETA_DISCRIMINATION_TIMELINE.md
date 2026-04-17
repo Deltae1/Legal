@@ -32,7 +32,7 @@ discrimination from the first day of employment to the final lockout.
 | **Performance** | No documented on-air errors; clean record throughout | Destroys any performance pretext |
 | **Standing at VOA** | Lead TD, Rating 4 (Exceptional) two years running, $200k combined | Established his capability — known to WETA via Joe Usher/DeRubio pipeline |
 
-**Intersectional discrimination:** Elvin was the only Black TD, an immigrant, and
+**Intersectional discrimination:** Elvin was the only Black TD, a Rwandan immigrant, and
 the youngest in the department. The DC Human Rights Act recognizes intersectional
 discrimination — the combination of race, national origin, and age can make a
 target more vulnerable in ways that no single characteristic alone fully explains.

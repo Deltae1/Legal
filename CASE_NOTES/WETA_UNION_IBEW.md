@@ -19,8 +19,8 @@ of the ringleaders of the coordinated hostile environment targeting Elvin.
 
 | Name | Role | Conduct |
 |---|---|---|
-| **Brian** | IBEW union head + TD | Ringleader; stalking, intimidation, tire tampering, car alarm incident (witnessed by Gretchen and Sarah); pushed Elvin out of union — see BRIAN_HARASSMENT_LOG.md |
-| **Geoff** | IBEW union colleague of Brian | On 12/29 Brian told Elvin "Geoff will reach out" — two days after resignation; coordinated union response to Elvin's departure |
+| **Brian Smith** | IBEW union head + TD | Ringleader; stalking, intimidation, tire tampering, car alarm incident (witnessed by Gretchen and Sarah); pushed Elvin out of union — see BRIAN_HARASSMENT_LOG.md |
+| **Geoff** | IBEW union colleague of Brian Smith | On 12/29 Brian told Elvin "Geoff will reach out" — two days after resignation; coordinated union response to Elvin's departure |
 
 ### The Brian–Geoff Dynamic
 - Elvin resigned 12/27
@@ -95,11 +95,11 @@ The hostile environment came from multiple simultaneous directions:
 | Level | Actor | Conduct |
 |---|---|---|
 | Management | Jim Schnider | Triggering email; hostile atmosphere |
-| Union | Brian (head + TD) | Stalking, intimidation, ringleader |
+| Union | Brian Smith (head + TD) | Stalking, intimidation, ringleader |
 | Union | Geoff | Coordinated post-resignation response |
 | Operations | Nikki | Discriminatory scheduling (separate thread) |
 | Staff | Tom Satterfield (audio) | Foreknowledge of Schnider email — parking lot |
-| Staff | Brian, Steve, Jay (TDs) | Beneficiaries of discriminatory scheduling |
+| Staff | Brian Smith, Steve Shaw, Jay Naval (TDs) | Beneficiaries of discriminatory scheduling |
 | **Cross-employer link** | **Anthony DeRubio's cousin (VOA)** | **Information bridge between WETA and USAGM — see below** |
 
 **This is an organized group — not a series of coincidences.**
@@ -134,7 +134,7 @@ DeRubio is not just a comparator — he may be a participant in the coordination
 **4. Discovery priority**
 - Identify DeRubio's cousin at VOA: name, role, email, dates of employment
 - Any communications between DeRubio's cousin and WETA staff about Elvin
-- Any communications between DeRubio and Brian or other WETA ringleaders
+- Any communications between DeRubio and Brian Smith or other WETA ringleaders
 - WETA + VOA email servers — cross-employer communications referencing Elvin Sangano
 
 ### Updated Coordination Network
@@ -142,7 +142,7 @@ DeRubio is not just a comparator — he may be a participant in the coordination
 | Level | Actor | Conduct | Link |
 |---|---|---|---|
 | Management | Jim Schnider (WETA) | Triggering email; reinstated DeRubio, denied Elvin | Direct |
-| Union | Brian (WETA) | Stalking, intimidation, ringleader | Direct |
+| Union | Brian Smith (WETA) | Stalking, intimidation, ringleader | Direct |
 | Cross-employer | **Joe Usher (VOA)** | **DeRubio's cousin at VOA — information bridge; believed to have provided information that contributed to Elvin's targeting** | ⚠️ Active participant — needs development |
 | Staff | Anthony DeRubio (WETA) | Comparator; family connection to VOA via Joe Usher | Needs development |
 | Operations | Nikki (WETA) | Discriminatory scheduling | Direct |
@@ -162,7 +162,7 @@ DeRubio is not just a comparator — he may be a participant in the coordination
 - Joe Usher worked at VOA and had access to Elvin's schedule and assignments
 - He is believed to have shared Elvin's **schedule and assignment information** with his cousin Anthony DeRubio at WETA
 - Elvin's schedule and assignment details in DeRubio's hands at WETA would have given the hostile environment network advance knowledge of Elvin's movements, workload, and professional standing at VOA
-- This is consistent with the coordinated nature of the WETA targeting — Brian waiting at the entrance, Tom Satterfield in the parking lot, Schnider's email timing
+- This is consistent with the coordinated nature of the WETA targeting — Brian Smith waiting at the entrance, Tom Satterfield in the parking lot, Schnider's email timing
 - Assignment information specifically would have revealed Elvin's seniority, the quality of work he was doing at VOA, and his value to the organization — directly fueling the jealousy and resentment documented at WETA
 
 ### What Is Not Yet Known

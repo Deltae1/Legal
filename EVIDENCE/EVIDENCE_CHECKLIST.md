@@ -17,7 +17,7 @@
 | **VOA Exceptional Award documentation** | Only employee in dept to win 3 consecutive years; supervisor-rated; monetary compensation | ✅ Available — back up now |
 | **Photos of surveillance vehicles (mid-April 2024)** | Federal vehicles near workplace + residence — coordinated surveillance operation | 🔴 CHECK PHONE NOW — search mid-April 2024 photos |
 | **Video of 3rd floor lady (Jenkins Row)** | Objective timestamped evidence of coordinated social engineering behavior — only non-testimonial evidence of the Jenkins Row operation | 🔴 BACK UP IMMEDIATELY — email to Gmail, upload to cloud, do NOT trim or edit, preserve original metadata |
-| **Personal journal — WETA hostile environment period** | Contemporaneous written record of Brian's harassment, Tom parking lot incident, and full hostile environment — dated entries created at the time carry significant legal weight as contemporaneous documentation | 🔴 CRITICAL — locate and back up immediately; do NOT edit or add to existing entries; photograph or scan every page; original dates must be preserved |
+| **Personal journal — WETA hostile environment period** | Contemporaneous written record of Brian's harassment, Tom Satterfield parking lot incident, and full hostile environment — dated entries created at the time carry significant legal weight as contemporaneous documentation | 🔴 CRITICAL — locate and back up immediately; do NOT edit or add to existing entries; photograph or scan every page; original dates must be preserved |
 | **W-2s from USAGM directly (2020–2022)** | Issued by USAGM — no staffing intermediary. Proves direct federal employment relationship. Triggers Title VII, whistleblower, and federal labor law protections. Zero ambiguity on employer identity — USAGM is named on the form. | ✅ 2020, 2021, 2022 confirmed in possession — scan/photograph and back up NOW |
 | **W-2 from USAGM 2023 (most recent year)** | Final year W-2 — covers the period closest to the CI pressure campaign, retaliation, and termination | ⬜ Not yet located — obtain via IRS or USAGM |
 | **ONIV INC registration documents** | Company registered since 2017 — 7 years of legitimate business history before 2024 submission; destroys any shell company or fraudulent entity narrative | ✅ Locate and back up — state incorporation records |
@@ -111,7 +111,7 @@
 |---|---|---|
 | WETA scheduling records 2022–2024 | Subpoena WETA HR / production scheduling system | ⬜ Via litigation |
 | Nikki's assignment emails/schedules | Subpoena WETA email servers | ⬜ Via litigation |
-| **Names of white TDs assigned to TD work** | Brian, Steve, Jay — ✅ named. Last names via WETA HR in discovery | ✅ Named |
+| **Names of white TDs assigned to TD work** | Brian Smith, Steve Shaw, Jay Naval — ✅ named. Last names via WETA HR in discovery | ✅ Named |
 | Nikki (WETA scheduling coordinator) testimony | Deposition | ⬜ Via litigation |
 
 ---
