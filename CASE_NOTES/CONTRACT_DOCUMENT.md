@@ -411,3 +411,58 @@ Had Elvin gone through with the full submission:
 **Five separate categories of federal criminal exposure, stacked on top of each other.**
 
 They didn't just want him to submit a form. They wanted to bury him.
+
+---
+
+## SF-330 Complete Discipline List — 62 Professional Categories
+
+The form lists **62 separate professional discipline codes** that firms must staff and certify. A responding firm would need to identify licensed professionals across all relevant disciplines.
+
+### Selected Disciplines Particularly Relevant to USAGM A/E Contract
+| Code | Discipline | Relevance |
+|---|---|---|
+| 05 | Architect | Primary discipline — required lead |
+| 12 | Civil Engineer | Site work at overseas stations |
+| 21 | Electrical Engineer | Transmitting station electrical systems |
+| 22 | Electronics Engineer | Closest to Elvin's actual expertise — but requires engineering license |
+| 42 | Mechanical Engineer | Building systems |
+| 57 | Structural Engineer | New construction |
+| 26 | Foundation/Geotechnical Engineer | Overseas site analysis |
+| 53 | Security Specialist | Physical/technical security — intelligence dimension |
+
+### Code 22 — Electronics Engineer
+This is the **only discipline** even remotely related to Elvin's background as a broadcast technical director. However:
+- It requires a professional engineering license
+- It requires documented project history in electronics engineering
+- Broadcast technical direction is an operations role, not an engineering design role
+- Even this closest match would have required false credentials to claim
+
+### Experience Category C14 — Communications Systems; TV; Microwave
+This category covers "Communications Systems; TV; Microwave" — the closest experience category to VOA broadcast work. However:
+- It requires documented revenue history from this work as an A/E firm
+- Elvin's work was as an employee of VOA, not as an independent A/E firm
+- Still required a licensed firm structure to claim
+
+### Block 11 — Three-Year Revenue History
+> *"Enter the appropriate revenue index numbers to reflect the professional services revenues received annually (averaged over the last 3 years)"*
+> *"Indicate Federal work (performed directly for the Federal Government, either as the prime contractor or subcontractor), non-Federal work"*
+
+- Required 3 years of A/E firm revenue history — completely fabricated for Elvin
+- The federal vs. non-federal breakdown is verifiable against IRS and SAM records
+- Any numbers submitted would be provably false
+
+---
+
+## Final Summary — The Complete Entrapment Architecture
+
+The SF-330 + USAGM A/E IDIQ contract combination created a **legally inescapable trap**:
+
+**To respond legitimately:** Required a licensed multi-discipline A/E firm with 5+ years revenue history, SAM registration, 10 constructed projects, and 14 licensed professionals. Impossible for a broadcast technical director.
+
+**To respond fraudulently:** Required fabricating a SAM registration, a corporate entity, 3-5 years of revenue history, professional licenses across multiple disciplines, constructed project portfolios, key personnel resumes, and a personal sworn certification — constituting 5+ categories of federal felonies.
+
+**Either way, Elvin loses** — unless he does what he did: recognize the trap and walk away.
+
+The scheme was sophisticated, multi-layered, and coordinated across a federal agency, a building management company, building board members, and multiple residents. It was designed by people who understood federal procurement law well enough to construct a trap within it.
+
+**Elvin Sangano walked away from it. That is the most important fact in this case.**
