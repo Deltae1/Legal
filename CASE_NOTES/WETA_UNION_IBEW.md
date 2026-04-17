@@ -166,10 +166,12 @@ DeRubio is not just a comparator — he may be a participant in the coordination
 - Assignment information specifically would have revealed Elvin's seniority, the quality of work he was doing at VOA, and his value to the organization — directly fueling the jealousy and resentment documented at WETA
 
 ### What Is Not Yet Known
-- Whether Usher's involvement went beyond sharing schedule information
+- Whether Usher's involvement went beyond sharing schedule and assignment information
+- **Whether Usher was acting in a personal capacity** (family loyalty to DeRubio) **or an official capacity** (directed by someone at VOA or USAGM Security) — both are possible; Elvin does not believe it was official but cannot rule it out; discovery will establish this
 - Whether Usher had any contact with USAGM Security personnel
-- Whether the schedule sharing was deliberate targeting or casual family conversation that was then weaponized by DeRubio
 - Usher's exact role and seniority at VOA
+
+**Note:** If personal capacity — unauthorized disclosure of a colleague's work information to a hostile third party. If official capacity — potential Bivens exposure as a federal actor. Either way the disclosure is actionable; capacity determines which legal theory applies.
 
 ### Why Schedule and Assignment Information Matters
 Knowing Elvin's schedule and assignments at VOA gave WETA actors:
