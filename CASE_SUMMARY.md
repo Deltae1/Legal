@@ -97,15 +97,47 @@ Elvin Sangano is a Black broadcast technology professional who:
 
 ## What Makes This Case Unusual
 
-1. **The CI pressure campaign** — USAGM Security attempted to recruit Elvin as a confidential informant over his explicit objection. A federal contract was used simultaneously as incentive and pressure instrument. This is not a standard employment case.
+1. **Social engineering and mobbing — not explicit instruction**
+   The CI pressure campaign did not involve anyone explicitly saying "help us commit fraud."
+   Instead, USAGM Security and connected actors used **social engineering and coordinated
+   mobbing tactics** to gradually steer Elvin toward financial entanglement. This is
+   legally significant: there was no criminal intent on Elvin's part because the intent
+   was manufactured through a sustained influence operation — not freely formed.
 
-2. **The contract scheme** — RFP 951700-24-R-0014 was tailored precisely to Elvin's background. He submitted truthfully and refused the parts (SF-330) that would have created criminal exposure. His good faith is documented.
+   The mechanism:
+   - Exploit good faith (Elvin had been reporting real sabotage at VOA for months)
+   - Approach under the guise of that legitimate investigation
+   - Establish obligation (CI relationship)
+   - Isolate (WETA mobbing = enforcement arm of the financial pressure)
+   - Escalate demands incrementally (information → contract proposals → financial documents)
+   - Apply environmental pressure (surveillance, condo, community)
+   - Use institutional language to normalize compliance (mission, patriotism)
 
-3. **The Bivens dimension** — Federal officials coordinated with private civilians (Jenkins Row building management, neighbors) to pressure a federal contractor at his home. This extends beyond employment law into constitutional tort territory.
+   **The sabotage emails (June–December 2023) are foundational** — they establish why
+   Elvin cooperated at all. He had been documenting and reporting real technical
+   interference at VOA. When security approached him, he believed in good faith it was
+   connected to that. That good faith was exploited.
 
-4. **The court ruling** — The termination basis has already been ruled illegal by a federal court. This case begins with a judicial finding in Elvin's favor on the core termination issue.
+2. **The CI pressure campaign** — USAGM Security attempted to recruit Elvin as a
+   confidential informant. A federal contract was used simultaneously as incentive
+   and pressure instrument. He refused. This is not a standard employment case.
 
-5. **The document stack** — USAGM's own paperwork tells the story: W-2s prove employment, Rating 4 proves performance, FMLA approval proves condition, accommodation approval proves disability, termination letter proves adverse action. Every critical fact is documented by the defendant.
+3. **The contract scheme** — RFP 951700-24-R-0014 was tailored precisely to Elvin's
+   background. He submitted truthfully and refused the parts (SF-330) that would have
+   created criminal exposure. His good faith is documented in writing.
+
+4. **The Bivens dimension** — Federal officials coordinated with private civilians
+   (Jenkins Row building management, neighbors) to pressure a federal contractor at
+   his home. This extends beyond employment law into constitutional tort territory.
+
+5. **The court ruling** — The termination basis has already been ruled illegal by a
+   federal court. This case begins with a judicial finding in Elvin's favor on the
+   core termination issue.
+
+6. **The document stack** — USAGM's own paperwork tells the story: W-2s prove
+   employment, Rating 4 proves performance, FMLA approval proves condition,
+   accommodation approval proves disability, termination letter proves adverse action.
+   Every critical fact is documented by the defendant.
 
 ---
 

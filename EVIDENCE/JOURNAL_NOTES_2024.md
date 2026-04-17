@@ -63,6 +63,46 @@
 
 ---
 
+## ⚠️ CRITICAL FRAMING NOTE — Read Before Any Other Analysis
+
+**This journal must be understood in its correct context.**
+
+The VOA sabotage emails (June–December 2023) document a real, pre-existing pattern
+of technical interference at VOA that Elvin had been professionally reporting through
+proper channels for months. That sabotage was real. His reporting of it was legitimate.
+
+**When security personnel approached Elvin, he believed — reasonably and in good faith —
+that it was in connection with that ongoing sabotage pattern he had been documenting.**
+
+There was no explicit offer to join an investigation. There was no explicit instruction
+to participate in financial crimes. What happened instead was:
+
+> **Social engineering and mobbing tactics used to gradually steer him.**
+
+The mechanism was not direct instruction — it was manufactured pressure:
+- Create confusion (what is the "mission"? who are these people?)
+- Establish obligation (you're a CI now, you gave us information)
+- Isolate (WETA mobbing, community surveillance, condo neighbors)
+- Escalate demands incrementally (information → contract proposals → financial documents)
+- Apply environmental pressure (color coding, knocking, crosstalk, following)
+- Use institutional language to normalize compliance (mission, patriotism, honor)
+
+**Elvin never agreed to commit a crime. He was maneuvered toward entanglement
+through a coordinated influence operation that exploited his good faith.**
+
+This framing is essential for:
+- Negating any criminal intent argument (intent was manufactured, not his own)
+- Establishing the agency's liability (they initiated, they steered, they pressured)
+- Explaining the CI sequence as coercion, not voluntary participation
+- Connecting the WETA mobbing to the VOA pressure as a unified operation
+  (isolation at work = enforcement mechanism for the financial pressure)
+
+**The sabotage emails are not just workplace evidence — they are the foundation
+of why Elvin cooperated at all. Remove those emails, and the approach looks random.
+With those emails, the approach was a calculated exploitation of his good faith reporting.**
+
+---
+
 ## Legal Analysis — What This Journal Entry Establishes
 
 ### 1. Amanda Bennett Email as the Starting Point
