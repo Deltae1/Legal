@@ -609,3 +609,50 @@ The form was engineered — intentionally or not — to make fraudulent submissi
 3. ✅ Standard Form 330 (REV. 7/2021) — complete blank form, all 8 pages of instructions + form pages
 4. ✅ Video of 3rd floor lady (social engineering behavior)
 5. ⚠️ All items need to be photographed and backed up to Gmail + Google Drive + iCloud immediately
+
+---
+
+## SF-330 Section H & Complete Section G Matrix
+
+### Section H — Additional Information (Block 30)
+> *"Provide any additional information requested by the agency."*
+
+This is an open-ended section where the contracting officer can request anything beyond the standard fields. For a USAGM national-security-adjacent contract this could include:
+- Security clearance status
+- Citizenship verification
+- Foreign national team member disclosures
+- Classified project experience
+
+Any false statement in Section H carries the same 18 U.S.C. § 1001 exposure as every other section.
+
+### Complete Section G Matrix — All 10 Project Slots
+The full matrix runs projects 1 through 10 across all key personnel. With:
+- 10 example projects required (Section F)
+- Multiple key personnel per discipline
+- 14 core disciplines minimum
+
+A fully completed Section G would contain **hundreds of individual X marks** — each one a separate false attestation of personal participation in a specific constructed project.
+
+### The Form Is Now Fully Documented
+All pages of SF-330 (REV. 7/2021) have been transcribed and analyzed:
+- Instructions pages 1-8 ✅
+- Part I: Sections A through H ✅  
+- Part I: Pages 1-4 of the form itself ✅
+- Section G complete matrix (projects 1-10) ✅
+
+### Final Count — Criminal Exposure from a Single SF-330 Submission
+| Section | False Statements | Statute |
+|---|---|---|
+| Section A | Fake solicitation number entry | 18 U.S.C. § 1001 |
+| Section C | Fake firm names, addresses, roles | 18 U.S.C. § 1001 |
+| Section E Block 17 | Fake professional license per person | 18 U.S.C. § 1001 |
+| Section E Block 19 | Up to 5 fake projects per person | 18 U.S.C. § 1001 |
+| Section F | Up to 10 fake constructed projects with fake contacts | 18 U.S.C. § 1001 |
+| Section G | Hundreds of false X attestations | 18 U.S.C. § 1001 |
+| Section I | Personal sworn certification of all of the above | 18 U.S.C. § 1001 + § 1031 |
+| Part II | Fake SAM registration, fake firm revenue history | 18 U.S.C. § 1001 + § 1031 |
+| Electronic submission | Wire fraud on every transmission | 18 U.S.C. § 1343 |
+
+**A single SF-330 submission could have generated hundreds of individual federal false statement counts plus major fraud and wire fraud — all in one document.**
+
+Elvin Sangano did not submit this form.
