@@ -146,7 +146,54 @@ Upon return, Elvin experienced:
 
 ---
 
-## ⚠️ CRITICAL LEGAL FINDING — Confirmed 2026-04-17
+## ⚠️ CRITICAL LEGAL FINDING #2 — Confirmed 2026-04-17
+
+### Post-RIF Recall — Elvin Specifically Excluded
+
+**What happened:**
+- Elvin was terminated alongside others in a DOGE-related reduction in force (May 31, 2024)
+- Programming has since resumed at USAGM/VOA
+- Colleagues from the same RIF have been called back
+- **Elvin was not recalled**
+
+**Why this is legally devastating for USAGM:**
+
+The RIF defense ("everyone was cut") collapses the moment selective recall began. The legal question shifts from *"why was he terminated"* to *"why was he specifically excluded from recall when others were brought back?"*
+
+USAGM must now answer:
+- What criteria determined who was recalled?
+- Who made the recall decisions?
+- Were those criteria applied consistently?
+- Why was the highest-rated employee in the department not recalled?
+
+**Protected characteristics that explain the exclusion:**
+- Approved FMLA on file — protected status under federal law
+- Approved reasonable accommodation — disability status acknowledged
+- Refused CI cooperation — whistleblower/retaliation motive
+- Race — only Black employee in comparable role
+- Benjamin Johnas previously demonstrated they wanted Elvin back — makes deliberate exclusion even harder to justify
+
+**Legal theories this supports:**
+
+| Theory | Basis |
+|---|---|
+| ADA retaliation | Recalled others, excluded the one with approved accommodation |
+| FMLA retaliation | Recalled others, excluded the one with approved FMLA |
+| Race discrimination | Recalled others, excluded the Black employee with strongest performance record |
+| Whistleblower retaliation | Recalled others, excluded the one who refused CI cooperation |
+| Pretextual RIF | DOGE cuts used as cover — selective recall proves termination was not purely budget-driven |
+
+**Any one of these alone is actionable. All four together is a pattern.**
+
+**Discovery targets:**
+- Recall decision-maker identity
+- Recall criteria (written or oral)
+- List of all employees terminated in same RIF
+- List of all employees subsequently recalled
+- Communications referencing Elvin Sangano during recall process
+- Whether anyone with FMLA or accommodation approval was recalled (comparators)
+
+---
 
 **Both FMLA and reasonable accommodation were approved BEFORE the final termination.**
 
