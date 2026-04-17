@@ -46,9 +46,71 @@ This is critical context that reframes the entire WETA case. The reinstatement d
 **White TDs who received TD assignments while Elvin was assigned to Audio:**
 1. **Brian** — white TD, regularly assigned to TD work 2022–2024
 2. **Steve** — white TD, regularly assigned to TD work 2022–2024
-3. **Jay** — white TD, regularly assigned to TD work 2022–2024
+3. **Jay** — white TD, regularly assigned to TD work 2022–2024; **also interfered during Elvin's probation period — see below**
 
 These three are named comparators for the discriminatory assignment claim. All three received the TD assignments Elvin was hired for and qualified to perform. Their full names and assignment histories are subpoenable via WETA scheduling records and Nikki's distribution emails.
+
+---
+
+## ⚠️ Probation Period — Discrimination Started Day One
+
+### What Happened
+- When Elvin joined WETA, he was subject to a standard probation period
+- **During probation, Jay told Heather and Jim Schnider that Elvin was "not a good enough TD"**
+- Based on Jay's assessment, Elvin's probation was **extended by 3 months**
+- Elvin was then given the opportunity to TD — and delivered
+- After he demonstrated his TD capability, the probation issue was dropped with no further mention
+- **However:** He was then assigned to Audio on weekends — initially understandable as he was new, but the pattern never reversed. He was singled out.
+
+### Why This Is Legally Significant
+
+**1. Jay had no supervisory authority over Elvin**
+Jay was a white TD peer — not a manager, not HR, not Schnider. He was a colleague
+at the same level. His opinion on whether Elvin was "good enough" had no business
+being the basis for extending a probationary period. The fact that Heather and
+Schnider acted on Jay's assessment — rather than their own direct observation —
+shows that white peer pressure was being used to shape management decisions about
+a Black employee.
+
+**2. The probation extension was not performance-based**
+Elvin was given the chance to TD and delivered — the extension was resolved not
+because he improved but because he proved Jay wrong. There was no documented
+performance deficiency. The extension was based entirely on a white colleague's
+subjective and unsubstantiated opinion.
+
+**3. This is the origin of the discriminatory pattern**
+The probation interference established the template:
+- Jay (white TD) voices negative assessment of Elvin (Black TD)
+- Management acts on it without independent verification
+- Elvin is disadvantaged as a result
+- When Elvin proves himself, the issue quietly disappears — but the disadvantage continues in the form of Audio assignments
+
+**4. Jay is now a comparator AND a bad actor**
+Jay was not just a beneficiary of the discriminatory scheduling — he was an
+active participant in it from day one. His probation interference was the first
+act of discrimination in the WETA case. This makes him a deposition priority:
+- What exactly did he tell Heather and Schnider?
+- What was the basis for his assessment?
+- Did he make similar assessments of white TD colleagues?
+- Did his interference continue beyond the probation period?
+
+**5. Heather and Schnider's response is the adverse action**
+They received Jay's opinion and acted on it — extending Elvin's probation.
+That decision is the first documented adverse employment action in the WETA case.
+It predates the two years of scheduling discrimination and establishes that the
+discriminatory treatment of Elvin began from his very first days at WETA.
+
+### Updated WETA Discrimination Timeline
+
+| Period | Event | Legal Significance |
+|---|---|---|
+| **Probation (start of employment)** | Jay tells Heather + Schnider Elvin is "not good enough TD" | First adverse action — peer interference accepted without verification |
+| **Probation extended 3 months** | Based solely on Jay's opinion | Management deferred to white peer over Black employee's demonstrated capability |
+| **Elvin TDs and delivers** | Probation resolved — but Audio assignments begin | Proved himself; punishment shifted form |
+| **2022–2024** | Consistent Audio assignments; white TDs get TD work | Two years of documented discriminatory scheduling |
+| **January 2024** | Left union due to Brian's harassment | Union protection stripped at peak of hostile environment |
+| **Late April 2024** | Schnider email + Tom parking lot incident | Coordinated foreknowledge — hostile environment fully activated |
+| **June 2024** | Constructive discharge + hospitalization | Final outcome of multi-year campaign |
 
 **Chain of command for TD assignments:**
 - **Jim Schnider** — Director of Operations (ultimate decision-maker, Heather reported to him)
