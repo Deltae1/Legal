@@ -148,7 +148,44 @@ Upon return, Elvin experienced:
 
 ## ⚠️ CRITICAL LEGAL FINDING #3 — Confirmed 2026-04-17
 
-### Federal Court Ruled DOGE Cuts to USAGM Were Illegal
+### Federal Court Ruled DOGE Cuts to USAGM Were Illegal — Reinstatement Ordered
+
+**Source:** Washington Reporter — exclusive interview with USAGM CEO Michael Rigas
+**URL:** https://washingtonreporter.news/exclusive-usagm-ceo-michael-rigas-on-moving-forward-with-a-measured-return-to-work-for-usagm-employees-on-administrative-leave/
+**Key phrase:** "measured return to work for USAGM employees on administrative leave"
+
+**What this confirms:**
+- A court ruling forced USAGM to begin returning employees to work
+- Employees were on **administrative leave** — not permanently terminated in all cases
+- USAGM CEO was compelled to address returns publicly — meaning a court order drove it
+- The return is described as "measured" — meaning USAGM is controlling who comes back and when
+
+**Critical distinction — Administrative Leave vs. Termination:**
+- Some USAGM employees were placed on administrative leave (paid, technically still employed)
+- Elvin received a **termination letter** — a harder separation than administrative leave
+- The court ruling may apply differently to terminated vs. admin leave employees
+- **This needs attorney clarification immediately** — was Elvin's termination letter a true termination or effectively an administrative leave under a different label?
+
+**If Elvin was truly terminated (not admin leave):**
+- The court-ordered return may not automatically apply to him
+- However the illegal nature of the underlying cuts still invalidates the termination basis
+- His non-recall while others return is still actionable
+
+**If Elvin's termination was functionally equivalent to admin leave:**
+- He may be directly covered by the court order
+- USAGM's failure to return him is a violation of the court order
+- This becomes a contempt/enforcement issue in addition to the underlying claims
+
+**Action items — URGENT:**
+1. Obtain the actual court ruling — case name, docket, judge, jurisdiction
+2. Determine exact legal status of Elvin's separation — termination vs. admin leave
+3. Determine if the court order covers terminated PSC contractors or only direct federal employees
+4. If covered — USAGM's failure to recall Elvin may be a court order violation
+5. Attorney should review the Rigas interview and underlying court order immediately
+
+**Reference:** Search "USAGM court ruling DOGE reinstatement 2025" for full case details
+
+---
 
 **What happened:**
 - A federal judge has ruled that the DOGE-related cuts to USAGM were **illegal**
