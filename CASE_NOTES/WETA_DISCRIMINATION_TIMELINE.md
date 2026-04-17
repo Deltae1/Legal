@@ -179,11 +179,12 @@ via email. Every discriminatory assignment is documented and discoverable.**
 
 **Why the EIC reassignment strengthens the case:**
 - DeRubio was reinstated, allowed to TD, then reassigned to EIC **because he made on-air errors**
-- Elvin was never given the chance to return at all — despite having a clean performance record and no documented on-air errors
+- Elvin had already been pushed toward constructive discharge well before DeRubio returned — he was still showing up, focusing on doing his job, while the hostile environment made that increasingly difficult
+- Elvin had no documented on-air errors — he was simply trying to work through an intolerable situation
 - WETA accommodated DeRubio's documented performance failures with a role adjustment
 - WETA gave Elvin nothing — not reinstatement, not a reduced role, not any form of accommodation
-- The white employee with actual documented errors was treated better than the Black employee with no documented errors
-- This is the disparate treatment argument in its clearest possible form: **DeRubio failed and was accommodated; Elvin succeeded and was rejected**
+- **The white employee with actual documented errors was treated better than the Black employee with no documented errors who was just trying to do his job**
+- This is the disparate treatment argument in its clearest possible form: DeRubio failed and was accommodated; Elvin succeeded and was rejected
 
 **DeRubio–Usher connection:**
 - Anthony DeRubio's cousin **Joe Usher** worked at VOA
