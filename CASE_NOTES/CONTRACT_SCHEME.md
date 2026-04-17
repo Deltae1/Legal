@@ -133,10 +133,13 @@ Multiple residents at Jenkins Row participated in what appeared to be a coordina
 - Ashley — as building manager, she may have received or been aware of the resident notification email
 - Any resident who received the notification email and is willing to speak
 
-### Approach
-- **Do not confront current board members directly** — let attorney handle
-- Ashley remains the safest first contact — she is staff, not board, and has no board loyalty
-- When speaking to Ashley, ask open questions — don't mention the sting theory directly; let her volunteer what she knows
+### Source Protection Note
+- Elvin has sources for the sting operation information — identities withheld
+- Sources may have been told the matter is classified
+- **Do not name sources to anyone until attorney-client privilege is established**
+- Sources are not needed to pursue discovery — the management company email servers either contain the notification or they don't
+- If the notification email was deleted, that is spoliation
+- Sources pointed to the right place — documents will prove it independently
 
 ---
 
