@@ -30,15 +30,13 @@
 
 ## Chronological Timeline
 
-### Early 2024 (February–March) — Hostile Work Environment Begins at WETA
+### Early–Late 2024 — Hostile Work Environment at WETA
 **Key individual:** Jim Schnider, Director of Operations, WETA (now retired)
 
-Following sudden promotion of Heather (Tech Production Manager), Jim Schnider sent an email that appeared to identify Kobe as a replacement for the position. This signaled a change in his standing.
-
-Following this email:
-- Colleagues exhibited antagonistic behavior
-- Deliberate interference with Kobe's work began
-- Social isolation and exclusion from normal workplace interactions
+- **January 2024** — Elvin leaves IBEW union due to harassment by union head Brian (TD)
+- **Late April 2024** — Jim Schnider sends email about Heather's promotion, signaling change in Elvin's standing
+  - Same day: Tom (audio staff) waiting in parking lot with a smile — knew about the email before or simultaneously with Elvin — proves coordinated foreknowledge
+- Following the email: colleagues exhibited antagonistic behavior, deliberate interference with Elvin's work, social isolation and exclusion
 
 **Evidence:**
 - Jim Schnider email (WETA IT/email server — discoverable)

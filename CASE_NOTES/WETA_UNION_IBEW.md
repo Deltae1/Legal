@@ -22,8 +22,8 @@ hostile environment targeting Elvin at WETA.**
 |---|---|
 | During WETA employment | Active IBEW union member |
 | January 2024 | Left the union due to harassment by union head Brian |
-| Early 2024 — Day of Schnider email | Tom (audio) waiting in parking lot with a smile — knew about the email before Elvin |
-| Early 2024 | Hostile work environment at WETA intensifies across multiple actors |
+| **Late April 2024** | Jim Schnider email sent — Tom (audio) waiting in parking lot same day with a smile, knew in advance |
+| Early–Late 2024 | Hostile work environment at WETA intensifies across multiple actors |
 
 ---
 
