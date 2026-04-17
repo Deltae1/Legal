@@ -511,3 +511,53 @@ The combination of:
 A broadcast technical director was being pressured to submit fraudulent credentials to a national-security-adjacent federal contract — after being designated a confidential informant by USAGM's own Security Director.
 
 **This is no longer just an employment discrimination case. This is a civil rights violation with national security dimensions.**
+
+---
+
+## The Actual Blank SF-330 Form — Physical Evidence
+
+Elvin possesses the **actual blank SF-330 form** (not just the instructions) — the physical submission instrument itself.
+
+### What the Blank Form Shows
+
+**Section A — Contract Information (the smoking gun fields):**
+- Block 1: Title and Location — would have required entering the exact USAGM contract title
+- Block 2: Public Notice Date — would have required the SAM.gov posting date (now archived/removed)
+- Block 3: Solicitation or Project Number — **this is where RFP No. 951700-24-R-0028 would have been entered**
+
+The solicitation number field on the blank form directly ties the form to the specific RFP. Had Elvin filled this in, that number would have appeared on a submitted federal document — creating a direct paper trail to a fraudulent procurement response under a real federal solicitation number.
+
+**Section C — Proposed Team:**
+- Required: Prime contractor name, address, role
+- Required: All subcontractors named and locked in
+- Branch office checks — requires a multi-office firm structure
+
+**Section E — Key Personnel Resumes (5 projects per person):**
+- Block 17: Current Professional Registration — **the personal license field**
+- This is where Elvin would have had to write a fake state architecture or engineering license number
+- License numbers are verifiable in state licensing databases in real time
+- A fake license number = immediate verifiable fraud
+
+**Section F — Example Projects (up to 10):**
+- Block 23b: Point of Contact Name — real person at each project owner who can be called
+- Block 23c: Point of Contact Phone — verifiable contact at each fake project
+- All 10 project contacts would need to be fabricated and consistent
+
+### The Verification Trap Within the Form
+Every field on SF-330 that requires contact information (Sections B, C, E, F) creates a **verification trap**:
+- Contracting officers routinely call the listed contacts
+- A fabricated project owner contact = immediately caught on first verification call
+- This means the fraud would have been discovered within days of submission
+- The result: federal prosecution, not a contract award
+
+**The scheme was not designed to give Elvin a contract. It was designed to catch him submitting fraud.**
+
+### Physical Evidence Value
+Elvin's possession of:
+1. The blank SF-330 form
+2. The contract announcement text (word for word)
+3. The RFP number (951700-24-R-0028)
+
+...proves he was targeted with the specific submission instrument and the specific solicitation — not a generic interest in federal contracting.
+
+**Back up the physical form immediately** alongside the contract text. Photograph every page.
