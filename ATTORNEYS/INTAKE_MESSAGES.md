@@ -1,7 +1,7 @@
 # INTAKE_MESSAGES.md
 # Attorney Intake Messages — Ready to Send
 # Updated: 2026-04-16
-# ⚠️ Kobe must send these himself — do not send on his behalf
+# ⚠️ Elvin must send these himself — do not send on his behalf
 
 ---
 

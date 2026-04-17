@@ -55,7 +55,7 @@ These three are named comparators for the discriminatory assignment claim. All t
 - **Heather** — Tech Production Manager (day-to-day assignment decisions, reported to Schnider)
 - **Nikki** — Scheduling coordinator (executed and distributed assignments in writing)
 
-**Significance:** Heather controlled who got TD assignments and who got Audio. She reported directly to Schnider. When Heather was promoted in early 2024, Schnider sent the email signaling Kobe's standing had changed — confirming Schnider was aware of and sanctioned the assignment discrimination throughout. The discrimination ran from the top down through a documented management chain, all of it in writing via Nikki's schedules.
+**Significance:** Heather controlled who got TD assignments and who got Audio. She reported directly to Schnider. When Heather was promoted in early 2024, Schnider sent the email signaling Elvin's standing had changed — confirming Schnider was aware of and sanctioned the assignment discrimination throughout. The discrimination ran from the top down through a documented management chain, all of it in writing via Nikki's schedules.
 
 **Legal significance:**
 - Two years of written scheduling records = documentary proof of the discriminatory pattern
@@ -122,7 +122,7 @@ The DCHRA has a lower burden of proof than Title VII in some respects and allows
 | Circumstances | No documented duress | Hospitalized same week |
 | Decision-maker | Jim Schnider | Jim Schnider |
 
-**Jim Schnider approved DeRubio's return and denied Kobe's — same person, same role, radically different outcomes based on race.**
+**Jim Schnider approved DeRubio's return and denied Elvin's — same person, same role, radically different outcomes based on race.**
 
 **Exact Sequence — Critical:**
 1. Elvin resigned from WETA — June 2024

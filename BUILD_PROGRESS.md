@@ -5,7 +5,7 @@
 ---
 
 ## Case Overview
-**Claimant:** Elvin Sangano (Kobe)
+**Claimant:** Elvin Sangano
 **Opponents:** WETA (private nonprofit) + USAGM/VOA (federal agency)
 **Period:** Early 2024 – Present
 **Seeking:** Civil action for constructive discharge, race discrimination, retaliation, government targeting
@@ -53,7 +53,7 @@
 
 ### URGENT (This Week)
 - [ ] **Print and send SF-95 + cover letter** — certified mail to USAGM Office of General Counsel, 330 Independence Ave SW, Washington DC 20237
-- [ ] **File FOIA with USAGM** — usagm.gov/foia — request all records referencing Kobe's name, security office records, contract postings June 2024
+- [ ] **File FOIA with USAGM — usagm.gov/foia — request all records referencing Elvin Sangano, security office records, contract postings June 2024, security office records, contract postings June 2024
 - [ ] **File FOIA with FBI** — fbi.gov/services/information-management/foipa
 - [ ] **Call Government Accountability Project** — (202) 457-0034 — lead with: "Federal agency retaliation, constructive discharge, CI entrapment, FTCA claim urgent"
 - [ ] **Talk to Ashley (Jenkins Row building manager)** — ask her to write down what she observed and when
@@ -116,8 +116,8 @@
 
 ### 2026-04-16 — Session 1 (Initial)
 **What happened:**
-- Kobe shared full employment case timeline
-- Kobe shared government targeting/surveillance timeline
+- Elvin shared full employment case timeline
+- Elvin shared government targeting/surveillance timeline
 - Full legal strategy analysis completed for all claims
 - FTCA cover letter drafted, SF-95 populated
 - WETA DCHRA strategy developed
@@ -142,7 +142,7 @@
 
 ## Evidence Tracker
 
-### In Kobe's Possession ✅
+### In Elvin's Possession ✅
 | Item | Status | Notes |
 |---|---|---|
 | GWH medical records | ✅ Have | Confirm: includes nursing notes + diagnosis |
@@ -172,20 +172,20 @@
 | USAGM Security Office meeting records | USAGM internal |
 | VOA equipment/incident logs | VOA IT |
 | Amanda Bennett broadcast email | USAGM email servers |
-| USAGM contract postings + Kobe's submission | USAGM Office of Contracts |
+| USAGM contract postings + Elvin's submission | USAGM Office of Contracts |
 | John Lipman emails re: ROTV | VOA email servers |
 
 ---
 
 ## Critical Notes for Future Mamba
 
-1. **Kobe is Elvin Sangano in legal documents** — same person
+1. Elvin Sangano is referred to as "Kobe" only in internal session notes — all legal documents use "Elvin Sangano"
 2. **FTCA deadline is June 2026** — this is the most time-sensitive item in the entire case
 3. **EEOC window is closed** but equitable tolling is a real argument — hospitalization occurred in the same week as the resignation/reinstatement denial
 4. **WETA is private, not federal** — DC Human Rights Act is the primary vehicle, not Title VII
 5. **The white comparator is Anthony DeRubio** — named and documented. Still need: dates of his resignation + reinstatement, who approved it
 6. **Alex Rodriguez may have been a government plant** — approach carefully; his deposition is critical
-7. **Kobe has medical records** — these are anchor evidence for equitable tolling and damages
-8. **Do not file anything on Kobe's behalf** — draft only; he signs and sends
-9. **Never share case documents externally** without Kobe's explicit instruction
+7. **Elvin has medical records** — these are anchor evidence for equitable tolling and damages
+8. Do not file anything on Elvin's behalf — draft only; he signs and sends
+9. Never share case documents externally without Elvin's explicit instruction
 10. **Salary was $200,000/year** combined WETA + VOA

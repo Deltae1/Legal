@@ -48,7 +48,7 @@
 |---|---|---|---|
 | **🔴 Heather's text message to Elvin** (day of her promotion, early 2024) | Check phone NOW — screenshot + back up immediately if it exists. Direct evidence connecting Heather to the trigger event. | In Elvin's phone (potential) | ⬜ CHECK IMMEDIATELY |
 | Resignation letters (WETA + VOA) | Check personal files; FOIA if needed | ASAP | ⬜ Not done |
-| White comparator — **Anthony DeRubio** | Resigned December 2023, reinstated March 2024 (~3 months, voluntary). **Jim Schnider approved DeRubio's return AND denied Kobe's reinstatement — same decision-maker confirmed.** Schnider also removed Kobe from WETA email server when Kobe followed up. | Discovery (WETA HR + email servers) | ✅ Fully documented |
+| White comparator — **Anthony DeRubio** | Resigned December 2023, reinstated March 2024 (~3 months, voluntary). **Jim Schnider approved DeRubio's return AND denied Elvin's reinstatement — same decision-maker confirmed.** Schnider also removed Elvin from WETA email server when Elvin followed up. | Discovery (WETA HR + email servers) | ✅ Fully documented |
 | Security office meeting — full written account | Write from memory NOW | This week | ⬜ Not done |
 | Ashley (Jenkins Row) written statement | **Two purposes:** (1) housing discrimination witness AND (2) potential witness to federal surveillance vehicles outside Jenkins Row mid-April 2024 — building managers notice unusual vehicles; ask about both | This week | ⬜ Not done |
 | The Roost staff written statements | In person | This week | ⬜ Not done |
@@ -74,14 +74,14 @@
 | Item | Location | Relevance |
 |---|---|---|
 | Jim Schnider email re: Heather promotion (early 2024) | WETA email servers | Smoking gun — documents start of hostile environment |
-| Sharon Rockefeller "integrity" email | WETA email servers | Timing relative to Kobe's departure |
+| Sharon Rockefeller "integrity" email | WETA email servers | Timing relative to Elvin's departure |
 | White colleague HR records | WETA HR | Core comparator evidence for race discrimination |
 | USAGM Security Office meeting records | USAGM internal | CI designation evidence |
 | USAGM contract postings (May–June 2024) | USAGM Office of Contracts | Entrapment/contract pressure evidence |
-| Kobe's actual contract submission | USAGM Office of Contracts | Exculpatory — shows he only bid within qualifications |
+| Elvin's actual contract submission | USAGM Office of Contracts | Exculpatory — shows he only bid within qualifications |
 | VOA equipment/incident logs | VOA IT | ROTV project sabotage documentation |
 | Amanda Bennett broadcast email | USAGM email servers | Shows org-wide awareness of issues |
-| John Lipman emails re: ROTV | VOA email servers | Shows recognition of Kobe's work + awareness of sabotage |
+| John Lipman emails re: ROTV | VOA email servers | Shows recognition of Elvin's work + awareness of sabotage |
 | Badge/CCTV records — conference room incident | USAGM security | Corroborates contract pressure "white paper" incident |
 
 ---
@@ -92,7 +92,7 @@
 |---|---|---|---|
 | Officer Shea | USAGM Security — first CI contact | USAGM Security Office, 330 Independence Ave SW | 🔴 Critical |
 | USAGM Security Head | CI designation | USAGM — name TBD via discovery | 🔴 Critical |
-| Benjamin Johnas | VOA Director Ops (retired) — asked Kobe to return | Locate — retired from VOA | 🔴 High |
+| Benjamin Johnas | VOA Director Ops (retired) — asked Elvin to return | Locate — retired from VOA | 🔴 High |
 | Jim Rayan | VOA direct supervisor on ROTV | Last known: VOA | 🔴 High |
 | John Lipman | VOA leadership — aware of sabotage | Last known: VOA | 🔴 High |
 | Alex Rodriguez | Encouraged CI cooperation | Last known: 300 New Jersey Ave NW / 240 M St SW DC | 🔴 High |
@@ -100,7 +100,7 @@
 | Ashley (Jenkins Row) | Building manager — observed surveillance | Jenkins Row building office | 🟡 Medium |
 | The Roost staff | Co-working space staff | The Roost location | 🟡 Medium |
 | Nancy Gretman | WETA (retired) — knowledge of dynamics | Locate — retired from WETA | 🟡 Medium |
-| Kobe's therapist | Work-related trauma | Kobe has contact info | 🟡 Medium |
+| Elvin's therapist | Work-related trauma | Elvin has contact info | 🟡 Medium |
 | Former WETA colleagues | White comparator witnesses | Personal network | 🟡 Medium |
 
 ---

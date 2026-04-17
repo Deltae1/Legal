@@ -1,6 +1,6 @@
 # EMPLOYMENT_TIMELINE.md
 # Employment Case — Full Narrative & Timeline
-# Source: Kobe's submission, April 2026
+# Source: Elvin Sangano's submission, April 2026
 # ⚠️ PRIVATE — Attorney use only
 
 ---
@@ -47,7 +47,7 @@
 ### Early 2024 — Workplace Sabotage at VOA
 **Key individual:** Amanda Bennett, Director, USAGM
 
-Kobe was serving as lead on an ROTV automation upgrade project under supervisor Jim Rayan. During this period:
+Elvin was serving as lead on an ROTV automation upgrade project under supervisor Jim Rayan. During this period:
 - Recurring studio blackouts and technical disruptions
 - Deliberate interference with automation efforts
 - Evidence of intentional sabotage
