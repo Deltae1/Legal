@@ -561,3 +561,51 @@ Elvin's possession of:
 ...proves he was targeted with the specific submission instrument and the specific solicitation — not a generic interest in federal contracting.
 
 **Back up the physical form immediately** alongside the contract text. Photograph every page.
+
+---
+
+## SF-330 Section G — The Matrix Trap
+
+Section G is a cross-reference matrix requiring every named key person to be marked against every example project they worked on.
+
+### What the Matrix Requires
+- **Column 26:** Name of every key personnel member (from Section E)
+- **Column 27:** Their role in this contract
+- **Columns 1-10:** An "X" for every project (Section F) that person participated in
+
+### Why This Section Is Forensically Significant
+
+**Every X is a separate false attestation.**
+
+With a minimum realistic submission:
+- 5 key personnel across 14 disciplines
+- 10 example projects
+- That's potentially **50 individual false certifications** in a single matrix
+
+Each X states: *"This named licensed professional personally participated in this constructed project in this role."*
+
+Every single one would be fabricated. Every single one is a separate count of false statement to a federal agency under 18 U.S.C. § 1001.
+
+### The Cross-Verification Trap
+The matrix creates a **consistency requirement** that makes fabrication exponentially harder:
+- Key person names in Section G must match Section E exactly
+- Project titles in Section G must match Section F exactly  
+- The X placements must be consistent with the project descriptions in Section F
+- The contracting officer can cross-check any X against the named contact at that project
+
+One inconsistency anywhere in the matrix = the entire submission unravels.
+
+### What This Means Strategically
+The form was engineered — intentionally or not — to make fraudulent submission nearly impossible to sustain past initial review. It is a self-verifying document with multiple cross-reference tripwires built in.
+
+**The person who gave Elvin this form knew he couldn't submit it legitimately. The form itself is the evidence of the trap.**
+
+---
+
+## Complete Document Inventory — Physical Evidence in Elvin's Possession
+
+1. ✅ Original USAGM A/E IDIQ contract announcement text (word for word match to SAM.gov posting)
+2. ✅ RFP No. 951700-24-R-0028 (second contract, Office of Contracts, white paper reference)
+3. ✅ Standard Form 330 (REV. 7/2021) — complete blank form, all 8 pages of instructions + form pages
+4. ✅ Video of 3rd floor lady (social engineering behavior)
+5. ⚠️ All items need to be photographed and backed up to Gmail + Google Drive + iCloud immediately
