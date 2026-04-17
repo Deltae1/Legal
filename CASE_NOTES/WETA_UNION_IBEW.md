@@ -143,10 +143,49 @@ DeRubio is not just a comparator — he may be a participant in the coordination
 |---|---|---|---|
 | Management | Jim Schnider (WETA) | Triggering email; reinstated DeRubio, denied Elvin | Direct |
 | Union | Brian (WETA) | Stalking, intimidation, ringleader | Direct |
-| Cross-employer | DeRubio's cousin (VOA) | Information bridge — leaked Elvin's dual employment details | Indirect — needs confirmation |
-| Staff | Anthony DeRubio (WETA) | Comparator; possible coordination with cousin | Needs development |
+| Cross-employer | **Joe Usher (VOA)** | **DeRubio's cousin at VOA — information bridge; believed to have provided information that contributed to Elvin's targeting** | ⚠️ Active participant — needs development |
+| Staff | Anthony DeRubio (WETA) | Comparator; family connection to VOA via Joe Usher | Needs development |
 | Operations | Nikki (WETA) | Discriminatory scheduling | Direct |
 | Staff | Tom (audio, WETA) | Foreknowledge of Schnider email | Direct |
+
+---
+
+## ⚠️ Joe Usher — Priority Discovery Target
+
+**Name:** Joe Usher
+**Employer:** VOA (Voice of America / USAGM)
+**Relationship:** Cousin of Anthony DeRubio (WETA)
+**Role in case:** Believed to have provided information about Elvin that contributed to his targeting
+
+### What This Means
+
+Joe Usher sits at the intersection of both employers:
+- Family connection to DeRubio at WETA = direct link into the WETA hostile environment
+- Employed at VOA = inside access to information about Elvin's standing, work, ratings, and activities at USAGM
+- Believed to have actively provided information — not merely a passive conduit
+
+If Joe Usher shared information about Elvin's USAGM work with DeRubio, and that
+information was then used to coordinate the WETA hostile environment, Usher is
+not a bystander — he is a participant in the targeting campaign.
+
+### What to Establish in Discovery
+- Joe Usher's exact role and email at VOA — VOA staff directory, FOIA, or discovery
+- Any communications between Joe Usher and Anthony DeRubio referencing Elvin
+- Any communications between Joe Usher and WETA personnel (Brian, Schnider, Tom)
+- Any communications between Joe Usher and USAGM Security personnel
+- What information Usher had access to at VOA — did his role give him visibility into Elvin's personnel file, ratings, assignments, or security status?
+- Timeline: when did Usher begin providing information, and to whom?
+
+### Legal Significance
+- If Usher shared personnel information he had access to through his VOA employment,
+  that may constitute an unauthorized disclosure of personnel records
+- If Usher coordinated with USAGM Security as part of the targeting operation,
+  he may be a named defendant in a Bivens claim
+- His family connection to the key racial comparator (DeRubio) makes him a
+  critical deposition witness — his testimony could establish the coordination
+  link between the two hostile environments
+- USAGM email servers will contain any internal communications involving Usher —
+  FOIA request should specifically name Joe Usher
 
 ---
 
