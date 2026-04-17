@@ -2,7 +2,8 @@
 # Capability Statement / Portfolio Document
 # Documented: 2026-04-17
 # NOTE: ONIV INC is the business Elvin Sangano formerly operated under as a contractor.
-# This is not a currently active business — it was his contracting vehicle during the VOA/USAGM engagement period.
+# Registered since 2017 with verified past performance — not a shell company or new entity.
+# Was his established contracting vehicle during the VOA/USAGM engagement period.
 
 ---
 
