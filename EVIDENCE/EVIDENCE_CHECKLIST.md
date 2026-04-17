@@ -33,7 +33,15 @@
 
 ---
 
+| **Termination letter from USAGM** | Official end of employment — documents when, how, and under what stated reason the relationship ended; critical for wrongful termination and retaliation timeline | ✅ In possession — scan/photograph and back up NOW |
+
+---
+
 ## Obtain Immediately 🔴
+
+| Item | How to Get | Priority | Status |
+|---|---|---|---|
+| **PSC employment/offer letter from USAGM** | Check personal email (search "USAGM" + "contract" + "personal services"), personal files, any onboarding documents from 2020. May also be obtainable via FOIA request to USAGM. | 🔴 Critical | ⬜ Search personal records first |
 
 | Item | How to Get | Deadline | Status |
 |---|---|---|---|
