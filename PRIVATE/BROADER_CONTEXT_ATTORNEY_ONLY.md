@@ -54,11 +54,26 @@ unrelated events.
 
 ---
 
-## Evidence in Elvin's Possession
+## ⚠️ NOTE — Detailed Written Account Exists
 
-- **Extensive videos** — ongoing conduct, DC and other locations
-- **Journal entries** — contemporaneous documentation across locations and dates
-- Both are backed up (Google Drive + iCloud + phone)
+Elvin has a detailed written account covering the broader conspiracy including
+named individuals, financial institutions, international networks, and political
+connections. This account is in his possession.
+
+**It has NOT been documented here deliberately.**
+
+Reasons:
+- Contains names of private individuals who have not been adjudicated
+- Requires national security / financial crimes legal expertise to handle properly
+- Must be shared under attorney-client privilege only
+- Should be transmitted in person or via encrypted channel — not digitally
+
+**When attorney is retained:** Share this account privately, in person, under privilege.
+The attorney can then determine appropriate referrals (FBI Financial Crimes, FinCEN,
+national security counsel).
+
+**Do not share this account publicly, digitally, or in any discoverable format
+before legal protection is in place.**
 
 ---
 

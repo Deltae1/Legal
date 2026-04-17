@@ -74,7 +74,7 @@
 | Item | Location | Relevance |
 |---|---|---|
 | Jim Schnider email re: Heather promotion (early 2024) | WETA email servers | Smoking gun — documents start of hostile environment |
-| Sharon Rockefeller "integrity" email | WETA email servers | Timing relative to Elvin's departure |
+| Sharon Rockefeller "integrity" email | WETA email servers | **CONFIRMED** — sent after Elvin's departure; timing is evidence of consciousness of guilt; obtain via discovery |
 | White colleague HR records | WETA HR | Core comparator evidence for race discrimination |
 | USAGM Security Office meeting records | USAGM internal | CI designation evidence |
 | USAGM contract postings (May–June 2024) | USAGM Office of Contracts | Entrapment/contract pressure evidence |
