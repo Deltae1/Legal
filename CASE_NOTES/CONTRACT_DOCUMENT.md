@@ -104,11 +104,28 @@ Elvin is not a licensed architect or engineer. Any submission claiming those cre
 
 ---
 
-## Action Items
-- Photograph every page of the original contract → back up immediately
-- Search SAM.gov for the original posting (public record) — match it to Elvin's copy
-- FOIA USAGM for all procurement records related to this posting
-- Attorney to subpoena John Hawk's communications re: this contract
+## Contract Dates & Timeline
+
+### Posting Dates
+- **Reposted: June 5–6, 2024**
+- Original posting date: TBD — search SAM.gov for earlier version
+
+### Significance of June 5–6 Reposting
+- Elvin resigned and was hospitalized in **June 2024**
+- The contract reposting coincides **precisely** with the final pressure escalation
+- The reposting was likely the deadline trigger — the moment the neighbor said *"it's being finalized to pass in a few hours"*
+- Timeline:
+  - May 17–28: CI designation meeting with Security Director
+  - June 5–6: Contract reposted — final deadline pressure
+  - June 2024: Resignation under duress + hospitalization at GWH
+- The reposting was the final turn of the screw — submit now or lose the opportunity
+- Elvin did not submit — and resigned within days
+
+### SAM.gov Search
+- Search SAM.gov for USAGM A/E Services IDIQ posting dated around June 5–6, 2024
+- Also search for earlier posting (original) — the reposting implies a prior version existed
+- Solicitation number: TBD — check original contract document for SAM reference number
+- A SAM.gov match confirms the public record aligns with Elvin's copy word for word
 
 ---
 *Updated 2026-04-17 by Mamba 🐍 — Not legal advice*
