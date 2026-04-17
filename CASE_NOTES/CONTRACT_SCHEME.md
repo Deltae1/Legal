@@ -42,11 +42,16 @@ Elvin has located the **original contract document** — it matches the USAGM po
   - Ashley (building manager) becomes even more critical — she may have observed interactions between these neighbors and outside parties
 - **Action:** Document full physical description, apartment number if known, any other interactions; Ashley may know who he is by name
 
-### Neighbor 2 — Lawyer, Same Building
-- **Role:** Lawyer in the Jenkins Row building
-- **Connection:** Also involved in the social engineering operation
-- **Details:** TBD — Elvin to describe what connected this person to the scheme
-- **Action:** Document interactions, what was said or done, approximate timing
+### Neighbor 2 — Lawyer, Jenkins Row Building Board Member (at the time, no longer)
+- **Role:** Lawyer; was on the Jenkins Row building board during the relevant period; no longer on the board
+- **Location:** Jenkins Row building
+- **Involvement:** Participated in the social engineering operation targeting Elvin
+- **Details of involvement:** TBD — Elvin to describe specific interactions or observations
+- **Significance:**
+  - Two lawyers with Jenkins Row building board connections involved in social engineering of the same tenant during a federal operation = coordinated, not coincidental
+  - Building board access would give both lawyers visibility into tenant information, building access records, and potentially Ashley's communications
+  - Their board roles may explain how they were recruited or how they coordinated within the building
+- **Action:** Document specific interactions — what did this person say or do that connected them to the scheme?
 
 ---
 
