@@ -22,6 +22,24 @@ discrimination from the first day of employment to the final lockout.
 
 ---
 
+## Elvin's Profile at WETA
+
+| Characteristic | Detail | Legal Significance |
+|---|---|---|
+| **Race** | Black | Protected class — Title VII + DCHRA |
+| **National origin** | Immigrant | Protected class — Title VII + DCHRA; additional basis for discrimination |
+| **Age** | Youngest TD in the department | Protected class (if age differential is significant) — ADEA + DCHRA |
+| **Performance** | No documented on-air errors; clean record throughout | Destroys any performance pretext |
+| **Standing at VOA** | Lead TD, Rating 4 (Exceptional) two years running, $200k combined | Established his capability — known to WETA via Joe Usher/DeRubio pipeline |
+
+**Intersectional discrimination:** Elvin was the only Black TD, an immigrant, and
+the youngest in the department. The DC Human Rights Act recognizes intersectional
+discrimination — the combination of race, national origin, and age can make a
+target more vulnerable in ways that no single characteristic alone fully explains.
+An attorney may argue all three characteristics together as the basis for targeting.
+
+---
+
 ## Full Chronological Timeline
 
 ### February 14, 2022 — Hired at WETA
@@ -47,8 +65,9 @@ discrimination from the first day of employment to the final lockout.
 - First adverse employment action — occurred before Elvin had any opportunity to establish himself
 - Jay Naval had zero authority to evaluate Elvin; he was a lateral peer
 - Management (Heather + Schnider) accepted a white peer's subjective, unsubstantiated opinion over their own direct observation of a Black employee
-- The probation extension was based on race, not performance
-- Pattern established from day one: white peer input shapes management decisions about Black employee
+- Elvin was also the **youngest TD** and an **immigrant** — a new employee from a different background being evaluated by an established white peer who had every incentive to protect his own position
+- The probation extension was based on race and bias, not performance
+- Pattern established from day one: white peer input shapes management decisions about Black, immigrant, younger employee
 
 **Key actors:**
 | Name | Role | Conduct |
