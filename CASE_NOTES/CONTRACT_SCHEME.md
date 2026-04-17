@@ -80,10 +80,12 @@ Multiple residents at Jenkins Row participated in what appeared to be a coordina
 - When Elvin started pulling back, John's pressure increased — confirming this was not a legitimate request
 - Elvin's decision to back out and not submit false documents protected him legally — he never falsified anything
 
-**Elvin's protection:**
-- Elvin submitted only what was within his legitimate qualifications
-- He did not submit false documents despite sustained pressure from multiple directions (VOA contract posting, John at Jenkins Row, social engineering from neighbors)
-- His refusal to fully cooperate is what made him a liability and accelerated the retaliation
+### John Hawk's Communications
+- **Email domain:** Jenkins Row (jenkinsrow.com or similar management company domain)
+- All email communications between John Hawk and Elvin are on Jenkins Row / management company servers
+- Obtainable via litigation discovery — subpoena to management company
+- Search Elvin's personal email for any Jenkins Row domain emails (sent and received)
+- Check trash, spam, sent folder for May–June 2024
 
 **Legal significance:**
 - A building manager pressuring a tenant to submit unspecified documents in connection with a federal contract, under artificial deadline pressure, is conspiracy to commit fraud
