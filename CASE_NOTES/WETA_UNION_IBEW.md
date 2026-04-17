@@ -100,8 +100,53 @@ The hostile environment came from multiple simultaneous directions:
 | Operations | Nikki | Discriminatory scheduling (separate thread) |
 | Staff | Tom (audio) | Foreknowledge of Schnider email — parking lot |
 | Staff | Brian, Steve, Jay (TDs) | Beneficiaries of discriminatory scheduling |
+| **Cross-employer link** | **Anthony DeRubio's cousin (VOA)** | **Information bridge between WETA and USAGM — see below** |
 
 **This is an organized group — not a series of coincidences.**
+
+---
+
+## ⚠️ The DeRubio–VOA Connection — Cross-Employer Information Bridge
+
+### What Is Known
+- Anthony DeRubio (white WETA TD, Elvin's key comparator) has a **cousin who worked at VOA**
+- Elvin's supervisors at both WETA and USAGM/VOA were properly informed that he held both positions — dual employment was disclosed, not hidden
+- Despite proper disclosure, information about Elvin's dual employment and compensation leaked across workplaces
+- **This became a focal point of jealousy and resentment at WETA** — colleagues who knew Elvin was earning $200,000/year combined while being assigned to lower-level audio work
+
+### Why This Matters Legally
+
+**1. It explains the coordination mechanism**
+The DeRubio cousin is the most likely conduit through which WETA staff learned the details of Elvin's USAGM work, compensation, and standing. This transforms what might look like two independent hostile environments into a single coordinated campaign with an identifiable information bridge.
+
+**2. It poisons the well at WETA deliberately**
+If DeRubio or his cousin shared Elvin's USAGM details with WETA colleagues — his salary, his rating, his standing — that information was used to fuel resentment. A Black employee earning exceptional ratings and $200k/year while white TDs received better scheduling is exactly the kind of fact that motivated the targeting.
+
+**3. It connects DeRubio to the broader pattern**
+DeRubio is already the key racial comparator in the case:
+- He voluntarily resigned in December 2023
+- He was reinstated in March 2024 by Jim Schnider
+- Elvin's reinstatement was denied by the same Schnider in the same period
+- His cousin at VOA is the information bridge between the two hostile environments
+
+DeRubio is not just a comparator — he may be a participant in the coordination network.
+
+**4. Discovery priority**
+- Identify DeRubio's cousin at VOA: name, role, email, dates of employment
+- Any communications between DeRubio's cousin and WETA staff about Elvin
+- Any communications between DeRubio and Brian or other WETA ringleaders
+- WETA + VOA email servers — cross-employer communications referencing Elvin Sangano
+
+### Updated Coordination Network
+
+| Level | Actor | Conduct | Link |
+|---|---|---|---|
+| Management | Jim Schnider (WETA) | Triggering email; reinstated DeRubio, denied Elvin | Direct |
+| Union | Brian (WETA) | Stalking, intimidation, ringleader | Direct |
+| Cross-employer | DeRubio's cousin (VOA) | Information bridge — leaked Elvin's dual employment details | Indirect — needs confirmation |
+| Staff | Anthony DeRubio (WETA) | Comparator; possible coordination with cousin | Needs development |
+| Operations | Nikki (WETA) | Discriminatory scheduling | Direct |
+| Staff | Tom (audio, WETA) | Foreknowledge of Schnider email | Direct |
 
 ---
 
