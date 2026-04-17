@@ -18,6 +18,9 @@
 | **Photos of surveillance vehicles (mid-April 2024)** | Federal vehicles near workplace + residence — coordinated surveillance operation | 🔴 CHECK PHONE NOW — search mid-April 2024 photos |
 | **Video of 3rd floor lady (Jenkins Row)** | Objective timestamped evidence of coordinated social engineering behavior — only non-testimonial evidence of the Jenkins Row operation | 🔴 BACK UP IMMEDIATELY — email to Gmail, upload to cloud, do NOT trim or edit, preserve original metadata |
 | **Letter of recommendation from Jeff Reber** (former VOA supervisor) | Jeff Reber speaks of Elvin with great care — directly contradicts any performance or conduct defense; voluntary unprompted statement from supervisor | ✅ Have — photograph and back up NOW |
+| **W-2s from USAGM/VOA (2020–2023)** | Proves PSC employment = W-2 employee status, not independent contractor — triggers Title VII, whistleblower, and labor law protections; directly contradicts any contractor classification defense | ✅ Confirmed in possession — scan/photograph and back up NOW |
+| **ONIV INC registration documents** | Company registered since 2017 — 7 years of legitimate business history before 2024 submission; destroys any shell company or fraudulent entity narrative | ✅ Locate and back up — state incorporation records |
+| **SAM registration / past performance records** | ONIV INC registered in federal procurement system with verified past performance — publicly verifiable at sam.gov | ✅ Pull from sam.gov and preserve |
 
 
 
