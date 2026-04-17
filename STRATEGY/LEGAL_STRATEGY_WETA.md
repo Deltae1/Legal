@@ -181,8 +181,11 @@ The DCHRA has a lower burden of proof than Title VII in some respects and allows
 | Resignation type | Voluntary | Involuntary (constructive discharge) |
 | Resigned | December 2023 | June 2024 |
 | Reinstated / denied | ✅ Reinstated March 2024 | ❌ Denied |
+| Post-reinstatement | Allowed to TD; later reassigned to EIC due to documented on-air errors | N/A — never reinstated |
 | Circumstances | No documented duress | Hospitalized same week |
 | Decision-maker | Jim Schnider | Jim Schnider |
+
+**Key point:** DeRubio was reinstated, made on-air errors, and was accommodated with a role adjustment to EIC. Elvin had no documented on-air errors and was denied reinstatement entirely. WETA accommodated a white employee's documented failures while refusing to even consider returning a Black employee with a clean record. This is disparate treatment in its clearest form.
 
 **Jim Schnider approved DeRubio's return and denied Elvin's — same person, same role, radically different outcomes based on race.**
 

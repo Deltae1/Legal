@@ -171,10 +171,19 @@ via email. Every discriminatory assignment is documented and discoverable.**
 | Resignation type | Voluntary | Involuntary (constructive discharge) |
 | Resigned | December 2023 | June 2024 |
 | Reinstated / denied | ✅ Reinstated March 2024 | ❌ Denied |
-| Circumstances | No documented duress | Hospitalized same week |
+| Post-reinstatement role | Allowed to TD; later reassigned to EIC due to documented on-air errors | Never given the chance — denied reinstatement entirely |
+| Circumstances at resignation | No documented duress | Hospitalized same week |
 | Decision-maker | Jim Schnider | Jim Schnider |
 
 **Jim Schnider approved DeRubio's return and denied Elvin's — same person, same role, radically different outcomes based on race.**
+
+**Why the EIC reassignment strengthens the case:**
+- DeRubio was reinstated, allowed to TD, then reassigned to EIC **because he made on-air errors**
+- Elvin was never given the chance to return at all — despite having a clean performance record and no documented on-air errors
+- WETA accommodated DeRubio's documented performance failures with a role adjustment
+- WETA gave Elvin nothing — not reinstatement, not a reduced role, not any form of accommodation
+- The white employee with actual documented errors was treated better than the Black employee with no documented errors
+- This is the disparate treatment argument in its clearest possible form: **DeRubio failed and was accommodated; Elvin succeeded and was rejected**
 
 **DeRubio–Usher connection:**
 - Anthony DeRubio's cousin **Joe Usher** worked at VOA
