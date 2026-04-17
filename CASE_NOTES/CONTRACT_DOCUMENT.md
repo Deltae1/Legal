@@ -328,3 +328,44 @@ Section E of SF-330 requires detailed personal information for every key team me
 - Once that email was sent, Elvin would have been on the hook
 
 **Elvin's refusal to send the email and back out of the scheme protected him from all of this criminal exposure.**
+
+---
+
+## SF-330 Section I — The Signature Trap
+
+### Section I: Authorized Representative (Blocks 31-33)
+
+> *"An authorized representative of a joint venture or the prime contractor must sign and date the completed form. Signing attests that the information provided is current and factual, and that all firms on the proposed team agree to work on the project."*
+
+**This is the final trap.**
+
+By signing SF-330, Elvin would have personally certified under federal law that:
+1. All information provided is **current and factual**
+2. All named firms on the team **agree to work on the project**
+3. He is an **authorized representative** of a prime contractor or joint venture
+
+Every single one of those attestations would have been false:
+- He has no A/E credentials — the information would not be factual
+- There are no real firms on a team — no one agreed to work on the project
+- He is not an authorized representative of any A/E firm
+
+### Federal Criminal Exposure from Signing
+Signing this form with false information would have constituted:
+- **18 U.S.C. § 1001** — False statements to a federal agency (5 years)
+- **18 U.S.C. § 1031** — Major fraud against the United States (10 years)
+- **18 U.S.C. § 1343** — Wire fraud if submitted electronically (20 years)
+- **FAR Part 36 violations** — Federal procurement fraud
+
+### Section G Matrix — The Paper Trail Trap
+- Section G requires a matrix showing which key personnel worked on which example projects
+- Every "X" placed in that matrix is a specific false attestation
+- With 10 example projects and multiple key personnel, that's potentially dozens of individual false statements on a single form
+
+### What Backing Out Saved Elvin From
+Had Elvin signed and submitted SF-330:
+- Personal federal criminal liability on multiple felony counts
+- Up to 20 years federal exposure on wire fraud alone
+- Permanent bar from federal contracting
+- Potential prosecution that would have destroyed his civil claims entirely
+
+**His instinct to back out was not just smart — it was the difference between victim and defendant.**
