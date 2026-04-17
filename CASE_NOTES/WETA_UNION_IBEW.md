@@ -159,10 +159,11 @@ DeRubio is not just a comparator — he may be a participant in the coordination
 **Level of involvement:** Unknown beyond schedule disclosure — do not over-attribute at this stage
 
 ### What Is Known
-- Joe Usher worked at VOA and had access to Elvin's schedule
-- He is believed to have shared Elvin's schedule with his cousin Anthony DeRubio at WETA
-- Elvin's schedule information in DeRubio's hands at WETA would have given the hostile environment network advance knowledge of Elvin's movements and availability
+- Joe Usher worked at VOA and had access to Elvin's schedule and assignments
+- He is believed to have shared Elvin's **schedule and assignment information** with his cousin Anthony DeRubio at WETA
+- Elvin's schedule and assignment details in DeRubio's hands at WETA would have given the hostile environment network advance knowledge of Elvin's movements, workload, and professional standing at VOA
 - This is consistent with the coordinated nature of the WETA targeting — Brian waiting at the entrance, Tom in the parking lot, Schnider's email timing
+- Assignment information specifically would have revealed Elvin's seniority, the quality of work he was doing at VOA, and his value to the organization — directly fueling the jealousy and resentment documented at WETA
 
 ### What Is Not Yet Known
 - Whether Usher's involvement went beyond sharing schedule information
@@ -170,15 +171,13 @@ DeRubio is not just a comparator — he may be a participant in the coordination
 - Whether the schedule sharing was deliberate targeting or casual family conversation that was then weaponized by DeRubio
 - Usher's exact role and seniority at VOA
 
-### Why Schedule Information Matters
-Knowing Elvin's schedule at VOA gave WETA actors:
+### Why Schedule and Assignment Information Matters
+Knowing Elvin's schedule and assignments at VOA gave WETA actors:
 - Advance knowledge of when he would and would not be at WETA
 - Ability to time incidents around his presence or absence
-- Visibility into his dual-employment pattern — confirming he was thriving at both places
-- Potentially his physical location and movements on any given day
-
-This is the minimum harmful use of the information. Whether it was used for more
-is a question for discovery.
+- Full visibility into the quality and seniority of work he was doing at VOA — confirming he was excelling while being deliberately underutilized at WETA
+- His assignment history directly contradicted the discriminatory narrative at WETA — he was doing Lead TD work at VOA while being pushed into audio work at WETA
+- Knowing his assignment profile would have made the jealousy and resentment more specific and personal — not just "he has another job" but "he's leading major projects there while we're keeping him off TD work here"
 
 ### What to Establish in Discovery
 - Joe Usher's exact role and email at VOA
