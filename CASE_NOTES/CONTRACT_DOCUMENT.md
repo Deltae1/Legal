@@ -258,3 +258,38 @@ This USAGM A/E Services IDIQ contract:
 
 - **The removal itself is evidence** — if the posting was removed after Elvin began documenting his case, that is spoliation
 - Elvin's physical copy of the contract is now the primary evidence of its existence
+
+---
+
+## Standard Form 330 — The Submission Instrument
+
+Elvin has obtained **Standard Form 330** — the official GSA form required to respond to the USAGM A/E contract.
+
+### Form Details
+- **Title:** Architect-Engineer Qualifications
+- **OMB Control Number:** 9000-0157
+- **Expiration Date:** 2/29/2024
+- **Estimated completion time:** 29 hours (25 hours Part I + 4 hours Part II)
+- **Legal basis:** 40 U.S.C. chapter 11, Selection of Architects Engineers + FAR Part 36
+
+### What This Form Requires
+- **Part I:** Contract-specific qualifications — submitted in response to a specific announcement
+- **Part II:** General firm qualifications — kept on file with federal agencies
+
+### Key Legal Requirements on the Form
+> *"Federal agencies select firms for A-E contracts on the basis of professional qualifications as required by 40 U.S.C. chapter 11"*
+
+> *"The Selection of Architects and Engineers statute requires the public announcement of requirements for A-E services and the selection of at least three of the most highly qualified firms based on demonstrated competence and professional qualifications"*
+
+### Why This Form Is Critical Evidence
+- This is the exact document Elvin would have had to falsify to respond to the contract
+- It requires: academic degree, professional registration, certification, and/or extensive experience in A/E disciplines
+- Submitting this form falsely = federal fraud under 18 U.S.C. § 1001 (false statements to federal agency)
+- The form itself is GSA-issued — its presence in Elvin's possession confirms the contract was real and he was being pressured toward submitting it
+- OMB expiration 2/29/2024 — the form was already expired by June 2024 when the pressure campaign peaked — another anomaly suggesting the posting itself was irregular
+
+### The Expired Form — Additional Red Flag
+- OMB Control Number 9000-0157 expired **2/29/2024**
+- The contract was reposted **June 5–6, 2024** — using a form that had expired 3+ months earlier
+- Using an expired OMB form in a federal procurement is a regulatory irregularity
+- This supports the argument that the posting was not a legitimate procurement — it was a manufactured instrument
