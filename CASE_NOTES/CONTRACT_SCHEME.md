@@ -83,7 +83,7 @@ Multiple residents at Jenkins Row participated in what appeared to be a coordina
 | Person | Role | Significance |
 |---|---|---|
 | Brian | Former building manager — left abruptly | Departure coincided with start of targeting — may have refused to cooperate or was replaced to facilitate operation |
-| John | New building manager — arrived at start of targeting | Arrival timed with operation — potential cooperating witness or participant |
+| John | New building manager — arrived at start of targeting | **Actively involved in manipulating Elvin to submit false documents** — direct participant in contract entrapment scheme, not merely a coincidental arrival |
 | Ashley | Building manager (current) | Observed residents and building activity — critical witness; may have knowledge of John's conduct and Brian's departure |
 | Neighbor 1 | Lawyer, former board member, Elvin's floor | Inside congressional contract knowledge |
 | Neighbor 2 | Lawyer, was on board at the time | Social engineering participant |
