@@ -158,16 +158,16 @@ filed through proper channels. Key points:
 ### 2. Naze — False "Power Outage" Claim
 
 In the same December 3 email, Elvin documents:
-- Naze (Radio Supervisor) was present with others "all at ease" — not alarmed
+- Naziha Mizouri (Radio Supervisor, "Naze") was present with others "all at ease" — not alarmed
 - Naze immediately claimed "we had a power outage this morning"
 - **No power outage was reported from facilities**
 - The Somali show 30 minutes prior had no issues
 
 **Legal significance:**
-- Naze made a false statement to explain the sabotage
+- Naziha Mizouri made a false statement to explain the sabotage
 - "All at ease" — the people present were not concerned, as if they expected it
 - The false power outage claim is itself evidence of coordinated cover-up
-- Naze is a named individual who made a provably false statement on December 3, 2023
+- Naziha Mizouri is a named individual with confirmed email who made a provably false statement on December 3, 2023
 
 ### 3. The Pattern of Recurring Technical Incidents
 
@@ -252,7 +252,7 @@ Phone: (202) 920-4333 TVMC | (202) 920-4935
 | Benjamin Jonas | Manager, Operations Support | bjonas@voanews.com | 202-920-3753 |
 | Steve Hocker | Technical Support Manager | shocker@voanews.com | — |
 | Mario Racine | Branch Chief, TV Master Control | mracine@usagm.gov | 202-920-4333 |
-| Naze | Radio Supervisor (Burmese/area) | TBD | — |
+| Naziha Mizouri (Naze) | Radio Supervisor | ngemo@VOANews.com | — |
 | Chet Rhodes | USAGM (CC'd on Burma Evening) | crhodes@usagm.gov | — |
 
 ---
@@ -278,7 +278,7 @@ Phone: (202) 920-4333 TVMC | (202) 920-4935
 | Preserve all these emails | 🔴 Critical | Screenshot/PDF every email — do not delete |
 | FOIA: Elvin's Dec 3 sabotage report + Ryan's response | 🔴 Critical | Did management act on his report? Or suppress it? |
 | FOIA: Ross Video logs pulled Dec 3, 2023 | 🔴 High | Elvin said he was pulling logs with Ross — those logs exist |
-| Naze — full name and title | 🔴 High | Made provably false power outage claim Dec 3 |
+| Naziha Mizouri (Naze) — full name confirmed | ✅ Confirmed | ngemo@VOANews.com — made provably false power outage claim Dec 3 |
 | Chet Rhodes — role clarification | 🟡 Medium | CC'd on Burma Evening — USAGM role? |
 | Steve Hocker — potential neutral witness | 🟡 Medium | Technical knowledge of unauthorized system changes |
 
