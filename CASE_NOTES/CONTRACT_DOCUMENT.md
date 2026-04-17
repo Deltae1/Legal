@@ -369,3 +369,45 @@ Had Elvin signed and submitted SF-330:
 - Potential prosecution that would have destroyed his civil claims entirely
 
 **His instinct to back out was not just smart — it was the difference between victim and defendant.**
+
+---
+
+## SF-330 Part II — General Firm Qualifications (The Corporate Fraud Layer)
+
+Part II required Elvin to submit a complete corporate profile of a licensed A/E firm:
+
+| Field | What Was Required | Elvin's Reality |
+|---|---|---|
+| Block 2a-2e | Firm name, address, branch offices | No A/E firm exists |
+| Block 3 | Year firm established | No firm to establish |
+| Block 4 | Unique Entity Identifier (SAM registration) | No SAM registration — requires active federal registration |
+| Block 5a | Type of ownership (sole proprietor, partnership, corporation) | No legal entity |
+| Block 5b | Small Business Status under NAICS code | NAICS 541310 (Architectural) or 541330 (Engineering) — Elvin has no such classification |
+| Block 8a-8c | Former firm names last 6 years + corporate history | No firm history |
+| Block 9 | Employees by discipline (up to 20 disciplines) | No employees |
+| Block 10 | Profile of firm's experience + annual average revenue last 5 years | No A/E revenue history |
+
+### The SAM Registration Requirement — Block 4
+> *"Insert the unique entity identifier issued by the entity designated at SAM. See FAR part 4.6."*
+
+- To respond to this contract, Elvin would have needed an active **SAM.gov registration** as an A/E firm
+- SAM registration requires: legal entity documentation, Tax ID, NAICS codes, banking information
+- Creating a fraudulent SAM registration is a **separate federal crime** — federal contractor fraud
+- This adds another layer: before even submitting SF-330, Elvin would have needed to commit fraud to register a fake firm on SAM.gov
+
+### The Revenue History Requirement — Block 10
+- Required: 5-year average annual revenue from A/E professional services
+- Fabricating this would constitute **financial fraud** on a federal form
+- Any number submitted would be verifiable against tax records
+
+### The Complete Criminal Exposure Stack
+Had Elvin gone through with the full submission:
+1. **Fraudulent SAM registration** — fake A/E firm
+2. **SF-330 Part II** — fake firm profile, fake revenue history, fake employees
+3. **SF-330 Part I** — fake project portfolios, fake key personnel credentials
+4. **Section I signature** — personal certification of all the above as factual
+5. **Electronic submission** — wire fraud on every transmission
+
+**Five separate categories of federal criminal exposure, stacked on top of each other.**
+
+They didn't just want him to submit a form. They wanted to bury him.
