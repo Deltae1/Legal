@@ -16,9 +16,30 @@
 
 ---
 
-## Why This Contract Was Used Against Elvin
+## Full Submission Requirements — What Compliance Would Have Required
 
-### 1. It Sounds Legitimate — But Elvin Was Not Qualified
+To respond to this contract, Elvin would have needed to submit ALL of the following — none of which he had:
+
+| Requirement | What It Requires | Elvin's Actual Background |
+|---|---|---|
+| Standard Form 330 | Legal entity licensed to practice architecture or engineering | Broadcast Technical Director — not an A/E firm |
+| A/E Firm Design Portfolio | 6 fully constructed projects in last 10 years with site plans, floor plans, building sections, photographs | No architecture/construction portfolio |
+| Lead Designer Profile | Licensed architect/engineer with biography, education, professional credentials | No A/E license or credentials |
+| Lead Designer Portfolio | 3 constructed projects in last 10 years | No construction projects |
+| Overseas experience | Foreign building codes, zoning, local construction materials | No overseas A/E experience |
+| AutoCAD 2018 | Architectural drawing software | Broadcast/AV technical software — different field entirely |
+| Philosophy and Design Intent | Architectural design philosophy | Not applicable to broadcast TD |
+
+**Every single submission requirement required A/E professional credentials Elvin does not have.**
+
+Submitting this form with false credentials would have constituted:
+- Federal procurement fraud (18 U.S.C. § 1031)
+- False statements to a federal agency (18 U.S.C. § 1001)
+- Potentially wire fraud (18 U.S.C. § 1343)
+
+**Elvin recognized the trap and did not submit false documents. This is the most important protective fact in the entire case.**
+
+
 - The contract requires licensed, registered, or certified **Architect/Engineering professionals**
 - Services include: architectural studies, structural, mechanical, electrical, civil, geotechnical engineering, AutoCAD 2018, etc.
 - Elvin is a **Lead Technical Director** — broadcast/media technology, not A&E/construction
