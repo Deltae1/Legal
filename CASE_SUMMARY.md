@@ -18,13 +18,43 @@
 
 ## The Short Version
 
-Elvin Sangano is a Black broadcast technology professional who:
-1. Built and led VOA's ROTV program from launch, earning the highest performance rating available two years running
-2. Was subjected to a coordinated CI recruitment pressure campaign by USAGM Security in May 2024 — which he refused
-3. Was simultaneously targeted with a fraudulent federal contract scheme designed to either reward cooperation or create criminal exposure — he submitted only truthful information and refused the parts that would have exposed him to liability
-4. Had FMLA and a reasonable accommodation (WFH 4 days/week) both approved
-5. Was terminated via "termination for convenience" citing DOGE cuts — a termination a federal court has since ruled illegal
-6. Was not recalled when programming resumed and colleagues were brought back
+Elvin Sangano is a Black, Rwandan immigrant broadcast technology professional
+who was **illegally targeted by two employers — USAGM (federal) and WETA
+(private) — using government and local government resources in a coordinated
+operation.** This is not a standard employment dispute. It is a civil rights
+case involving the abuse of federal authority against a civilian who committed
+no crime, was under no lawful investigation, and refused to participate in
+an unlawful scheme.
+
+Specifically:
+1. Built and led VOA's ROTV program from launch as a federal W-2 employee,
+   earning the highest performance rating available two years running
+2. Reported documented technical sabotage at VOA through proper channels —
+   good-faith whistleblowing that was used to identify and target him
+3. Was subjected to a coordinated CI recruitment pressure campaign by USAGM
+   Security in May 2024 — conducted on federal premises using federal authority —
+   which he refused
+4. Was simultaneously targeted with a fraudulent federal contract scheme
+   designed to either reward cooperation or create criminal exposure — he
+   submitted only truthful information and refused the parts that would have
+   exposed him to liability
+5. Was targeted simultaneously at WETA by a coordinated hostile environment
+   campaign — the WETA mobbing and the USAGM pressure operated at the same
+   time, using cross-employer intelligence (Joe Usher, DeRubio) to coordinate
+6. Had FMLA and a reasonable accommodation (WFH 4 days/week) both approved —
+   then was terminated anyway
+7. Was terminated via "termination for convenience" citing DOGE cuts — a
+   termination a federal court has since ruled illegal
+8. Was not recalled when programming resumed and colleagues were brought back —
+   selective exclusion with no stated basis
+
+**The resources used against him included:** USAGM's Security apparatus,
+federal contract instruments (SAM.gov, SF-330), federal employment records,
+a federally employed information source (Joe Usher), WETA's management
+hierarchy, WETA's IT systems, the IBEW union structure, and residential
+building staff at Jenkins Row.
+
+**See:** `CASE_NOTES/CIVIL_RIGHTS_DUE_PROCESS.md` for full illegal targeting analysis
 
 ---
 

@@ -8,13 +8,127 @@
 ## Overview
 
 Elvin Sangano's case is not only an employment discrimination case. At its core,
-it involves the violation of fundamental constitutional and statutory civil rights
-by federal government actors. These violations are independent causes of action
-that run parallel to — and in some respects exceed — the employment claims.
+it involves the **illegal targeting of a private citizen by two employers using
+government and local government resources** — a coordinated operation that
+violated Elvin's constitutional rights, civil rights, and due process protections.
 
-Federal actors (USAGM Security, CI recruiter) used the power and apparatus of
-the United States government against a private individual who had done nothing
-wrong. That is a civil rights violation regardless of the employment outcome.
+This is the framing an attorney must understand before anything else:
+
+> Elvin Sangano was not simply fired. He was **targeted** — by a federal agency
+> (USAGM) using federal government resources, and by a private employer (WETA)
+> using resources and coordination made possible by their connection to that
+> federal operation. The targeting was illegal. The resources used were not
+> authorized for use against a civilian employee who had committed no crime,
+> was under no investigation, and had done nothing beyond reporting misconduct
+> and refusing to participate in an unlawful scheme.
+
+---
+
+## The Illegal Targeting Operation — What Was Used
+
+### Federal Government Resources (USAGM)
+- **USAGM Security apparatus** — the CI recruitment meetings (May 17–28, 2024)
+  were conducted by USAGM's own Security Director using federal agency
+  infrastructure and authority
+- **Federal contract system** — RFP 951700-24-R-0028 and the SF-330 were
+  official federal procurement instruments, posted on SAM.gov, used as
+  instruments of coercion rather than legitimate procurement
+- **Federal employment** — Elvin's employment status, security clearance
+  eligibility, and personnel records were all accessible to USAGM Security
+  and used as leverage
+- **Federal workplace** — CI meetings conducted on federal premises, during
+  work hours, using the authority of a federal agency to create the impression
+  of legal obligation
+- **Joe Usher (VOA employee)** — a federally employed individual used Elvin's
+  schedule and assignment information — accessed through his federal employment
+  — and provided it to a hostile party (DeRubio at WETA)
+- **Federal termination mechanism** — the T4C (termination for convenience)
+  is a federal contracting instrument; it was used to terminate Elvin's
+  employment on a basis a federal court subsequently ruled illegal
+
+### Local / Private Resources (WETA)
+- **WETA workplace and facilities** — the hostile work environment campaign
+  was conducted on WETA's premises, using WETA's employment structure,
+  scheduling systems, and management hierarchy
+- **IBEW union apparatus** — Brian Smith, as union head, used the union's
+  authority and organizational structure to isolate and pressure Elvin —
+  the same union that was supposed to protect him
+- **WETA IT systems** — Elvin was locked out of WETA email and Microsoft
+  Teams on the same day he contacted Schnider — system access was used as
+  a tool of retaliation
+- **WETA management authority** — Schnider's reinstatement denial and
+  email server removal were exercises of managerial authority used for
+  discriminatory and retaliatory purposes
+- **Jenkins Row (residential building)** — front desk and custodial staff
+  at Elvin's residence were involved in the social engineering operation,
+  using their building access and authority to participate in surveillance
+  and pressure
+
+### The Cross-Employer Bridge
+- **Joe Usher (WETA–VOA link)** — DeRubio's cousin at VOA provided schedule
+  and assignment information that crossed the boundary between the two employers,
+  enabling coordinated targeting
+- The information that traveled through Usher allowed WETA actors to know
+  Elvin's VOA schedule, assignments, and professional standing — giving them
+  the intelligence needed to time and coordinate the hostile environment
+
+---
+
+## Why This Is "Illegal Targeting" — Not Just Misconduct
+
+There is a legal and factual distinction between:
+- An employer making a bad employment decision (potentially actionable but common)
+- **An employer, working in coordination with a federal agency, using government
+  resources to conduct a targeting operation against an employee who refused
+  to participate in an unlawful scheme** (what happened here)
+
+The second category is not employment misconduct. It is:
+
+| What It Is | Legal Theory |
+|---|---|
+| Federal actors using government power to coerce a civilian | Bivens — Fifth + First Amendment |
+| Two or more persons conspiring to deprive a person of civil rights | 42 U.S.C. § 1985 — civil rights conspiracy |
+| Federal agency causing harm to a civilian through tortious conduct | FTCA — Federal Tort Claims Act |
+| Using federal contract instruments as weapons rather than procurement tools | Fraud, abuse of federal authority |
+| Private employer coordinating with federal actors to harm an employee | § 1985 conspiracy — private party acting in concert with state/federal actor |
+| Using union apparatus to suppress and isolate a member being targeted | NLRA — Duty of Fair Representation + § 1985 |
+| Using residential building staff as participants in a surveillance/pressure campaign | Potential § 1985 + DC Human Rights Act + common law conspiracy |
+
+---
+
+## The Standard: "Color of Law"
+
+Federal civil rights law uses the concept of **"acting under color of law"** —
+meaning using the authority, resources, or apparent power of a government
+position to violate someone's rights.
+
+Every federal actor in this case was acting under color of law:
+- USAGM Security Director conducting CI meetings = acting under color of federal authority
+- Joe Usher sharing Elvin's personnel information from his federal employment = using federal access under color of employment
+- USAGM using T4C mechanism to retaliate = using federal contracting authority under color of law
+
+WETA's connection to this:
+- A private party that **conspires with a government actor** to violate someone's
+  civil rights is also liable under § 1985 — the "color of law" requirement
+  extends to private parties acting in concert with government actors
+
+---
+
+## What This Means for the Case
+
+**This is not just an employment case. It is a civil rights case involving
+illegal targeting by coordinated government and private actors.**
+
+An attorney presenting this case must frame it that way from the first
+conversation with a judge. The illegal targeting framing:
+
+1. Explains why the conduct is so extreme compared to typical employment disputes
+2. Unlocks constitutional remedies (Bivens, § 1985) that go beyond employment law
+3. Supports punitive damages — government actors using official power against
+   a civilian who did nothing wrong is exactly the conduct punitive damages exist to deter
+4. Creates personal liability for individual federal officers — not just agency liability
+5. Implicates potential criminal referrals — abuse of federal authority and
+   civil rights conspiracy can be criminal as well as civil
 
 ---
 
