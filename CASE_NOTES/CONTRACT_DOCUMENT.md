@@ -293,3 +293,38 @@ Elvin has obtained **Standard Form 330** — the official GSA form required to r
 - The contract was reposted **June 5–6, 2024** — using a form that had expired 3+ months earlier
 - Using an expired OMB form in a federal procurement is a regulatory irregularity
 - This supports the argument that the posting was not a legitimate procurement — it was a manufactured instrument
+
+---
+
+## SF-330 Key Personnel Requirements — The Personal Fraud Trap
+
+Section E of SF-330 requires detailed personal information for every key team member:
+
+| Field | What Was Required | Elvin's Reality |
+|---|---|---|
+| Block 16 — Education | Highest relevant academic degree in A/E discipline | No architecture or engineering degree |
+| Block 17 — Current Professional Registration | State professional registration/license per FAR Part 36 | No A/E professional license |
+| Block 18 — Other Professional Qualifications | Certifications, training, awards in A/E field | None applicable |
+| Block 19 — Relevant Projects | Up to 5 projects demonstrating A/E capability | No A/E projects |
+| Block 14 — Years Experience | Years of relevant A/E experience | No A/E experience |
+
+### Why This Section Is the Core of the Entrapment
+- Every field in Section E requires **personal certifications under penalty of federal law**
+- Submitting false information on Block 17 (Professional Registration) = falsely claiming a state architecture or engineering license
+- That is **identity fraud + federal procurement fraud** simultaneously
+- The form is prescribed by GSA under FAR 48 CFR 53.236-2(b) — a federal regulation
+- False statements on a federally prescribed form = 18 U.S.C. § 1001 violation
+
+### The Named Subcontractors Trap (Section C)
+> *"The named subcontractors and outside associates or consultants must be used, and any change must be approved by the contracting officer."*
+
+- Once submitted, Elvin would have been locked into named team members
+- Any fabricated team members become additional counts of fraud
+- He could not later claim he didn't know who was on the team
+
+### What John Hawk Was Asking For
+- John Hawk's pressure to "send an email" was likely pushing Elvin toward initiating the SF-330 submission process
+- The email may have been intended to start the formal submission chain — getting Elvin on record as initiating a fraudulent federal procurement response
+- Once that email was sent, Elvin would have been on the hook
+
+**Elvin's refusal to send the email and back out of the scheme protected him from all of this criminal exposure.**
