@@ -43,6 +43,7 @@
 - Based solely on Jay's opinion, Elvin's probation was **extended by 3 months** — no independent performance assessment, no documented deficiency
 - Elvin was then given the opportunity to TD — and delivered
 - After proving himself, the probation issue was dropped with no further mention
+- **Probation ended: approximately May 2022**
 - He was then assigned to Audio on weekends — initially accepted as appropriate for a new hire, but the pattern never reversed
 
 **Legal significance:**
