@@ -16,7 +16,7 @@
 | **WETA scheduling group text thread** | Pattern of TD vs Audio assignments week by week | ✅ Screenshots taken |
 | **VOA Exceptional Award documentation** | Only employee in dept to win 3 consecutive years; supervisor-rated; monetary compensation | ✅ Available — back up now |
 | **Photos of surveillance vehicles (mid-April 2024)** | Federal vehicles near workplace + residence — coordinated surveillance operation | 🔴 CHECK PHONE NOW — search mid-April 2024 photos |
-| **Neighbor witness (surveillance vehicles)** | Independent corroboration of federal vehicles near residence mid-April 2024 | Talk to neighbors — get written statement if they remember |
+| **Video of 3rd floor lady (Jenkins Row)** | Objective timestamped evidence of coordinated social engineering behavior — only non-testimonial evidence of the Jenkins Row operation | 🔴 BACK UP IMMEDIATELY — email to Gmail, upload to cloud, do NOT trim or edit, preserve original metadata |
 | **Letter of recommendation from Jeff Reber** (former VOA supervisor) | Jeff Reber speaks of Elvin with great care — directly contradicts any performance or conduct defense; voluntary unprompted statement from supervisor | ✅ Have — photograph and back up NOW |
 
 

@@ -53,7 +53,7 @@ Multiple residents at Jenkins Row participated in what appeared to be a coordina
 | Neighbor 1 | Lawyer, former Jenkins Row board member, Elvin's floor | "It's being finalized to pass in a few hours" — real-time congressional contract knowledge |
 | Neighbor 2 | Lawyer, was on Jenkins Row board at the time (no longer) | Involved in social engineering — specific interactions TBD |
 | A couple | Floor TBD | Referenced "CSS" or some sort of financial agency — coordinated, confusing |
-| Lady, 3rd floor | 3rd floor resident | Pointing at things — ambiguous, disorienting behavior |
+| Lady, 3rd floor | 3rd floor resident — **still living at Jenkins Row** | Pointing at things — ambiguous, disorienting behavior. **ELVIN HAS VIDEO OF HER DOING THIS** — back up immediately, preserve original file with metadata |
 
 ### Nature of the Social Engineering
 - Behavior across multiple residents was **coordinated** — different people, similar timing and purpose
