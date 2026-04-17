@@ -104,7 +104,22 @@ Elvin is not a licensed architect or engineer. Any submission claiming those cre
 
 ---
 
-## Contract Dates & Timeline
+## How Elvin Became Aware of This Contract
+
+**Elvin did not find this contract. It was engineered into his awareness.**
+
+- At the time, Elvin was **gainfully employed at two jobs earning $200,000/year combined**
+- He had no reason to search for federal procurement contracts — he was not looking for new work
+- Awareness of the contract was manufactured through coordinated social engineering:
+  - USAGM contract posting referenced within his earshot at VOA (conference room "white paper" incident)
+  - Neighbor on his floor with real-time congressional approval knowledge
+  - John Hawk (building manager) pressuring him to send emails in connection with it
+  - Multiple Jenkins Row residents making references to financial agencies and contracts
+- He only learned the full details of the scheme **after the fact**
+- A happily employed person earning $200K does not spontaneously pursue a federal A/E contract requiring 14 licensed professional disciplines they don't have
+- The awareness was manufactured. The urgency was manufactured. The pressure was applied from multiple coordinated directions simultaneously.
+
+**This is the definition of an engineered entrapment — not a voluntary pursuit.**
 
 ### Posting Dates
 - **Reposted: June 5–6, 2024**
