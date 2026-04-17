@@ -39,7 +39,7 @@ of the ringleaders of the coordinated hostile environment targeting Elvin.
 | **12/27/2023** | Elvin resigns from IBEW union — morning |
 | **12/29/2023** | Brian tells Elvin "Geoff will reach out" — union coordinated response |
 | Jan 2024 | Brian harassment continues post-resignation — was not about union leverage |
-| **Late April 2024** | Jim Schnider email sent — Tom (audio) waiting in parking lot same day with a smile, knew in advance |
+| **Late April 2024** | Jim Schnider email sent — Tom Satterfield (audio) waiting in parking lot same day with a smile, knew in advance |
 
 ---
 
@@ -98,7 +98,7 @@ The hostile environment came from multiple simultaneous directions:
 | Union | Brian (head + TD) | Stalking, intimidation, ringleader |
 | Union | Geoff | Coordinated post-resignation response |
 | Operations | Nikki | Discriminatory scheduling (separate thread) |
-| Staff | Tom (audio) | Foreknowledge of Schnider email — parking lot |
+| Staff | Tom Satterfield (audio) | Foreknowledge of Schnider email — parking lot |
 | Staff | Brian, Steve, Jay (TDs) | Beneficiaries of discriminatory scheduling |
 | **Cross-employer link** | **Anthony DeRubio's cousin (VOA)** | **Information bridge between WETA and USAGM — see below** |
 
@@ -146,7 +146,7 @@ DeRubio is not just a comparator — he may be a participant in the coordination
 | Cross-employer | **Joe Usher (VOA)** | **DeRubio's cousin at VOA — information bridge; believed to have provided information that contributed to Elvin's targeting** | ⚠️ Active participant — needs development |
 | Staff | Anthony DeRubio (WETA) | Comparator; family connection to VOA via Joe Usher | Needs development |
 | Operations | Nikki (WETA) | Discriminatory scheduling | Direct |
-| Staff | Tom (audio, WETA) | Foreknowledge of Schnider email | Direct |
+| Staff | Tom Satterfield (audio, WETA) | Foreknowledge of Schnider email | Direct |
 
 ---
 
@@ -162,7 +162,7 @@ DeRubio is not just a comparator — he may be a participant in the coordination
 - Joe Usher worked at VOA and had access to Elvin's schedule and assignments
 - He is believed to have shared Elvin's **schedule and assignment information** with his cousin Anthony DeRubio at WETA
 - Elvin's schedule and assignment details in DeRubio's hands at WETA would have given the hostile environment network advance knowledge of Elvin's movements, workload, and professional standing at VOA
-- This is consistent with the coordinated nature of the WETA targeting — Brian waiting at the entrance, Tom in the parking lot, Schnider's email timing
+- This is consistent with the coordinated nature of the WETA targeting — Brian waiting at the entrance, Tom Satterfield in the parking lot, Schnider's email timing
 - Assignment information specifically would have revealed Elvin's seniority, the quality of work he was doing at VOA, and his value to the organization — directly fueling the jealousy and resentment documented at WETA
 
 ### What Is Not Yet Known

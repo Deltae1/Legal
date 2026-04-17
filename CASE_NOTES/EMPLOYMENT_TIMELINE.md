@@ -62,7 +62,7 @@
 
 - **January 2024** — Elvin leaves IBEW union due to harassment by union head Brian (TD)
 - **Late April 2024** — Jim Schnider sends email about Heather's promotion, signaling change in Elvin's standing
-  - Same day: Tom (audio staff) waiting in parking lot with a smile — knew about the email before or simultaneously with Elvin — proves coordinated foreknowledge
+  - Same day: Tom Satterfield (audio staff) waiting in parking lot with a smile — knew about the email before or simultaneously with Elvin — proves coordinated foreknowledge
 - Following the email: colleagues exhibited antagonistic behavior, deliberate interference with Elvin's work, social isolation and exclusion
 
 **Evidence:**
