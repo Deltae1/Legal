@@ -65,11 +65,11 @@ Government actors used employment relationship to coerce you into a sting operat
 Courts require more than personal observation of surveillance. You need at least one independent witness who can say "yes, I observed unusual activity focused on this person." 
 
 **Your best corroboration sources:**
-- **Jenkins Row building manager (Ashley)** — you said she noted strange things. Get a written statement from her immediately. This is your most accessible third-party witness for the ongoing surveillance claim.
+- **Jenkins Row building manager (Ashley)** — ⚠️ **DO NOT APPROACH.** Elvin believes Ashley was involved in the social engineering operation, not merely a passive observer. Approaching her risks alerting other participants and causing her to prepare a defense before Elvin has legal representation. She is a **deposition target**, not a friendly witness. Obtain her account through litigation discovery: depose her under oath, subpoena Jenkins Row building records, access logs, and any communications with outside parties referencing Elvin.
 - **The Roost staff** — same. If they noticed unusual activity, a written statement now before memories fade.
 - **CCTV from locations** — subpoenable if you file suit, but footage retention varies (typically 30-90 days). For ongoing surveillance at Jenkins Row, this may still be available if requested now.
 
-**Action:** Talk to Ashley at Jenkins Row today. Ask her to document in writing what she observed and when. Don't tell her why — just ask her to write down what she noticed. That statement becomes evidence.
+**Action:** ⚠️ Do NOT approach Ashley. She is a deposition target — let discovery handle her. Focus on other corroboration sources (The Roost staff, CCTV requests, bank records).
 
 ---
 
