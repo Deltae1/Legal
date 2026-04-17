@@ -152,9 +152,17 @@ This is a documented pattern of targeted physical surveillance and intimidation.
 
 #### "Geoff Will Reach Out" — 12/29
 - Brian tells Elvin "Geoff will reach out"
-- Who is Geoff? This needs clarification
-- Brian acting as intermediary between Elvin and a third party named Geoff
-- Suggests Brian had a coordination role beyond just personal harassment
+- **Geoff = union colleague of Brian's at WETA — IBEW**
+- Brian acting as intermediary between Elvin and Geoff (fellow union member)
+- Context: this was two days after Elvin resigned from the union (12/27)
+- **This is significant:** Brian telling Elvin a union colleague will reach out,
+  immediately after Elvin's resignation, suggests the union was attempting to
+  re-engage or pressure Elvin after his departure
+- Geoff's outreach (if it happened) or failure to follow through are both relevant:
+  - If Geoff reached out: what did he say? What was the purpose?
+  - If Geoff never reached out: Brian's statement was manipulative — keeping Elvin
+    in limbo about his union status
+- **Action:** Document whether Geoff ever contacted Elvin and what was said
 
 #### Resignation from Union — 12/27
 - Elvin resigned from the union on the morning of December 27
