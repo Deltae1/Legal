@@ -223,3 +223,26 @@ This USAGM A/E Services IDIQ contract:
 8. Elvin recognized the trap, submitted only what was within his legitimate qualifications, and backed out
 
 **This contract was the instrument of a coordinated entrapment scheme involving federal officials, a building manager, building board members, and multiple residents — all designed to manufacture federal fraud charges against Elvin Sangano.**
+
+---
+
+## Second Contract — RFP No. 951700-24-R-0028
+
+### What Happened
+- After Elvin did not submit on the first contract, a **second contract was posted**
+- This second posting involved the **USAGM Office of Contracts**
+- It referenced a **white paper** — directly connecting to the conference room incident at VOA where contracts staff convened near Elvin's break area and referenced contract opportunities within his earshot
+- **RFP No. 951700-24-R-0028** — this is the official solicitation number, searchable on SAM.gov
+
+### Legal Significance
+- A second contract posted after the first attempt failed = escalating, targeted pressure
+- The white paper reference connects the VOA workplace incident to the Jenkins Row pressure campaign — same operation, multiple fronts
+- The Office of Contracts involvement means there is a paper trail at USAGM's contracting office for both postings
+- RFP No. 951700-24-R-0028 is a public record — pull it from SAM.gov immediately to confirm details
+- Both contracts together = a pattern of using federal procurement instruments to manufacture entrapment opportunities targeting Elvin specifically
+
+### Action Items
+- Search SAM.gov for RFP No. 951700-24-R-0028 — pull full posting, screenshot everything
+- FOIA USAGM Office of Contracts for all records related to RFP No. 951700-24-R-0028 and the preceding A/E IDIQ posting
+- Confirm: was the white paper document referenced in the RFP the same one used in the VOA conference room incident?
+- Attorney to subpoena all USAGM contracting officer communications related to both postings
