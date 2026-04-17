@@ -32,16 +32,22 @@ Elvin Sangano is a Black broadcast technology professional who:
 
 | Claim | Basis | Key Evidence |
 |---|---|---|
-| Race discrimination | Title VII — Black employee, white comparators retained/recalled | WETA scheduling records, comparator employees |
+| **Fifth Amendment due process** | U.S. Constitution / Bivens — no notice, no hearing, no process before termination on illegal basis | Termination letter, court ruling, FOIA records |
+| **First Amendment retaliation** | U.S. Constitution / Bivens — terminated for refusing unlawful CI scheme and whistleblowing | CI meeting records, termination letter, VOA sabotage emails |
+| **Equal protection (federal)** | Fifth Amendment / Bivens — selective non-recall based on race; CI targeting while white colleagues not targeted | Recall records, comparator evidence |
+| **Civil rights conspiracy** | 42 U.S.C. § 1985 — coordinated campaign across USAGM + WETA to deprive Elvin of civil rights based on race | Full pattern: CI + contract scheme + WETA mobbing + T4C + lockout |
+| Race discrimination | Title VII + DCHRA — Black Rwandan immigrant, youngest TD; two years discriminatory assignments; comparator DeRubio reinstated | WETA scheduling records, comparator employees |
 | Union duty of fair representation | NLRA — IBEW union head Brian Smith harassed Elvin, breached DFR | Union communications, witness testimony — **check 6-month NLRB deadline** |
-| Hostile work environment | Title VII — sustained, severe conduct at both WETA and VOA | Scheduling texts, sabotage records, CI pressure |
+| Hostile work environment | Title VII + DCHRA — sustained, severe conduct at both WETA and VOA | Scheduling texts, sabotage records, CI pressure |
 | ADA retaliation | Reasonable accommodation approved → terminated | Accommodation approval letter |
 | FMLA retaliation | FMLA approved → terminated | FMLA approval documentation |
-| Whistleblower retaliation | Refused CI cooperation → terminated | Termination letter, CI meeting records |
+| Whistleblower retaliation | WPA — refused CI cooperation → terminated | Termination letter, CI meeting records |
 | Pretextual termination | DOGE cuts ruled illegal — T4C basis void | Court ruling, termination letter |
 | Selective non-recall | Others recalled, Elvin excluded — no legitimate basis | Public record, witness testimony |
-| Bivens claim | Federal officials coerced civilian using federal contract instrument | CI meeting records, SAM submission, contract documents |
+| Bivens (individual liability) | Federal officials personally liable for constitutional violations | CI meeting records, SAM submission, contract documents |
 | FAR T4C settlement | Settlement costs owed under FAR 49.1 — never paid | Termination letter, contract records |
+
+**See:** `CASE_NOTES/CIVIL_RIGHTS_DUE_PROCESS.md` for full constitutional and civil rights analysis
 
 ---
 
