@@ -274,6 +274,8 @@ Do NOT send via SMS, WhatsApp, Snapchat, or Instagram.
 4. `PATTERN_TRACKER.md` — actors, vehicles, signals, connections
 5. `VIDEO_EVIDENCE_LOG.md` — footage/photo catalog
 6. `DOCUMENTATION_SYSTEM.md` — system guide
+7. `GAPS_AND_CONNECTIONS.md` — living document: gaps, open questions,
+   confirmed/plausible/speculative connections, tactical pattern library
 
 ---
 
