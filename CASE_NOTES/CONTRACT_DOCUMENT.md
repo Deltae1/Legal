@@ -148,3 +148,46 @@ To respond legitimately, Elvin would have needed to assemble and certify a **14-
 - Strategic vision for constrained international sites
 
 **Bottom line:** This contract required an entire licensed architecture and engineering firm with 14 professional disciplines, constructed project portfolios, overseas experience, and U.S. licensure across every discipline. Presenting it to Elvin — a broadcast TD — as an opportunity he should pursue was deliberate entrapment. The only path to submission was fraud.
+
+---
+
+## Final Sections — Additional Requirements & Notable Details
+
+### Documents & Standards (5 points)
+- 3 recent examples of prior project documentation built within last 10 years
+- Specific metrics: RFIs, change orders, schedule performance, cost estimates vs. actual
+- Quality control procedures documentation
+- Again — requires a functioning A/E firm with a project history
+
+### Short List & Presentations (25 points)
+- Short-listed firms invited to make formal presentations
+- Topics: overarching approach, design innovations, technically complex building types, modular construction, approval process navigation
+- Specific questions provided in advance
+- Combined scores determine who enters contract negotiations
+
+### Prohibited Countries List — SIGNIFICANT DETAIL
+> *"Citizens of Vietnam and China and dual U.S. Vietnamese and dual U.S. Chinese citizens may not be the Lead Designer or a Principal."*
+> *"Copy of the Prohibited Countries List, from which Offerors may not choose design team members, can be obtained from the Contracting Officer."*
+
+**Legal significance:**
+- The contract contains national security/citizenship restrictions on key personnel
+- This connects the contract directly to USAGM's national security and intelligence mission
+- The prohibited countries list + citizenship restrictions = this is not a routine construction contract; it has intelligence/security dimensions baked in
+- Combined with the CI recruitment, the Security Director's involvement, and the congressional timing — this contract was operating in a national security context
+- Elvin — as a Black American being pressured to submit to a national-security-adjacent federal contract — was being used as a tool in an operation with intelligence dimensions far beyond a simple procurement
+
+---
+
+## Contract Summary — The Complete Picture
+
+This USAGM A/E Services IDIQ contract:
+1. Required a 14-discipline licensed architecture firm (impossible for Elvin)
+2. Was SAM-registered with congressional approval language
+3. Contained national security citizenship restrictions — intelligence dimensions
+4. Was presented to Elvin simultaneously from multiple directions (VOA, Jenkins Row, neighbors)
+5. Was timed to a congressional approval window ("finalized to pass in a few hours")
+6. Required submission of fraudulent professional credentials to respond
+7. Was used by John Hawk to pressure Elvin into sending unspecified documents
+8. Elvin recognized the trap, submitted only what was within his legitimate qualifications, and backed out
+
+**This contract was the instrument of a coordinated entrapment scheme involving federal officials, a building manager, building board members, and multiple residents — all designed to manufacture federal fraud charges against Elvin Sangano.**
