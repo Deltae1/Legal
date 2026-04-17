@@ -155,37 +155,43 @@ DeRubio is not just a comparator — he may be a participant in the coordination
 **Name:** Joe Usher
 **Employer:** VOA (Voice of America / USAGM)
 **Relationship:** Cousin of Anthony DeRubio (WETA)
-**Role in case:** Believed to have provided information about Elvin that contributed to his targeting
+**Known conduct:** Believed to have provided Elvin's **schedule information** to DeRubio
+**Level of involvement:** Unknown beyond schedule disclosure — do not over-attribute at this stage
 
-### What This Means
+### What Is Known
+- Joe Usher worked at VOA and had access to Elvin's schedule
+- He is believed to have shared Elvin's schedule with his cousin Anthony DeRubio at WETA
+- Elvin's schedule information in DeRubio's hands at WETA would have given the hostile environment network advance knowledge of Elvin's movements and availability
+- This is consistent with the coordinated nature of the WETA targeting — Brian waiting at the entrance, Tom in the parking lot, Schnider's email timing
 
-Joe Usher sits at the intersection of both employers:
-- Family connection to DeRubio at WETA = direct link into the WETA hostile environment
-- Employed at VOA = inside access to information about Elvin's standing, work, ratings, and activities at USAGM
-- Believed to have actively provided information — not merely a passive conduit
+### What Is Not Yet Known
+- Whether Usher's involvement went beyond sharing schedule information
+- Whether Usher had any contact with USAGM Security personnel
+- Whether the schedule sharing was deliberate targeting or casual family conversation that was then weaponized by DeRubio
+- Usher's exact role and seniority at VOA
 
-If Joe Usher shared information about Elvin's USAGM work with DeRubio, and that
-information was then used to coordinate the WETA hostile environment, Usher is
-not a bystander — he is a participant in the targeting campaign.
+### Why Schedule Information Matters
+Knowing Elvin's schedule at VOA gave WETA actors:
+- Advance knowledge of when he would and would not be at WETA
+- Ability to time incidents around his presence or absence
+- Visibility into his dual-employment pattern — confirming he was thriving at both places
+- Potentially his physical location and movements on any given day
+
+This is the minimum harmful use of the information. Whether it was used for more
+is a question for discovery.
 
 ### What to Establish in Discovery
-- Joe Usher's exact role and email at VOA — VOA staff directory, FOIA, or discovery
-- Any communications between Joe Usher and Anthony DeRubio referencing Elvin
-- Any communications between Joe Usher and WETA personnel (Brian, Schnider, Tom)
-- Any communications between Joe Usher and USAGM Security personnel
-- What information Usher had access to at VOA — did his role give him visibility into Elvin's personnel file, ratings, assignments, or security status?
-- Timeline: when did Usher begin providing information, and to whom?
+- Joe Usher's exact role and email at VOA
+- Whether Usher had access to scheduling systems or personnel calendars
+- Any communications between Usher and DeRubio referencing Elvin's name, schedule, or employment
+- Timeline of when schedule information was shared — does it correlate with specific incidents?
+- Whether anyone at VOA or USAGM Security directed Usher to share information
 
 ### Legal Significance
-- If Usher shared personnel information he had access to through his VOA employment,
-  that may constitute an unauthorized disclosure of personnel records
-- If Usher coordinated with USAGM Security as part of the targeting operation,
-  he may be a named defendant in a Bivens claim
-- His family connection to the key racial comparator (DeRubio) makes him a
-  critical deposition witness — his testimony could establish the coordination
-  link between the two hostile environments
-- USAGM email servers will contain any internal communications involving Usher —
-  FOIA request should specifically name Joe Usher
+- Schedule disclosure to a hostile party at a second employer = potential unauthorized personnel disclosure
+- If the timing of WETA incidents correlates with Elvin's VOA schedule — that correlation is itself evidence of coordination
+- Usher is a deposition witness — his testimony establishes the information flow between the two workplaces
+- USAGM email and scheduling systems will show what Usher had access to — FOIA and discovery priority
 
 ---
 
