@@ -112,3 +112,39 @@ Elvin is not a licensed architect or engineer. Any submission claiming those cre
 
 ---
 *Updated 2026-04-17 by Mamba 🐍 — Not legal advice*
+
+---
+
+## Additional Submission Requirements (Full Contract Text)
+
+### Lead Designer Philosophy (10 points)
+- Required: Written design philosophy for public architecture and overseas IBB presence
+- Required: Commitment to integrated and sustainable design
+- Not applicable to a broadcast technical director
+
+### Key Personnel — 14 Core Team Disciplines Required (15 points)
+Each requiring licensed professionals, past performance on constructed projects, U.S. licensure:
+1. Site and Master Planning
+2. Architecture
+3. Landscape Architecture
+4. Space Planning and Interior Design
+5. Mechanical Engineering
+6. Civil Engineering
+7. Structural Engineering
+8. Geotechnical Engineering
+9. Electrical Engineering
+10. Sustainability
+11. Physical and Technical Security
+12. Project Management
+13. Cost
+14. Pre-Construction Management with Construction Phasing
+
+To respond legitimately, Elvin would have needed to assemble and certify a **14-discipline licensed A/E firm** — an impossibility for a broadcast technical director. Any fabrication across these 14 disciplines would have constituted fraud on a massive scale.
+
+### Team Organization & Management Plan (10 points)
+- Organizational chart showing all 14 disciplines
+- Quality assurance plan
+- Capacity for multiple simultaneous overseas projects
+- Strategic vision for constrained international sites
+
+**Bottom line:** This contract required an entire licensed architecture and engineering firm with 14 professional disciplines, constructed project portfolios, overseas experience, and U.S. licensure across every discipline. Presenting it to Elvin — a broadcast TD — as an opportunity he should pursue was deliberate entrapment. The only path to submission was fraud.
