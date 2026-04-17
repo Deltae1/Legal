@@ -27,7 +27,7 @@ discrimination from the first day of employment to the final lockout.
 | Characteristic | Detail | Legal Significance |
 |---|---|---|
 | **Race** | Black | Protected class — Title VII + DCHRA |
-| **National origin** | Immigrant | Protected class — Title VII + DCHRA; additional basis for discrimination |
+| **National origin** | Rwandan immigrant | Protected class — Title VII + DCHRA; additional basis for discrimination |
 | **Age** | Youngest TD in the department | Protected class (if age differential is significant) — ADEA + DCHRA |
 | **Performance** | No documented on-air errors; clean record throughout | Destroys any performance pretext |
 | **Standing at VOA** | Lead TD, Rating 4 (Exceptional) two years running, $200k combined | Established his capability — known to WETA via Joe Usher/DeRubio pipeline |
@@ -65,9 +65,9 @@ An attorney may argue all three characteristics together as the basis for target
 - First adverse employment action — occurred before Elvin had any opportunity to establish himself
 - Jay Naval had zero authority to evaluate Elvin; he was a lateral peer
 - Management (Heather + Schnider) accepted a white peer's subjective, unsubstantiated opinion over their own direct observation of a Black employee
-- Elvin was also the **youngest TD** and an **immigrant** — a new employee from a different background being evaluated by an established white peer who had every incentive to protect his own position
+- Elvin was also the **youngest TD** and a **Rwandan immigrant** — a new employee from a different background being evaluated by an established white peer who had every incentive to protect his own position
 - The probation extension was based on race and bias, not performance
-- Pattern established from day one: white peer input shapes management decisions about Black, immigrant, younger employee
+- Pattern established from day one: white peer input shapes management decisions about Black, Rwandan immigrant, younger employee
 
 **Key actors:**
 | Name | Role | Conduct |
