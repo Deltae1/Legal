@@ -77,13 +77,14 @@ Brian was not merely a union official who happened to harass Elvin. He was:
 | Person | Role | Conduct |
 |---|---|---|
 | Jim Schnider | Director of Operations | Sent triggering email; created hostile atmosphere |
-| Brian | IBEW union head | Ringleader; harassed Elvin out of union protection |
+| Brian | IBEW union head AND Technical Director (TD) | Ringleader; harassed Elvin out of union protection; also a white TD who received preferential TD assignments over Elvin — dual role confirmed |
 | Tom | Audio staff | Waiting in parking lot day of Schnider email — knew in advance |
-| Nikki | Scheduling coordinator | Systematic discriminatory TD vs. audio assignments |
-| Audio staff generally | Department | Received preferential assignments; part of network |
-| White TDs (Brian, Steve, Jay) | Technical Directors | Received TD work while Elvin assigned to audio |
+| Nikki | Scheduling coordinator | Systematic discriminatory TD vs. audio assignments — **separate from Brian's conduct** |
+| White TDs (Steve, Jay + Brian above) | Technical Directors | Received TD work while Elvin assigned to audio |
 
-**This is not a list of isolated bad actors. This is an organized group.**
+**Note:** Brian's harassment of Elvin was direct personal conduct — not related to scheduling.
+Scheduling discrimination was Nikki's domain and is a separate thread of evidence.
+Brian's role is: union head + TD + ringleader of personal harassment campaign.
 
 ---
 
