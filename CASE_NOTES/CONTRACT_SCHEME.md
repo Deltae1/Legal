@@ -111,6 +111,20 @@ Multiple residents at Jenkins Row participated in what appeared to be a coordina
 | Neighbor 1 | Lawyer, former board member, Elvin's floor | Inside congressional contract knowledge |
 | Neighbor 2 | Lawyer, was on board at the time | Social engineering participant |
 
+### Front Desk Staff — Confirmed Involved
+- Jenkins Row front desk staff have **definite knowledge of the operation**
+- They were active participants in the social engineering campaign targeting Elvin
+- Their position gave them: daily visibility of Elvin's comings and goings, ability to facilitate access control, and the ability to coordinate with building management and residents
+- **Action:** Identify names of front desk staff during the May–June 2024 period — building records, any written communications, personal recollection
+- Front desk staff are potential deposition witnesses — their testimony about what they were told and by whom would be significant
+
+### Custodial Staff — Confirmed Involved
+- Jenkins Row custodians also have **definite knowledge of the operation**
+- They were involved in the social engineering targeting Elvin
+- Their access included: all common areas, hallways, floors, trash/laundry areas, mechanical spaces — places where surveillance and environmental pressure tactics could be applied
+- **Action:** Identify names of custodial staff working during May–June 2024
+- Custodians with knowledge of an operation against a tenant are witnesses — some may be willing to speak once no longer under any instruction to stay silent
+
 ## Broader Operation — Sting / Resident Notification
 
 ### What Sources Indicate
