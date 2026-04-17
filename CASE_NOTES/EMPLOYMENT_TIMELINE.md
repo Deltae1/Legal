@@ -36,11 +36,11 @@
 - Role: Technical Director
 - Subject to standard probationary period on hiring
 
-### Early 2022 — Probation Period + Jay's Interference
-**Key individuals:** Jay (white TD), Heather (Tech Production Manager), Jim Schnider (Dir of Operations)
+### Early 2022 — Probation Period + Jay Naval's Interference
+**Key individuals:** Jay Naval (white TD), Heather (Tech Production Manager), Jim Schnider (Dir of Operations)
 
-- **During probation:** Jay — a white TD peer with no supervisory authority over Elvin — told Heather and Jim Schnider that Elvin was "not a good enough TD"
-- Based solely on Jay's opinion, Elvin's probation was **extended by 3 months** — no independent performance assessment, no documented deficiency
+- **During probation:** Jay Naval — a white TD peer with no supervisory authority over Elvin — told Heather and Jim Schnider that Elvin was "not a good enough TD"
+- Based solely on Jay Naval's opinion, Elvin's probation was **extended by 3 months** — no independent performance assessment, no documented deficiency
 - Elvin was then given the opportunity to TD — and delivered
 - After proving himself, the probation issue was dropped with no further mention
 - **Probation ended: approximately May 2022**
@@ -48,12 +48,12 @@
 
 **Legal significance:**
 - Discrimination began on day one — not as a response to anything Elvin did, but as the default
-- Jay had no authority to evaluate Elvin; management accepted a white peer's subjective opinion over direct observation of a Black employee
+- Jay Naval had no authority to evaluate Elvin; management accepted a white peer's subjective opinion over direct observation of a Black employee
 - The probation extension was the first documented adverse employment action at WETA
-- Jay is both a comparator (received TD work Elvin was denied) and a bad actor (interfered with Elvin's probation)
+- Jay Naval is both a comparator (received TD work Elvin was denied) and a bad actor (interfered with Elvin's probation)
 
 ### 2022–2024 — Two Years of Discriminatory Scheduling
-- Consistent pattern: Elvin assigned to Audio; white TDs (Brian, Steve, Jay) assigned to TD work
+- Consistent pattern: Elvin assigned to Audio; white TDs (Brian, Steve, Jay Naval) assigned to TD work
 - All assignments documented in writing via Nikki's scheduling emails
 - Elvin raised the issue; pattern did not change
 
@@ -162,7 +162,7 @@ Upon return, Elvin experienced:
 | Nov 2020 | Hired at VOA/USAGM as PSC Lead TD — built ROTV from launch | Baseline — establishes role and value |
 | 2021–2022 | Exceptional performance, Rating 4 two years running | Baseline — establishes no legitimate performance issue |
 | **Feb 14, 2022** | **Started at WETA — probation period begins** | — |
-| **Early 2022** | **Jay (white TD peer) tells Heather + Schnider Elvin is "not good enough TD" — probation extended 3 months** | **First adverse action — discriminatory from day one** |
+| **Early 2022** | **Jay Naval (white TD peer) tells Heather + Schnider Elvin is "not good enough TD" — probation extended 3 months** | **First adverse action — discriminatory from day one** |
 | **2022–2024** | **Two years: Audio assignments for Elvin; TD assignments for white TDs** | **Discriminatory job assignment — Title VII + DCHRA** |
 | Early 2024 | Hostile work environment at WETA escalates + VOA sabotage | Race discrimination, hostile work environment |
 | May 2024 | CI pressure campaign, contract scheme | Coercion, fraud in the inducement, Bivens |
