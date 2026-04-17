@@ -111,12 +111,32 @@ Multiple residents at Jenkins Row participated in what appeared to be a coordina
 | Neighbor 1 | Lawyer, former board member, Elvin's floor | Inside congressional contract knowledge |
 | Neighbor 2 | Lawyer, was on board at the time | Social engineering participant |
 
+## Broader Operation — Sting / Resident Notification
+
+### What Sources Indicate
+- According to Elvin's sources, the targeting at Jenkins Row may have been part of a **formal sting operation**
+- Other residents were likely **informed via email** — a building-wide or floor-wide communication briefing them on an "ongoing operation"
+- This explains the coordinated behavior from multiple unconnected residents (lawyers, couple, 3rd floor lady) — they were briefed, not independently recruited
+- Residents may have been told something like "there is an ongoing law enforcement operation — please be aware" — causing ordinary people to behave oddly around Elvin without fully understanding they were participating in targeting him
+- The **current Jenkins Row board is aware** of the operation — institutional knowledge is ongoing, not historical
+
 ### Legal Significance
-- Building management transition timed with federal operation = potential coordination between federal officials and private building management/board
-- If John was installed as building manager to facilitate the operation, that is a private civilian being recruited into a federal targeting campaign against a tenant
-- Brian's abrupt departure warrants investigation — did he leave voluntarily or was he pressured out?
-- Management company's involvement opens potential civil claims against the company directly
-- Ashley's knowledge of the Brian → John transition and what changed is critical testimony
+- If residents were officially notified of a sting operation targeting Elvin without his knowledge or consent, that is a due process violation
+- Elvin was never informed he was the subject of a sting — he had no opportunity to seek legal counsel before the operation began affecting his daily life
+- A building-wide email briefing residents about an operation targeting a specific tenant = that email exists on the management company's servers and is **directly FOIAable if any federal agency was involved in sending or authorizing it**
+- The current board's ongoing awareness makes them active participants, not passive historical witnesses
+- This supports a Bivens claim — federal officials using private civilians and a private building's infrastructure to conduct an undisclosed operation against a civilian
+
+### Evidence to Pursue
+- Jenkins Row management company email servers — any building-wide communications referencing law enforcement operations or Elvin Sangano (litigation discovery)
+- Current board members — identifiable through building records; their knowledge of the operation makes them witnesses
+- Ashley — as building manager, she may have received or been aware of the resident notification email
+- Any resident who received the notification email and is willing to speak
+
+### Approach
+- **Do not confront current board members directly** — let attorney handle
+- Ashley remains the safest first contact — she is staff, not board, and has no board loyalty
+- When speaking to Ashley, ask open questions — don't mention the sting theory directly; let her volunteer what she knows
 
 ---
 
