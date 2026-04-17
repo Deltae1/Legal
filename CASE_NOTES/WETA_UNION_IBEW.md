@@ -47,7 +47,7 @@ of the ringleaders of the coordinated hostile environment targeting Elvin.
 
 ### 1. Brian's Dual Role — Union Head AND TD
 
-Brian [LN unknown] was not merely a union official who happened to harass Elvin. He was:
+Brian Smith was not merely a union official who happened to harass Elvin. He was:
 - **IBEW union head** — the person whose job was to protect Elvin
 - **Technical Director** — received preferential TD assignments over Elvin
 - **Ringleader** of the coordinated hostile environment at WETA

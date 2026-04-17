@@ -12,7 +12,7 @@ The WETA hostile work environment and the USAGM CI pressure campaign are not two
 separate cases. They are one coordinated operation:
 
 - USAGM used social engineering and a CI recruitment scheme to pressure Elvin
-- WETA's coordinated mobbing (Brian [LN unknown], Tom, Schnider) served as the isolation and
+- WETA's coordinated mobbing (Brian Smith, Tom, Schnider) served as the isolation and
   enforcement arm of that pressure — cutting off Elvin's professional standing
   while financial demands escalated at USAGM
 - Both culminated in the same outcome: constructive discharge, hospitalization, termination
